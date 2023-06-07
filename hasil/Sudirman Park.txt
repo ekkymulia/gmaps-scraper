@@ -1,0 +1,209 @@
+Sudirman Park
+
+sudirman_park
+
+Kordinat: -6.205393399999999,106.816969
+
+Kav.35, Sudirman Park, Jl. K.H. Mas Mansyur No.11, RT.12/RW.11, Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250, Indonesia
+
+===================
+
+hospital:
+
+RS Murni Teguh Sudirman Jakarta (MTSJ) - 4 - 209 review (687 m)lokasi: -6.209539800000001,106.8194704
+Rumah Sakit TNI Angkatan Laut Dr. Mintohardjo - 3.6 - 520 review (3.1 km)lokasi: -6.21092,106.81201
+
+
+shopping_mall:
+
+Citywalk Sudirman - 4.4 - 20704 review (560 m)lokasi: -6.2088205,106.818045
+Thamrin City - 4.4 - 30160 review (3.2 km)lokasi: -6.193937399999999,106.8161005
+Teras Benhil - 4.3 - 2124 review (3.6 km)lokasi: -6.214242200000001,106.8148686
+West Mall Grand Indonesia. - 4.7 - 22199 review (2.8 km)lokasi: -6.194603799999999,106.8193678
+
+
+supermarket:
+
+The FoodHall - Grand Indonesia - 4.6 - 1431 review (3.1 km)lokasi: -6.195446399999999,106.8197669
+Hypermart Thamrin City - 4.1 - 734 review (3.0 km)lokasi: -6.194736799999998,106.8174727
+Ranch Market Grand Indonesia - 4.6 - 1480 review (2.7 km)lokasi: -6.1951623,106.8214035
+
+
+university:
+
+LSPR Institute of Communication & Business - 4.6 - 511 review (146 m)lokasi: -6.205181199999998,106.8179189
+
+
+school:
+
+SMA Negeri 35 Jakarta Pusat - 4.6 - 126 review (2.0 km)lokasi: -6.2090479,106.8139722
+SMP Negeri 40 Jakarta - 4.5 - 112 review (3.0 km)lokasi: -6.2081594,106.8076688
+
+
+===================
+
+Rasto di Mall Citywalk Sudirman:
+
+HOKKAIDO IZAKAYA - 4.5 - 1264 reviewlokasi: -6.208183699999999,106.8179917
+La Posta- Taste Of Argentina - 4.6 - 853 reviewlokasi: -6.2081189,106.8188194
+JimBARan Outdoor Lounge - 4.6 - 824 reviewlokasi: -6.2087422,106.8196047
+Sushi Tei CS - 4.6 - 777 reviewlokasi: -6.2091736,106.818165
+Harum Manis - 4.5 - 694 reviewlokasi: -6.20763,106.8178845
+
+
+Rasto di Mall Thamrin City:
+
+Tokyo Belly - Grand Indonesia - 4.2 - 1316 reviewlokasi: -6.194802999999999,106.8195535
+Burger King Thamrin City - 4.5 - 922 reviewlokasi: -6.195508200000001,106.817697
+D'Cost Seafood - Thamrin Terrace - 4.1 - 776 reviewlokasi: -6.194753,106.817529
+Bakso Sehat Bakso Atom Thamrin City - 4.2 - 716 reviewlokasi: -6.1935033,106.8159218
+Pepper Lunch Grand Indonesia - 4.6 - 659 reviewlokasi: -6.1950957,106.8196004
+
+
+Rasto di Mall Teras Benhil:
+
+McDonald's Plaza Sentral - 4.5 - 4828 reviewlokasi: -6.217516699999999,106.8165142
+Pizza Hut Restoran - 4.5 - 2804 reviewlokasi: -6.212587999999999,106.8122378
+Rumah Makan Aceh Seulawah - 4.2 - 1890 reviewlokasi: -6.210839699999998,106.8125076
+Kembang Goela Restaurant - 4.5 - 1757 reviewlokasi: -6.2171859,106.81624
+Ganesha Ek Sanskriti BRI Jakarta - 4.4 - 1035 reviewlokasi: -6.2164649,106.8139115
+
+
+Rasto di Mall West Mall Grand Indonesia.:
+
+SKYE Bar & Restaurant - 4.6 - 4427 reviewlokasi: -6.196727999999999,106.822582
+Shaburi Grand Indonesia - 4.9 - 3284 reviewlokasi: -6.195041199999999,106.8199157
+Tokyo Belly - Grand Indonesia - 4.2 - 1316 reviewlokasi: -6.194802999999999,106.8195535
+Ninety Nine Grand Indonesia - 4.4 - 952 reviewlokasi: -6.1950298,106.821442
+Cork & Screw - 4.6 - 941 reviewlokasi: -6.1941666,106.8223591
+
+
+===================
+
+Keyword Data Starbucks:
+
+Starbucks GI - 4.5 - 2558 reviewlokasi: -6.194804299999999,106.8195816
+Starbucks Bendungan Hilir - 4.7 - 851 reviewlokasi: -6.2135956,106.8136701
+Starbucks - 4.6 - 687 reviewlokasi: -6.2088451,106.8185722
+Wisma BNI46 Starbucks lobby - 4.7 - 415 reviewlokasi: -6.2033141,106.81985
+Starbucks Reserve Menara Astra - 4.7 - 192 reviewlokasi: -6.207183499999999,106.8213389
+
+
+===================
+
+Dynamic Transport:
+
+Stadiun Karet - 4.1 - 615 review (3.9 km)lokasi: -6.2008189,106.815776
+Stasiun Sudirman - 4.4 - 2217 review (3.1 km)lokasi: -6.202268399999999,106.8231961
+Stasiun Tanahabang - 4.2 - 3174 review (2.9 km)lokasi: -6.185702099999999,106.8108536
+Manggarai - 4.3 - 4639 review (5.6 km)lokasi: -6.209901899999998,106.8502202
+
+
+Dynamic Transport:
+
+Stasiun Setiabudi Astra - 4.8 - 342 review (829 m)lokasi: -6.2088638,106.8214953
+Bendungan Hilir - 4.8 - 273 review (1.2 km)lokasi: -6.215,106.81795
+Dukuh Atas BNI - 4.7 - 578 review (2.0 km)lokasi: -6.200797199999999,106.8227961
+
+
+Dynamic Transport:
+
+Dukuh Atas 1 - 4.5 - 227 review (3.5 km)lokasi: -6.205694500000001,106.822272
+Karet - 4.5 - 220 review (1.3 km)lokasi: -6.21239,106.82006
+
+
+Keyword Data Ace Hardware:
+
+ACE Hardware - Grand Indonesia - 4.5 - 542 reviewlokasi: -6.1949765,106.821388
+
+
+===================
+
+Dynamic Transport:
+
+Stadiun Karet - 4.1 - 615 review (3.9 km)lokasi: -6.2008189,106.815776
+Stasiun Sudirman - 4.4 - 2217 review (3.1 km)lokasi: -6.202268399999999,106.8231961
+Stasiun Tanahabang - 4.2 - 3174 review (2.9 km)lokasi: -6.185702099999999,106.8108536
+Manggarai - 4.3 - 4639 review (5.6 km)lokasi: -6.209901899999998,106.8502202
+
+
+Dynamic Transport:
+
+Stasiun Setiabudi Astra - 4.8 - 342 review (829 m)lokasi: -6.2088638,106.8214953
+Bendungan Hilir - 4.8 - 273 review (1.2 km)lokasi: -6.215,106.81795
+Dukuh Atas BNI - 4.7 - 578 review (2.0 km)lokasi: -6.200797199999999,106.8227961
+
+
+Dynamic Transport:
+
+Dukuh Atas 1 - 4.5 - 227 review (3.5 km)lokasi: -6.205694500000001,106.822272
+Karet - 4.5 - 220 review (1.3 km)lokasi: -6.21239,106.82006
+
+
+Keyword Data Guardian:
+
+
+
+===================
+
+Dynamic Transport:
+
+Stadiun Karet - 4.1 - 615 review (3.9 km)lokasi: -6.2008189,106.815776
+Stasiun Sudirman - 4.4 - 2217 review (3.1 km)lokasi: -6.202268399999999,106.8231961
+Stasiun Tanahabang - 4.2 - 3174 review (2.9 km)lokasi: -6.185702099999999,106.8108536
+Manggarai - 4.3 - 4639 review (5.6 km)lokasi: -6.209901899999998,106.8502202
+
+
+Dynamic Transport:
+
+Stasiun Setiabudi Astra - 4.8 - 342 review (829 m)lokasi: -6.2088638,106.8214953
+Bendungan Hilir - 4.8 - 273 review (1.2 km)lokasi: -6.215,106.81795
+Dukuh Atas BNI - 4.7 - 578 review (2.0 km)lokasi: -6.200797199999999,106.8227961
+
+
+Dynamic Transport:
+
+Dukuh Atas 1 - 4.5 - 227 review (3.5 km)lokasi: -6.205694500000001,106.822272
+Karet - 4.5 - 220 review (1.3 km)lokasi: -6.21239,106.82006
+
+
+Keyword Data Century:
+
+
+
+===================
+
+Dynamic Transport:
+
+Stadiun Karet - 4.1 - 615 review (3.9 km)lokasi: -6.2008189,106.815776
+Stasiun Sudirman - 4.4 - 2217 review (3.1 km)lokasi: -6.202268399999999,106.8231961
+Stasiun Tanahabang - 4.2 - 3174 review (2.9 km)lokasi: -6.185702099999999,106.8108536
+Manggarai - 4.3 - 4639 review (5.6 km)lokasi: -6.209901899999998,106.8502202
+
+
+Dynamic Transport:
+
+Stasiun Setiabudi Astra - 4.8 - 342 review (829 m)lokasi: -6.2088638,106.8214953
+Bendungan Hilir - 4.8 - 273 review (1.2 km)lokasi: -6.215,106.81795
+Dukuh Atas BNI - 4.7 - 578 review (2.0 km)lokasi: -6.200797199999999,106.8227961
+
+
+Dynamic Transport:
+
+Dukuh Atas 1 - 4.5 - 227 review (3.5 km)lokasi: -6.205694500000001,106.822272
+Karet - 4.5 - 220 review (1.3 km)lokasi: -6.21239,106.82006
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 26.9 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 15.3 km
+
+
+Stasiun Gambirroute distance: 6.3 km
+
+

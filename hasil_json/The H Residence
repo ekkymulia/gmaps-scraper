@@ -1,0 +1,596 @@
+{
+    "nama": "The H Residence",
+    "alamat": "12, Jl. Cawang Baru Tengah No.83, RW.11, Cipinang Cempedak, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13340, Indonesia",
+    "kecamatan": "Kecamatan Jatinegara",
+    "kelurahan": "Cipinang Cempedak",
+    "location": "-6.244879300000001,106.8721739",
+    "permalink": "the_h_residence",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Poli IGD - RSU UKI",
+                    "rating": 4.3,
+                    "location": "-6.2513383,106.8723843",
+                    "user_ratings_total": 116,
+                    "routes_distance": "3.0 km",
+                    "printed": "Poli IGD - RSU UKI - 4.3 - 116 review (3.0 km)"
+                },
+                {
+                    "nama": "Rumah Sakit Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono Jakarta",
+                    "rating": 4.1,
+                    "location": "-6.2460173,106.8704704",
+                    "user_ratings_total": 1042,
+                    "routes_distance": "2.2 km",
+                    "printed": "Rumah Sakit Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono Jakarta - 4.1 - 1042 review (2.2 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Transmart MT. Haryono",
+                    "rating": 4.2,
+                    "location": "-6.2447373,106.8612593",
+                    "user_ratings_total": 3959,
+                    "routes_distance": "2.2 km",
+                    "printed": "Transmart MT. Haryono - 4.2 - 3959 review (2.2 km)"
+                },
+                {
+                    "nama": "Pasar Cawang Kavling Perumda Pasar Jaya",
+                    "rating": 4.5,
+                    "location": "-6.241848,106.8736882",
+                    "user_ratings_total": 194,
+                    "routes_distance": "450 m",
+                    "printed": "Pasar Cawang Kavling Perumda Pasar Jaya - 4.5 - 194 review (450 m)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Alfamart Cawang Baru",
+                    "rating": 4.1,
+                    "location": "-6.2430641,106.872941",
+                    "user_ratings_total": 387,
+                    "routes_distance": "262 m",
+                    "printed": "Alfamart Cawang Baru - 4.1 - 387 review (262 m)"
+                },
+                {
+                    "nama": "Frestive Otista - Supermarket",
+                    "rating": 4.5,
+                    "location": "-6.2431714,106.8692121",
+                    "user_ratings_total": 1552,
+                    "routes_distance": "776 m",
+                    "printed": "Frestive Otista - Supermarket - 4.5 - 1552 review (776 m)"
+                },
+                {
+                    "nama": "Indomaret jaani nasir",
+                    "rating": 4.5,
+                    "location": "-6.250333899999999,106.86767",
+                    "user_ratings_total": 128,
+                    "routes_distance": "2.8 km",
+                    "printed": "Indomaret jaani nasir - 4.5 - 128 review (2.8 km)"
+                },
+                {
+                    "nama": "Alfa Midi",
+                    "rating": 4.5,
+                    "location": "-6.2498705,106.8659572",
+                    "user_ratings_total": 672,
+                    "routes_distance": "1.6 km",
+                    "printed": "Alfa Midi - 4.5 - 672 review (1.6 km)"
+                },
+                {
+                    "nama": "Toko Asba7",
+                    "rating": 4.5,
+                    "location": "-6.2373428,106.8690593",
+                    "user_ratings_total": 365,
+                    "routes_distance": "1.3 km",
+                    "printed": "Toko Asba7 - 4.5 - 365 review (1.3 km)"
+                },
+                {
+                    "nama": "Alfamart",
+                    "rating": 4.4,
+                    "location": "-6.256281199999999,106.8681634",
+                    "user_ratings_total": 115,
+                    "routes_distance": "2.8 km",
+                    "printed": "Alfamart - 4.4 - 115 review (2.8 km)"
+                },
+                {
+                    "nama": "Transmart MT. Haryono",
+                    "rating": 4.2,
+                    "location": "-6.2447373,106.8612593",
+                    "user_ratings_total": 3959,
+                    "routes_distance": "2.2 km",
+                    "printed": "Transmart MT. Haryono - 4.2 - 3959 review (2.2 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Universitas Kristen Indonesia",
+                    "rating": 4.5,
+                    "location": "-6.2483483,106.8720918",
+                    "user_ratings_total": 1580,
+                    "routes_distance": "3.5 km",
+                    "printed": "Universitas Kristen Indonesia - 4.5 - 1580 review (3.5 km)"
+                },
+                {
+                    "nama": "Kantin my wife",
+                    "rating": 4.3,
+                    "location": "-6.237271,106.8767821",
+                    "user_ratings_total": 168,
+                    "routes_distance": "1.6 km",
+                    "printed": "Kantin my wife - 4.3 - 168 review (1.6 km)"
+                },
+                {
+                    "nama": "Universitas Bina Sarana Informatika Kampus Dewi Sartika B (UBSI Dewi Sartika 289)",
+                    "rating": 4.3,
+                    "location": "-6.2535963,106.8646736",
+                    "user_ratings_total": 148,
+                    "routes_distance": "2.1 km",
+                    "printed": "Universitas Bina Sarana Informatika Kampus Dewi Sartika B (UBSI Dewi Sartika 289) - 4.3 - 148 review (2.1 km)"
+                },
+                {
+                    "nama": "Sekolah Tinggi Bahasa Asing LIA",
+                    "rating": 4.7,
+                    "location": "-6.2479341,106.8601669",
+                    "user_ratings_total": 151,
+                    "routes_distance": "2.7 km",
+                    "printed": "Sekolah Tinggi Bahasa Asing LIA - 4.7 - 151 review (2.7 km)"
+                },
+                {
+                    "nama": "Sekolah Tinggi Teknologi Sapta Taruna",
+                    "rating": 4.4,
+                    "location": "-6.240910599999999,106.8770097",
+                    "user_ratings_total": 149,
+                    "routes_distance": "951 m",
+                    "printed": "Sekolah Tinggi Teknologi Sapta Taruna - 4.4 - 149 review (951 m)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "SMA Angkasa 1 Halim PK, Jakarta",
+                    "rating": 4.7,
+                    "location": "-6.2488176,106.8823818",
+                    "user_ratings_total": 101,
+                    "routes_distance": "2.8 km",
+                    "printed": "SMA Angkasa 1 Halim PK, Jakarta - 4.7 - 101 review (2.8 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Transmart MT. Haryono",
+            "restaurants": [
+                {
+                    "nama": "KFC Transmart MT Haryono",
+                    "rating": 4.4,
+                    "location": "-6.2444649,106.8615977",
+                    "user_ratings_total": 316,
+                    "printed": "KFC Transmart MT Haryono - 4.4 - 316 review"
+                },
+                {
+                    "nama": "A&W Restoran - Transmart MT Haryono",
+                    "rating": 4.3,
+                    "location": "-6.2444582,106.8617579",
+                    "user_ratings_total": 276,
+                    "printed": "A&W Restoran - Transmart MT Haryono - 4.3 - 276 review"
+                },
+                {
+                    "nama": "Soto Lamongan Menara Saidah",
+                    "rating": 4.4,
+                    "location": "-6.244473500000001,106.8594389",
+                    "user_ratings_total": 241,
+                    "printed": "Soto Lamongan Menara Saidah - 4.4 - 241 review"
+                },
+                {
+                    "nama": "Angkringan \"Pak Gendut\"",
+                    "rating": 4.7,
+                    "location": "-6.244939200000001,106.8593862",
+                    "user_ratings_total": 118,
+                    "printed": "Angkringan \"Pak Gendut\" - 4.7 - 118 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Pasar Cawang Kavling Perumda Pasar Jaya",
+            "restaurants": [
+                {
+                    "nama": "TERRACE CAFE",
+                    "rating": 4.3,
+                    "location": "-6.244210199999999,106.8755906",
+                    "user_ratings_total": 122,
+                    "printed": "TERRACE CAFE - 4.3 - 122 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Tamansari The Hive",
+                    "rating": 4.3,
+                    "location": "-6.2450965,106.8754157",
+                    "user_ratings_total": 391,
+                    "printed": "Starbucks Tamansari The Hive - 4.3 - 391 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "Ace Hardware Cawang",
+                    "rating": 4.4,
+                    "location": "-6.254518099999999,106.8635677",
+                    "user_ratings_total": 1316,
+                    "printed": "Ace Hardware Cawang - 4.4 - 1316 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's Otista Raya",
+                    "rating": 4.4,
+                    "location": "-6.236914,106.8691091",
+                    "user_ratings_total": 11017,
+                    "printed": "McDonald's Otista Raya - 4.4 - 11017 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": []
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "BNN 2",
+                    "rating": 4.3,
+                    "location": "-6.24571,106.87108",
+                    "routes_distance": "1.2 km",
+                    "user_ratings_total": 3,
+                    "printed": "BNN 2 - 4.3 - 3 review"
+                },
+                {
+                    "nama": "Cawang Otista 1",
+                    "rating": 5,
+                    "location": "-6.24348,106.86867",
+                    "routes_distance": "1.2 km",
+                    "user_ratings_total": 4,
+                    "printed": "Cawang Otista 1 - 5 - 4 review"
+                },
+                {
+                    "nama": "Jl Cipinang Cempedak 1",
+                    "rating": 0,
+                    "location": "-6.236829999999999,106.87747",
+                    "routes_distance": "1.4 km",
+                    "user_ratings_total": 0,
+                    "printed": "Jl Cipinang Cempedak 1 - 0 - 0 review"
+                },
+                {
+                    "nama": "Cawang Ciliwung Arah Barat",
+                    "rating": 4.4,
+                    "location": "-6.24329,106.86359",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 24,
+                    "printed": "Cawang Ciliwung Arah Barat - 4.4 - 24 review"
+                },
+                {
+                    "nama": "Halte Transjakarta BNN arah Grogol",
+                    "rating": 4.1,
+                    "location": "-6.2467372,106.8735493",
+                    "routes_distance": "1.8 km",
+                    "user_ratings_total": 16,
+                    "printed": "Halte Transjakarta BNN arah Grogol - 4.1 - 16 review"
+                },
+                {
+                    "nama": "Halte Transjakarta Tebet Bkpm",
+                    "rating": 4,
+                    "location": "-6.24646,106.862781",
+                    "routes_distance": "2.1 km",
+                    "user_ratings_total": 2,
+                    "printed": "Halte Transjakarta Tebet Bkpm - 4 - 2 review"
+                },
+                {
+                    "nama": "Parkiran Motor Halte BusWay Cawang UKI",
+                    "rating": 4.4,
+                    "location": "-6.2504081,106.8738888",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 7,
+                    "printed": "Parkiran Motor Halte BusWay Cawang UKI - 4.4 - 7 review"
+                },
+                {
+                    "nama": "Cawang UKI",
+                    "rating": 4.3,
+                    "location": "-6.250311300000001,106.8736161",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 401,
+                    "printed": "Cawang UKI - 4.3 - 401 review"
+                },
+                {
+                    "nama": "Gelanggang Remaja",
+                    "rating": 4.2,
+                    "location": "-6.235376599999999,106.8679335",
+                    "routes_distance": "2.3 km",
+                    "user_ratings_total": 30,
+                    "printed": "Gelanggang Remaja - 4.2 - 30 review"
+                },
+                {
+                    "nama": "Transjakarta Pintu 1",
+                    "rating": 5,
+                    "location": "-6.25268,106.87358",
+                    "routes_distance": "2.4 km",
+                    "user_ratings_total": 2,
+                    "printed": "Transjakarta Pintu 1 - 5 - 2 review"
+                },
+                {
+                    "nama": "Pool Transjakarta Busway",
+                    "rating": 4.3,
+                    "location": "-6.252497,106.874993",
+                    "routes_distance": "2.6 km",
+                    "user_ratings_total": 34,
+                    "printed": "Pool Transjakarta Busway - 4.3 - 34 review"
+                },
+                {
+                    "nama": "BNN",
+                    "rating": 4.7,
+                    "location": "-6.24646,106.87334",
+                    "routes_distance": "2.9 km",
+                    "user_ratings_total": 13,
+                    "printed": "BNN - 4.7 - 13 review"
+                },
+                {
+                    "nama": "Cawang Uki 2",
+                    "rating": 4.2,
+                    "location": "-6.250041299999999,106.8735114",
+                    "routes_distance": "3.2 km",
+                    "user_ratings_total": 75,
+                    "printed": "Cawang Uki 2 - 4.2 - 75 review"
+                },
+                {
+                    "nama": "Cawang Soetoyo",
+                    "rating": 4.1,
+                    "location": "-6.24477,106.87598",
+                    "routes_distance": "3.8 km",
+                    "user_ratings_total": 43,
+                    "printed": "Cawang Soetoyo - 4.1 - 43 review"
+                },
+                {
+                    "nama": "Penas Kalimalang",
+                    "rating": 4.1,
+                    "location": "-6.23907,106.878",
+                    "routes_distance": "8.1 km",
+                    "user_ratings_total": 63,
+                    "printed": "Penas Kalimalang - 4.1 - 63 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Cipinang Besar Selatan",
+                    "rating": 4.7,
+                    "location": "-6.231973099999999,106.8810443",
+                    "routes_distance": "2.4 km",
+                    "user_ratings_total": 47,
+                    "printed": "Kantor Kelurahan Cipinang Besar Selatan - 4.7 - 47 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Cikoko",
+                    "rating": 4.3,
+                    "location": "-6.2462721,106.852775",
+                    "routes_distance": "3.1 km",
+                    "user_ratings_total": 15,
+                    "printed": "Kantor Kelurahan Cikoko - 4.3 - 15 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pengadegan",
+                    "rating": 4.3,
+                    "location": "-6.250934000000001,106.8611774",
+                    "routes_distance": "3.2 km",
+                    "user_ratings_total": 24,
+                    "printed": "Kantor Kelurahan Pengadegan - 4.3 - 24 review"
+                },
+                {
+                    "nama": "Kantor Lurah Rawajati",
+                    "rating": 4.5,
+                    "location": "-6.2602403,106.8525579",
+                    "routes_distance": "4.2 km",
+                    "user_ratings_total": 27,
+                    "printed": "Kantor Lurah Rawajati - 4.5 - 27 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Tebet Timur",
+                    "rating": 4.1,
+                    "location": "-6.2286079,106.8580033",
+                    "routes_distance": "4.9 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Tebet Timur - 4.1 - 21 review"
+                },
+                {
+                    "nama": "Kantor Lurah Cililitan",
+                    "rating": 4.8,
+                    "location": "-6.2602553,106.8699671",
+                    "routes_distance": "4.9 km",
+                    "user_ratings_total": 17,
+                    "printed": "Kantor Lurah Cililitan - 4.8 - 17 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Palmeriam",
+                    "rating": 3.9,
+                    "location": "-6.2070666,106.8614112",
+                    "routes_distance": "5.1 km",
+                    "user_ratings_total": 32,
+                    "printed": "Kantor Kelurahan Palmeriam - 3.9 - 32 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Halim Perdana Kusuma",
+                    "rating": 4.2,
+                    "location": "-6.2678001,106.8776394",
+                    "routes_distance": "5.4 km",
+                    "user_ratings_total": 46,
+                    "printed": "Kantor Kelurahan Halim Perdana Kusuma - 4.2 - 46 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Cipinang Muara",
+                    "rating": 3.8,
+                    "location": "-6.227403,106.8865273",
+                    "routes_distance": "5.5 km",
+                    "user_ratings_total": 38,
+                    "printed": "Kantor Kelurahan Cipinang Muara - 3.8 - 38 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Cipinang Besar Utara",
+                    "rating": 3.5,
+                    "location": "-6.2173972,106.882176",
+                    "routes_distance": "5.6 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kantor Kelurahan Cipinang Besar Utara - 3.5 - 29 review"
+                },
+                {
+                    "nama": "Kantor Lurah Tegal Parang",
+                    "rating": 3.5,
+                    "location": "-6.2496751,106.8338671",
+                    "routes_distance": "6.4 km",
+                    "user_ratings_total": 64,
+                    "printed": "Kantor Lurah Tegal Parang - 3.5 - 64 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pegangsaan Jakarta Pusat",
+                    "rating": 4.3,
+                    "location": "-6.204030899999999,106.8502538",
+                    "routes_distance": "6.6 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Pegangsaan Jakarta Pusat - 4.3 - 21 review"
+                },
+                {
+                    "nama": "Kantor Lurah Cipinang Jakarta Timur",
+                    "rating": 3.9,
+                    "location": "-6.208963900000001,106.8950901",
+                    "routes_distance": "6.6 km",
+                    "user_ratings_total": 31,
+                    "printed": "Kantor Lurah Cipinang Jakarta Timur - 3.9 - 31 review"
+                },
+                {
+                    "nama": "Kantor Lurah Manggarai Selatan",
+                    "rating": 4.2,
+                    "location": "-6.2181169,106.8471166",
+                    "routes_distance": "7.1 km",
+                    "user_ratings_total": 18,
+                    "printed": "Kantor Lurah Manggarai Selatan - 4.2 - 18 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Menteng Jakarta Pusat",
+                    "rating": 4.4,
+                    "location": "-6.2037721,106.8446467",
+                    "routes_distance": "7.1 km",
+                    "user_ratings_total": 84,
+                    "printed": "Kantor Kelurahan Menteng Jakarta Pusat - 4.4 - 84 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Cawang",
+                    "rating": 3.7,
+                    "location": "-6.2502884,106.8684606",
+                    "routes_distance": "2.8 km",
+                    "user_ratings_total": 30,
+                    "printed": "Kantor Kelurahan Cawang - 3.7 - 30 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Stasiun Cawang",
+                    "rating": 4.4,
+                    "location": "-6.242487300000001,106.8588122",
+                    "user_ratings_total": 1150,
+                    "routes_distance": "2.7 km",
+                    "printed": "Stasiun Cawang - 4.4 - 1150 review (2.7 km)"
+                },
+                {
+                    "nama": "Duren Kalibata",
+                    "rating": 4.4,
+                    "location": "-6.2553166,106.8550527",
+                    "user_ratings_total": 1077,
+                    "routes_distance": "3.5 km",
+                    "printed": "Duren Kalibata - 4.4 - 1077 review (3.5 km)"
+                },
+                {
+                    "nama": "Tebet",
+                    "rating": 4.5,
+                    "location": "-6.226111800000001,106.8582931",
+                    "user_ratings_total": 2038,
+                    "routes_distance": "4.8 km",
+                    "printed": "Tebet - 4.5 - 2038 review (4.8 km)"
+                },
+                {
+                    "nama": "Jatinegara",
+                    "rating": 4.4,
+                    "location": "-6.214923799999999,106.8702903",
+                    "user_ratings_total": 2480,
+                    "routes_distance": "5.7 km",
+                    "printed": "Jatinegara - 4.4 - 2480 review (5.7 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "34.4 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "4.1 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "10.4 km"
+        }
+    ]
+}

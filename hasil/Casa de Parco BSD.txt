@@ -1,0 +1,244 @@
+Casa de Parco BSD
+
+casa_de_parco_bsd
+
+Kordinat: -6.3056211,106.6518567
+
+Sampora Kecamatan Cisauk Kawasan Taman Kota Barat, Gg. Kavling 2 No.3, Bumi, Serpong Damai, Kabupaten Tangerang, Banten 15345, Indonesia
+
+===================
+
+hospital:
+
+Eka Hospital BSD - 3.8 - 2193 review (3.3 km)lokasi: -6.298989000000001,106.669936
+RS THT Proklamasi BSD - 3.7 - 151 review (4.0 km)lokasi: -6.2963178,106.6684868
+Holicare BSD - 5 - 434 review (4.7 km)lokasi: -6.284640200000001,106.664058
+
+
+shopping_mall:
+
+ÆON Mall BSD City - 4.7 - 77903 review (2.6 km)lokasi: -6.305325199999999,106.6435146
+Teraskota Entertainment Center - 4.4 - 22889 review (4.0 km)lokasi: -6.295563299999999,106.6674867
+ITC BSD - 4.4 - 23101 review (4.3 km)lokasi: -6.286290699999999,106.6648744
+The Breeze BSD City - 4.7 - 13239 review (1.3 km)lokasi: -6.301324399999999,106.6533703
+Kumulo Creative Compound - 4.4 - 1464 review (1.2 km)lokasi: -6.300629299999999,106.6540271
+
+
+supermarket:
+
+AEON Store BSD City - 4.8 - 2415 review (2.3 km)lokasi: -6.3050114,106.6427107
+Super Indo Mall Teras Kota - 4.5 - 1298 review (4.0 km)lokasi: -6.2953255,106.6683594
+Carrefour Bumi Serpong Damai - 4.4 - 201 review (4.4 km)lokasi: -6.286138999999999,106.664237
+
+
+university:
+
+Unika Atma Jaya Kampus 3 BSD - Cisauk - 4.7 - 433 review (2.4 km)lokasi: -6.3177878,106.6503682
+Universitas Prasetiya Mulya - 4.6 - 318 review (2.8 km)lokasi: -6.3003827,106.6395386
+
+
+school:
+
+
+
+===================
+
+Rasto di Mall ÆON Mall BSD City:
+
+On-Yasai - 4.6 - 604 reviewlokasi: -6.3039858,106.6446457
+Imperial Kitchen & Dimsum - 4.2 - 595 reviewlokasi: -6.3049371,106.6437436
+Steak 21 - 4.5 - 509 reviewlokasi: -6.3049066,106.6434547
+Solaria - AEON BSD - 3.9 - 447 reviewlokasi: -6.3046296,106.6429828
+Uchino Shokudo - 4.3 - 349 reviewlokasi: -6.304046599999999,106.644325
+Sukiya Gyudon - 4.1 - 311 reviewlokasi: -6.3049653,106.6433353
+Ta Wan - AEON Mall BSD - 4.2 - 232 reviewlokasi: -6.304941400000001,106.6436255
+WING.STOP - 4.3 - 229 reviewlokasi: -6.3049354,106.6433759
+Pepper Lunch Express Aeon Mall BSD City - 4.6 - 219 reviewlokasi: -6.303781899999999,106.6442388
+
+
+Rasto di Mall Teraskota Entertainment Center:
+
+HokBen - 4.4 - 5681 reviewlokasi: -6.2940143,106.6657198
+Steak Hotel by Holycow! - 4.3 - 1773 reviewlokasi: -6.29407,106.666718
+Gandy Steak & Bakery - 4.4 - 424 reviewlokasi: -6.295343299999998,106.667286
+LEVEL UP Café - 4.5 - 257 reviewlokasi: -6.2935961,106.6669941
+Kafe Betawi Teras Kota - 4.1 - 159 reviewlokasi: -6.295340400000001,106.6673628
+Bakso Lapangan Tembak Senayan - Teras Kota - 3.9 - 158 reviewlokasi: -6.2957902,106.6672163
+Dum Dum Thai Tea - 4.4 - 158 reviewlokasi: -6.295605699999999,106.6675065
+Ekaria Delight - BSD - 4.5 - 153 reviewlokasi: -6.294631,106.667855
+Daun Curry Asian Cuisine - 4.5 - 123 reviewlokasi: -6.2956476,106.6675556
+
+
+Rasto di Mall ITC BSD:
+
+Midori Japanese Restaurant BSD - 4.4 - 621 reviewlokasi: -6.2832768,106.6644898
+Martabak Pizza Orins BSD - 4.5 - 420 reviewlokasi: -6.2893373,106.6658919
+A&W Restoran - ITC BSD - 4 - 222 reviewlokasi: -6.2871128,106.6644865
+Bakso Lapangan Tembak Senayan - 4.2 - 111 reviewlokasi: -6.285824799999999,106.6645727
+
+
+Rasto di Mall The Breeze BSD City:
+
+Sushi Tei - 4.5 - 2875 reviewlokasi: -6.301755099999999,106.6537661
+Hachi Grill BSD City (The Breeze) - 4.9 - 1726 reviewlokasi: -6.3018298,106.6542384
+Chakra Venue & Lounge - 4.5 - 1272 reviewlokasi: -6.300503599999999,106.6536404
+Wee Nam Kee - The Breeze, BSD - 4.5 - 843 reviewlokasi: -6.301785799999998,106.6538921
+Jittlada - 4.5 - 708 reviewlokasi: -6.301616399999999,106.6542901
+Brewerkz - 4.4 - 628 reviewlokasi: -6.3016729,106.6531379
+Honu BSD (The Breeze) - 4.7 - 483 reviewlokasi: -6.3019009,106.6537534
+Bebek Bengil - 4.4 - 482 reviewlokasi: -6.300600999999999,106.6529874
+Burgreens The Breeze - Healthy Plant-Based Eatery - 4.6 - 361 reviewlokasi: -6.301858699999999,106.6535863
+
+
+Rasto di Mall Kumulo Creative Compound:
+
+Sushi Tei - 4.5 - 2875 reviewlokasi: -6.301755099999999,106.6537661
+Hachi Grill BSD City (The Breeze) - 4.9 - 1726 reviewlokasi: -6.3018298,106.6542384
+Chakra Venue & Lounge - 4.5 - 1272 reviewlokasi: -6.300503599999999,106.6536404
+Wee Nam Kee - The Breeze, BSD - 4.5 - 843 reviewlokasi: -6.301785799999998,106.6538921
+Jittlada - 4.5 - 708 reviewlokasi: -6.301616399999999,106.6542901
+Honu BSD (The Breeze) - 4.7 - 483 reviewlokasi: -6.3019009,106.6537534
+Bebek Bengil - 4.4 - 482 reviewlokasi: -6.300600999999999,106.6529874
+Katsukita, The Breeze BSD - 4.6 - 323 reviewlokasi: -6.3016293,106.6533936
+Shihlin The Breeze - 4.6 - 139 reviewlokasi: -6.301912399999999,106.6541778
+
+
+===================
+
+Keyword Data Starbucks:
+
+
+
+Starbucks AEON Mall BSD - 4.6 - 1145 reviewlokasi: -6.3044202,106.6438763
+Starbucks The Breeze BSD - 4.6 - 1088 reviewlokasi: -6.301918499999999,106.654375
+
+
+===================
+
+Keyword Data Ace Hardware:
+
+
+
+
+
+===================
+
+Keyword Data Guardian:
+
+
+
+
+
+===================
+
+Keyword Data Century:
+
+
+
+
+
+===================
+
+Keyword Data Mc Donald's:
+
+
+
+McDonald's Edutown BSD - 4.6 - 6044 reviewlokasi: -6.300000199999999,106.6409227
+
+
+===================
+
+Keyword Data Electronic City:
+
+
+
+
+
+===================
+
+Keyword Data Co Working Space:
+
+Space & Motion, Manuka BSD ( Working Space & Cafe), Cohive Green Office Park 9 BSD, GoWork BSD Green Office Park - Coworking and Office Space, TwoSpaces CDP - Coworking Space, 
+
+Space & Motion - 5 - 4 review - 1.9 kmlokasi: -6.3149449,106.6519244
+Manuka BSD ( Working Space & Cafe) - 4.7 - 48 review - 2.0 kmlokasi: -6.3159358,106.6520679
+Cohive Green Office Park 9 BSD - 4.7 - 153 review - 624 mlokasi: -6.302567199999999,106.65198
+GoWork BSD Green Office Park - Coworking and Office Space - 4.8 - 119 review - 836 mlokasi: -6.302161,106.6500626
+TwoSpaces CDP - Coworking Space - 4.9 - 87 review - 99 mlokasi: -6.3057374,106.6524254
+
+
+===================
+
+Keyword Data Halte Transjakarta:
+
+Halte Bus BSD City, 
+
+Halte Bus BSD City - 5 - 1 review - 1.3 kmlokasi: -6.3008675,106.6520979
+
+
+===================
+
+Keyword Data Kantor Kelurahan:
+
+Kantor Kelurahan Sampora, KANTOR LURAH BAKTI JAYA, Kantor Lurah Pondok Benda, Kantor Kelurahan Pondok Kacang Barat, Kantor Lurah Pondok Pucung, KANTOR KELURAHAN PARUNG SERAB, Kantor Kelurahan Paninggilan, Kantor Kelurahan Serpong, Kantor Lurah Serpong, Kantor kelurahan cilenggang, Kantor Lurah Lengkong Gudang Timur, Kantor Kelurahan Rawa Buntu, Kantor Kelurahan Kademangan, kantor lurah keranggan, Kantor Kelurahan Lengkong, Kecamatan Serpong, Tangerang Selatan Banten, 
+
+Kantor Kelurahan Sampora - 3.8 - 4 review - 1.2 kmlokasi: -6.3084241,106.656068
+KANTOR LURAH BAKTI JAYA - 5 - 2 review - 10.4 kmlokasi: -6.3522379,106.7017272
+Kantor Lurah Pondok Benda - 2.7 - 30 review - 11.4 kmlokasi: -6.345401799999999,106.7143867
+Kantor Kelurahan Pondok Kacang Barat - 3.3 - 23 review - 17.1 kmlokasi: -6.2552737,106.6832833
+Kantor Lurah Pondok Pucung - 4.7 - 38 review - 17.4 kmlokasi: -6.2799054,106.7070915
+KANTOR KELURAHAN PARUNG SERAB - 4.3 - 41 review - 18.9 kmlokasi: -6.2522747,106.6996855
+Kantor Kelurahan Paninggilan - 4.2 - 25 review - 20.9 kmlokasi: -6.2425571,106.7100165
+Kantor Kelurahan Serpong - 4.5 - 21 review - 3.3 kmlokasi: -6.3208782,106.661966
+Kantor Lurah Serpong - 0 - 0 review - 3.3 kmlokasi: -6.3208769,106.6619669
+Kantor kelurahan cilenggang - 0 - 0 review - 3.9 kmlokasi: -6.304240999999999,106.6685931
+Kantor Lurah Lengkong Gudang Timur - 4.1 - 8 review - 5.6 kmlokasi: -6.294799599999999,106.6871928
+Kantor Kelurahan Rawa Buntu - 3.6 - 19 review - 5.8 kmlokasi: -6.3184631,106.6810688
+Kantor Kelurahan Kademangan - 4.5 - 21 review - 6.0 kmlokasi: -6.3351943,106.6698596
+kantor lurah keranggan - 4.5 - 44 review - 6.2 kmlokasi: -6.3436449,106.6558766
+Kantor Kelurahan Lengkong, Kecamatan Serpong, Tangerang Selatan Banten - 5 - 1 review - 6.3 kmlokasi: -6.2786849,106.6676721
+
+
+===================
+
+Keyword Data Kantor Kecamatan:
+
+Kantor Kelurahan Sampora, Kantor kecamatan cilenggang, Perusahaan Daerah Perkreditan Kecamatan Serpong, Kantor Kecamatan Serpong, 
+
+Kantor Kelurahan Sampora - 3.8 - 4 review - 1.2 kmlokasi: -6.3084241,106.656068
+Kantor kecamatan cilenggang - 0 - 0 review - 2.1 kmlokasi: -6.311125,106.660681
+Perusahaan Daerah Perkreditan Kecamatan Serpong - 0 - 0 review - 2.1 kmlokasi: -6.3114992,106.6605433
+Kantor Kecamatan Serpong - 4.7 - 19 review - 2.3 kmlokasi: -6.3144671,106.6614659
+
+
+===================
+
+Dynamic Transport:
+
+train_stationSerpong - 4.1 - 663 review (3.2 km)lokasi: -6.3202143,106.6655593
+train_stationRawa Buntu - 4.4 - 1641 review (5.7 km)lokasi: -6.314824499999999,106.6760222
+train_stationStasiun serpong - 4.3 - 135 review (2.9 km)lokasi: -6.3196333,106.6637867
+train_stationStasiun Cisauk - 4.6 - 1000 review (4.1 km)lokasi: -6.3244818,106.6415885
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 36.9 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 45.5 km
+
+
+Stasiun Gambirroute distance: 40.8 km
+
+

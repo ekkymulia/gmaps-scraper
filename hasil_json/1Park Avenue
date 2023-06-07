@@ -1,0 +1,747 @@
+{
+    "nama": "1Park Avenue",
+    "alamat": "2, Jl. Jatayu No.36, RT.8/RW.5, Kby. Lama Utara, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240, Indonesia",
+    "kecamatan": "Kecamatan Kebayoran Lama",
+    "kelurahan": "Kebayoran Lama Utara",
+    "location": "-6.2462696,106.7869091",
+    "permalink": "1park_avenue",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Pusat Pertamina",
+                    "rating": 4.1,
+                    "location": "-6.2399349,106.7932011",
+                    "user_ratings_total": 909,
+                    "routes_distance": "1.2 km",
+                    "printed": "Rumah Sakit Pusat Pertamina - 4.1 - 909 review (1.2 km)"
+                },
+                {
+                    "nama": "RS Muhammadiyah Taman Puring",
+                    "rating": 3.8,
+                    "location": "-6.2417177,106.7875121",
+                    "user_ratings_total": 398,
+                    "routes_distance": "706 m",
+                    "printed": "RS Muhammadiyah Taman Puring - 3.8 - 398 review (706 m)"
+                },
+                {
+                    "nama": "Rumah Sakit Gandaria",
+                    "rating": 3.4,
+                    "location": "-6.2440131,106.790662",
+                    "user_ratings_total": 201,
+                    "routes_distance": "531 m",
+                    "printed": "Rumah Sakit Gandaria - 3.4 - 201 review (531 m)"
+                },
+                {
+                    "nama": "Klinik Gigi Get Dentist Jakarta",
+                    "rating": 4.7,
+                    "location": "-6.245057399999999,106.7891565",
+                    "user_ratings_total": 109,
+                    "routes_distance": "331 m",
+                    "printed": "Klinik Gigi Get Dentist Jakarta - 4.7 - 109 review (331 m)"
+                },
+                {
+                    "nama": "RSUD Kebayoran Lama",
+                    "rating": 4.7,
+                    "location": "-6.248721899999999,106.7856259",
+                    "user_ratings_total": 686,
+                    "routes_distance": "551 m",
+                    "printed": "RSUD Kebayoran Lama - 4.7 - 686 review (551 m)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Gandaria City Mall",
+                    "rating": 4.6,
+                    "location": "-6.244179199999999,106.783529",
+                    "user_ratings_total": 69036,
+                    "routes_distance": "1.2 km",
+                    "printed": "Gandaria City Mall - 4.6 - 69036 review (1.2 km)"
+                },
+                {
+                    "nama": "Pasar Mayestik",
+                    "rating": 4.5,
+                    "location": "-6.2408434,106.7910143",
+                    "user_ratings_total": 32634,
+                    "routes_distance": "1.5 km",
+                    "printed": "Pasar Mayestik - 4.5 - 32634 review (1.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "LOTTE Mart Gandaria City",
+                    "rating": 4.6,
+                    "location": "-6.2451291,106.7834073",
+                    "user_ratings_total": 5602,
+                    "routes_distance": "968 m",
+                    "printed": "LOTTE Mart Gandaria City - 4.6 - 5602 review (968 m)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Universitas Muhammadiyah Prof. Dr. HAMKA",
+                    "rating": 4.5,
+                    "location": "-6.247762799999999,106.7910386",
+                    "user_ratings_total": 534,
+                    "routes_distance": "685 m",
+                    "printed": "Universitas Muhammadiyah Prof. Dr. HAMKA - 4.5 - 534 review (685 m)"
+                },
+                {
+                    "nama": "Politeknik Kesehatan Kemenkes Jakarta II",
+                    "rating": 4.7,
+                    "location": "-6.2384462,106.7938406",
+                    "user_ratings_total": 339,
+                    "routes_distance": "1.6 km",
+                    "printed": "Politeknik Kesehatan Kemenkes Jakarta II - 4.7 - 339 review (1.6 km)"
+                },
+                {
+                    "nama": "Universitas Satya Negara Indonesia",
+                    "rating": 4.6,
+                    "location": "-6.2420463,106.783709",
+                    "user_ratings_total": 280,
+                    "routes_distance": "1.8 km",
+                    "printed": "Universitas Satya Negara Indonesia - 4.6 - 280 review (1.8 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Sekolah Menengah Pertama Negeri 19 Jakarta Selatan",
+                    "rating": 4.2,
+                    "location": "-6.2398368,106.7895905",
+                    "user_ratings_total": 139,
+                    "routes_distance": "2.0 km",
+                    "printed": "Sekolah Menengah Pertama Negeri 19 Jakarta Selatan - 4.2 - 139 review (2.0 km)"
+                },
+                {
+                    "nama": "SMA Negeri 70 Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.241651699999999,106.7968122",
+                    "user_ratings_total": 319,
+                    "routes_distance": "1.7 km",
+                    "printed": "SMA Negeri 70 Jakarta - 4.6 - 319 review (1.7 km)"
+                },
+                {
+                    "nama": "SMA Negeri 74 Jakarta Selatan",
+                    "rating": 4.5,
+                    "location": "-6.250319,106.7860261",
+                    "user_ratings_total": 131,
+                    "routes_distance": "981 m",
+                    "printed": "SMA Negeri 74 Jakarta Selatan - 4.5 - 131 review (981 m)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Gandaria City Mall",
+            "restaurants": [
+                {
+                    "nama": "Steak Hotel by Holycow!",
+                    "rating": 4.3,
+                    "location": "-6.2441985,106.7839644",
+                    "user_ratings_total": 1318,
+                    "printed": "Steak Hotel by Holycow! - 4.3 - 1318 review"
+                },
+                {
+                    "nama": "Solaria - Gandaria City Mall",
+                    "rating": 4.3,
+                    "location": "-6.2441741,106.7835446",
+                    "user_ratings_total": 680,
+                    "printed": "Solaria - Gandaria City Mall - 4.3 - 680 review"
+                },
+                {
+                    "nama": "KFC - Gandaria City Mall",
+                    "rating": 4.3,
+                    "location": "-6.244480999999999,106.7840379",
+                    "user_ratings_total": 609,
+                    "printed": "KFC - Gandaria City Mall - 4.3 - 609 review"
+                },
+                {
+                    "nama": "Pizza \u0117 Birra Sports Bar Gandaria City",
+                    "rating": 4.4,
+                    "location": "-6.2442837,106.7840516",
+                    "user_ratings_total": 572,
+                    "printed": "Pizza \u0117 Birra Sports Bar Gandaria City - 4.4 - 572 review"
+                },
+                {
+                    "nama": "Kafe Betawi - Gandaria City Mall",
+                    "rating": 4.3,
+                    "location": "-6.2434547,106.7841196",
+                    "user_ratings_total": 421,
+                    "printed": "Kafe Betawi - Gandaria City Mall - 4.3 - 421 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Pasar Mayestik",
+            "restaurants": [
+                {
+                    "nama": "Blenger Burger",
+                    "rating": 4.6,
+                    "location": "-6.2411558,106.7900747",
+                    "user_ratings_total": 7513,
+                    "printed": "Blenger Burger - 4.6 - 7513 review"
+                },
+                {
+                    "nama": "Lewis & Carroll",
+                    "rating": 4.5,
+                    "location": "-6.2367895,106.7898455",
+                    "user_ratings_total": 1413,
+                    "printed": "Lewis & Carroll - 4.5 - 1413 review"
+                },
+                {
+                    "nama": "Cafe Safari",
+                    "rating": 4.4,
+                    "location": "-6.2439375,106.7919222",
+                    "user_ratings_total": 1109,
+                    "printed": "Cafe Safari - 4.4 - 1109 review"
+                },
+                {
+                    "nama": "Blue Jasmine",
+                    "rating": 4.6,
+                    "location": "-6.240766899999999,106.7892173",
+                    "user_ratings_total": 920,
+                    "printed": "Blue Jasmine - 4.6 - 920 review"
+                },
+                {
+                    "nama": "Beranda Kitchen",
+                    "rating": 4.4,
+                    "location": "-6.2451338,106.7919559",
+                    "user_ratings_total": 886,
+                    "printed": "Beranda Kitchen - 4.4 - 886 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Coffee - Gandaria City Mall",
+                    "rating": 4.6,
+                    "location": "-6.243725599999999,106.7839798",
+                    "user_ratings_total": 1675,
+                    "printed": "Starbucks Coffee - Gandaria City Mall - 4.6 - 1675 review"
+                },
+                {
+                    "nama": "Starbucks Arteri Pondok Indah",
+                    "rating": 4.7,
+                    "location": "-6.2546753,106.7819351",
+                    "user_ratings_total": 1266,
+                    "printed": "Starbucks Arteri Pondok Indah - 4.7 - 1266 review"
+                },
+                {
+                    "nama": "Starbucks La Maison Barito",
+                    "rating": 4.7,
+                    "location": "-6.2462725,106.7941589",
+                    "user_ratings_total": 272,
+                    "printed": "Starbucks La Maison Barito - 4.7 - 272 review"
+                },
+                {
+                    "nama": "Starbucks - Blok M Plaza",
+                    "rating": 4.6,
+                    "location": "-6.2449134,106.7978802",
+                    "user_ratings_total": 243,
+                    "printed": "Starbucks - Blok M Plaza - 4.6 - 243 review"
+                },
+                {
+                    "nama": "Starbucks",
+                    "rating": 4.5,
+                    "location": "-6.245709,106.7884374",
+                    "user_ratings_total": 242,
+                    "printed": "Starbucks - 4.5 - 242 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "Ace Home Center - Gandaria City Mall",
+                    "rating": 4.6,
+                    "location": "-6.244662900000001,106.7830649",
+                    "user_ratings_total": 1418,
+                    "printed": "Ace Home Center - Gandaria City Mall - 4.6 - 1418 review"
+                },
+                {
+                    "nama": "Ace Hardware Panglima Polim",
+                    "rating": 4.4,
+                    "location": "-6.250750099999999,106.7976074",
+                    "user_ratings_total": 1373,
+                    "printed": "Ace Hardware Panglima Polim - 4.4 - 1373 review"
+                },
+                {
+                    "nama": "Ace Hardware Radio Dalam",
+                    "rating": 4.5,
+                    "location": "-6.251556900000001,106.7916272",
+                    "user_ratings_total": 1204,
+                    "printed": "Ace Hardware Radio Dalam - 4.5 - 1204 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": [
+                {
+                    "nama": "GUARDIAN - Gandaria City",
+                    "rating": 4.4,
+                    "location": "-6.2444275,106.7839782",
+                    "user_ratings_total": 141,
+                    "printed": "GUARDIAN - Gandaria City - 4.4 - 141 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": []
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "SouthHub Co-working Space",
+                    "rating": 0,
+                    "location": "-6.2427252,106.7830773",
+                    "routes_distance": "1.1 km",
+                    "user_ratings_total": 0,
+                    "printed": "SouthHub Co-working Space - 0 - 0 review"
+                },
+                {
+                    "nama": "Chief Creative Complex",
+                    "rating": 4.8,
+                    "location": "-6.255237699999999,106.7900476",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 38,
+                    "printed": "Chief Creative Complex - 4.8 - 38 review"
+                },
+                {
+                    "nama": "Mantra Space",
+                    "rating": 4.8,
+                    "location": "-6.2395976,106.7820323",
+                    "routes_distance": "1.9 km",
+                    "user_ratings_total": 46,
+                    "printed": "Mantra Space - 4.8 - 46 review"
+                },
+                {
+                    "nama": "WorkOUT Coworking Space",
+                    "rating": 4.7,
+                    "location": "-6.2544935,106.797458",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 26,
+                    "printed": "WorkOUT Coworking Space - 4.7 - 26 review"
+                },
+                {
+                    "nama": "Enablerspace.id",
+                    "rating": 4.5,
+                    "location": "-6.2531941,106.7764818",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 40,
+                    "printed": "Enablerspace.id - 4.5 - 40 review"
+                },
+                {
+                    "nama": "Huddle Hub Co-Working Space",
+                    "rating": 4.8,
+                    "location": "-6.2458684,106.7884173",
+                    "routes_distance": "512 m",
+                    "user_ratings_total": 13,
+                    "printed": "Huddle Hub Co-Working Space - 4.8 - 13 review"
+                },
+                {
+                    "nama": "Dekhad Gandaria",
+                    "rating": 4.5,
+                    "location": "-6.247132199999999,106.792145",
+                    "routes_distance": "777 m",
+                    "user_ratings_total": 94,
+                    "printed": "Dekhad Gandaria - 4.5 - 94 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Simpang Gandaria Kyai Maja",
+                    "rating": 5,
+                    "location": "-6.24186,106.79",
+                    "routes_distance": "1.0 km",
+                    "user_ratings_total": 1,
+                    "printed": "Simpang Gandaria Kyai Maja - 5 - 1 review"
+                },
+                {
+                    "nama": "Velbak",
+                    "rating": 4.4,
+                    "location": "-6.23943,106.78552",
+                    "routes_distance": "1.1 km",
+                    "user_ratings_total": 28,
+                    "printed": "Velbak - 4.4 - 28 review"
+                },
+                {
+                    "nama": "Kebayoran Baru Velbak 1",
+                    "rating": 5,
+                    "location": "-6.23949,106.78555",
+                    "routes_distance": "1.1 km",
+                    "user_ratings_total": 2,
+                    "printed": "Kebayoran Baru Velbak 1 - 5 - 2 review"
+                },
+                {
+                    "nama": "Gandaria City",
+                    "rating": 4.8,
+                    "location": "-6.24411,106.78234",
+                    "routes_distance": "1.2 km",
+                    "user_ratings_total": 202,
+                    "printed": "Gandaria City - 4.8 - 202 review"
+                },
+                {
+                    "nama": "Halte: Sultan Iskandar Muda",
+                    "rating": 0,
+                    "location": "-6.252146499999999,106.7817219",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 0,
+                    "printed": "Halte: Sultan Iskandar Muda - 0 - 0 review"
+                },
+                {
+                    "nama": "Halte Busway 8-6 Kebayoran LamaBungur",
+                    "rating": 5,
+                    "location": "-6.252655,106.7816615",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 1,
+                    "printed": "Halte Busway 8-6 Kebayoran LamaBungur - 5 - 1 review"
+                },
+                {
+                    "nama": "Halte Busway Bungur",
+                    "rating": 4.5,
+                    "location": "-6.2547555,106.7819483",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 4,
+                    "printed": "Halte Busway Bungur - 4.5 - 4 review"
+                },
+                {
+                    "nama": "Universitas Satya Negara",
+                    "rating": 5,
+                    "location": "-6.241849999999999,106.78288",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 1,
+                    "printed": "Universitas Satya Negara - 5 - 1 review"
+                },
+                {
+                    "nama": "Pasar Kebayoran Lama",
+                    "rating": 4.2,
+                    "location": "-6.2384052,106.7832192",
+                    "routes_distance": "1.8 km",
+                    "user_ratings_total": 241,
+                    "printed": "Pasar Kebayoran Lama - 4.2 - 241 review"
+                },
+                {
+                    "nama": "Halte Busway Pasar Kebayoran Lama",
+                    "rating": 4.1,
+                    "location": "-6.238461999999999,106.7831987",
+                    "routes_distance": "1.8 km",
+                    "user_ratings_total": 15,
+                    "printed": "Halte Busway Pasar Kebayoran Lama - 4.1 - 15 review"
+                },
+                {
+                    "nama": "Iskandar Muda",
+                    "rating": 5,
+                    "location": "-6.244300000000001,106.78249",
+                    "routes_distance": "1.9 km",
+                    "user_ratings_total": 3,
+                    "printed": "Iskandar Muda - 5 - 3 review"
+                },
+                {
+                    "nama": "Mayestik",
+                    "rating": 4.3,
+                    "location": "-6.241818299999999,106.7907878",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 15,
+                    "printed": "Mayestik - 4.3 - 15 review"
+                },
+                {
+                    "nama": "Halte busway kyai maja 1",
+                    "rating": 0,
+                    "location": "-6.2399432,106.7967378",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 0,
+                    "printed": "Halte busway kyai maja 1 - 0 - 0 review"
+                },
+                {
+                    "nama": "St. Kebayoran",
+                    "rating": 3.3,
+                    "location": "-6.239,106.78198",
+                    "routes_distance": "2.5 km",
+                    "user_ratings_total": 3,
+                    "printed": "St. Kebayoran - 3.3 - 3 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Kebayoran Lama Selatan",
+                    "rating": 3.5,
+                    "location": "-6.248372499999999,106.7829424",
+                    "routes_distance": "1.0 km",
+                    "user_ratings_total": 35,
+                    "printed": "Kantor Kelurahan Kebayoran Lama Selatan - 3.5 - 35 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kebayoran Lama Utara",
+                    "rating": 4,
+                    "location": "-6.2418179,106.781065",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 40,
+                    "printed": "Kantor Kelurahan Kebayoran Lama Utara - 4 - 40 review"
+                },
+                {
+                    "nama": "Kantor Lurah Gunung",
+                    "rating": 0,
+                    "location": "-6.234747100000001,106.7884734",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor Lurah Gunung - 0 - 0 review"
+                },
+                {
+                    "nama": "Kantor Lurah Gandaria Utara",
+                    "rating": 4.8,
+                    "location": "-6.257143399999999,106.7880282",
+                    "routes_distance": "2.0 km",
+                    "user_ratings_total": 4,
+                    "printed": "Kantor Lurah Gandaria Utara - 4.8 - 4 review"
+                },
+                {
+                    "nama": "Kantor Lurah Melawai",
+                    "rating": 4.6,
+                    "location": "-6.248446,106.8027199",
+                    "routes_distance": "2.1 km",
+                    "user_ratings_total": 5,
+                    "printed": "Kantor Lurah Melawai - 4.6 - 5 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Cipulir",
+                    "rating": 4.1,
+                    "location": "-6.239307999999999,106.776328",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 30,
+                    "printed": "Kantor Kelurahan Cipulir - 4.1 - 30 review"
+                },
+                {
+                    "nama": "Kantor Lurah Pulo",
+                    "rating": 4.4,
+                    "location": "-6.2507457,106.8099297",
+                    "routes_distance": "3.1 km",
+                    "user_ratings_total": 23,
+                    "printed": "Kantor Lurah Pulo - 4.4 - 23 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pela Mampang",
+                    "rating": 4.5,
+                    "location": "-6.252773599999999,106.811327",
+                    "routes_distance": "3.5 km",
+                    "user_ratings_total": 53,
+                    "printed": "Kantor Kelurahan Pela Mampang - 4.5 - 53 review"
+                },
+                {
+                    "nama": "Kantor Lurah Grogol Selatan",
+                    "rating": 3.6,
+                    "location": "-6.2303432,106.7834106",
+                    "routes_distance": "3.5 km",
+                    "user_ratings_total": 89,
+                    "printed": "Kantor Lurah Grogol Selatan - 3.6 - 89 review"
+                },
+                {
+                    "nama": "Kantor Lurah Pondok Pinang",
+                    "rating": 4.2,
+                    "location": "-6.2697994,106.775948",
+                    "routes_distance": "4.3 km",
+                    "user_ratings_total": 6,
+                    "printed": "Kantor Lurah Pondok Pinang - 4.2 - 6 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pondok Pinang",
+                    "rating": 4.3,
+                    "location": "-6.2698507,106.7759066",
+                    "routes_distance": "4.3 km",
+                    "user_ratings_total": 40,
+                    "printed": "Kantor Kelurahan Pondok Pinang - 4.3 - 40 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Petogogan",
+                    "rating": 3.7,
+                    "location": "-6.244187399999999,106.8137346",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 27,
+                    "printed": "Kantor Kelurahan Petogogan - 3.7 - 27 review"
+                },
+                {
+                    "nama": "Kantor PTSP Kelurahan Petogogan",
+                    "rating": 0,
+                    "location": "-6.244352999999999,106.8135912",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor PTSP Kelurahan Petogogan - 0 - 0 review"
+                },
+                {
+                    "nama": "Kantor Lurah Gandaria Selatan",
+                    "rating": 3.6,
+                    "location": "-6.270574799999999,106.7939046",
+                    "routes_distance": "4.5 km",
+                    "user_ratings_total": 31,
+                    "printed": "Kantor Lurah Gandaria Selatan - 3.6 - 31 review"
+                },
+                {
+                    "nama": "Kantor Sementara Kelurahan Selong",
+                    "rating": 0,
+                    "location": "-6.2304764,106.8122918",
+                    "routes_distance": "4.5 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor Sementara Kelurahan Selong - 0 - 0 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Kebayoran Lama Selatan",
+                    "rating": 3.5,
+                    "location": "-6.248372499999999,106.7829424",
+                    "routes_distance": "1.0 km",
+                    "user_ratings_total": 35,
+                    "printed": "Kantor Kelurahan Kebayoran Lama Selatan - 3.5 - 35 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kebayoran Lama Utara",
+                    "rating": 4,
+                    "location": "-6.2418179,106.781065",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 40,
+                    "printed": "Kantor Kelurahan Kebayoran Lama Utara - 4 - 40 review"
+                },
+                {
+                    "nama": "Kantor Kecamatan Kebayoran Baru",
+                    "rating": 3.9,
+                    "location": "-6.2400081,106.7886233",
+                    "routes_distance": "2.1 km",
+                    "user_ratings_total": 36,
+                    "printed": "Kantor Kecamatan Kebayoran Baru - 3.9 - 36 review"
+                },
+                {
+                    "nama": "Kantor Kecamatan Kebayoran Lama",
+                    "rating": 4.2,
+                    "location": "-6.249403999999999,106.7785204",
+                    "routes_distance": "4.9 km",
+                    "user_ratings_total": 82,
+                    "printed": "Kantor Kecamatan Kebayoran Lama - 4.2 - 82 review"
+                },
+                {
+                    "nama": "Rumah Dinas Kecamatan Kebayoran Lama",
+                    "rating": 4.3,
+                    "location": "-6.249491,106.7788084",
+                    "routes_distance": "5.2 km",
+                    "user_ratings_total": 106,
+                    "printed": "Rumah Dinas Kecamatan Kebayoran Lama - 4.3 - 106 review"
+                },
+                {
+                    "nama": "Kantor Lurah Kramat Pela",
+                    "rating": 4.2,
+                    "location": "-6.2449185,106.7905902",
+                    "routes_distance": "533 m",
+                    "user_ratings_total": 20,
+                    "printed": "Kantor Lurah Kramat Pela - 4.2 - 20 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Stasiun Kebayoran",
+                    "rating": 4.4,
+                    "location": "-6.237247499999999,106.7825225",
+                    "user_ratings_total": 1294,
+                    "routes_distance": "2.8 km",
+                    "printed": "Stasiun Kebayoran - 4.4 - 1294 review (2.8 km)"
+                },
+                {
+                    "nama": "Pondok Ranji",
+                    "rating": 4.1,
+                    "location": "-6.2763674,106.744919",
+                    "user_ratings_total": 1075,
+                    "routes_distance": "9.8 km",
+                    "printed": "Pondok Ranji - 4.1 - 1075 review (9.8 km)"
+                },
+                {
+                    "nama": "Stadiun Karet",
+                    "rating": 4.1,
+                    "location": "-6.2008189,106.815776",
+                    "user_ratings_total": 615,
+                    "routes_distance": "11.4 km",
+                    "printed": "Stadiun Karet - 4.1 - 615 review (11.4 km)"
+                },
+                {
+                    "nama": "Palmerah",
+                    "rating": 4.6,
+                    "location": "-6.20753,106.79738",
+                    "user_ratings_total": 1396,
+                    "routes_distance": "6.4 km",
+                    "printed": "Palmerah - 4.6 - 1396 review (6.4 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": [
+                {
+                    "nama": "Blok M BCA",
+                    "rating": 4.8,
+                    "location": "-6.244470000000001,106.7981",
+                    "user_ratings_total": 607,
+                    "routes_distance": "1.6 km",
+                    "printed": "Blok M BCA - 4.8 - 607 review (1.6 km)"
+                }
+            ]
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "30.8 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "15.7 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "11.6 km"
+        }
+    ]
+}

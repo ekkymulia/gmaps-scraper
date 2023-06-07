@@ -1,0 +1,411 @@
+{
+    "nama": "Kemang Village",
+    "alamat": "11, Jl. Pangeran Antasari No.36, RT.11/RW.5, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150, Indonesia",
+    "kecamatan": "Kecamatan Mampang Prapatan",
+    "kelurahan": "Bangka",
+    "location": "-6.2611406,106.8123815",
+    "permalink": "kemang_village",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Ibu dan Anak Brawijaya",
+                    "rating": 4.4,
+                    "location": "-6.257505899999999,106.8075728",
+                    "user_ratings_total": 514,
+                    "routes_distance": "2.7 km",
+                    "printed": "Rumah Sakit Ibu dan Anak Brawijaya - 4.4 - 514 review (2.7 km)"
+                },
+                {
+                    "nama": "Brawijaya Hospital Antasari",
+                    "rating": 4.6,
+                    "location": "-6.257453699999999,106.8075123",
+                    "user_ratings_total": 710,
+                    "routes_distance": "2.6 km",
+                    "printed": "Brawijaya Hospital Antasari - 4.6 - 710 review (2.6 km)"
+                },
+                {
+                    "nama": "Tembuni Birth Center",
+                    "rating": 5,
+                    "location": "-6.2661168,106.8216999",
+                    "user_ratings_total": 184,
+                    "routes_distance": "3.8 km",
+                    "printed": "Tembuni Birth Center - 5 - 184 review (3.8 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Plaza Adorama",
+                    "rating": 4.3,
+                    "location": "-6.2585273,106.8153928",
+                    "user_ratings_total": 1452,
+                    "routes_distance": "2.0 km",
+                    "printed": "Plaza Adorama - 4.3 - 1452 review (2.0 km)"
+                },
+                {
+                    "nama": "Colony 6 Kemang",
+                    "rating": 4.4,
+                    "location": "-6.255493200000001,106.8104033",
+                    "user_ratings_total": 1147,
+                    "routes_distance": "1.3 km",
+                    "printed": "Colony 6 Kemang - 4.4 - 1147 review (1.3 km)"
+                },
+                {
+                    "nama": "Lippo Mall Kemang",
+                    "rating": 4.6,
+                    "location": "-6.261257899999999,106.81286",
+                    "user_ratings_total": 9984,
+                    "routes_distance": "465 m",
+                    "printed": "Lippo Mall Kemang - 4.6 - 9984 review (465 m)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Indomaret Kemang Selatan 8 T6ZO",
+                    "rating": 4.5,
+                    "location": "-6.2674666,106.8139114",
+                    "user_ratings_total": 261,
+                    "routes_distance": "2.4 km",
+                    "printed": "Indomaret Kemang Selatan 8 T6ZO - 4.5 - 261 review (2.4 km)"
+                },
+                {
+                    "nama": "Hero Kemang",
+                    "rating": 4.4,
+                    "location": "-6.265231200000001,106.8205068",
+                    "user_ratings_total": 1254,
+                    "routes_distance": "3.7 km",
+                    "printed": "Hero Kemang - 4.4 - 1254 review (3.7 km)"
+                },
+                {
+                    "nama": "Indomaret",
+                    "rating": 4.4,
+                    "location": "-6.251810399999999,106.8145478",
+                    "user_ratings_total": 263,
+                    "routes_distance": "2.0 km",
+                    "printed": "Indomaret - 4.4 - 263 review (2.0 km)"
+                },
+                {
+                    "nama": "Indomaret Kemang Timur {F295}",
+                    "rating": 4.2,
+                    "location": "-6.2639491,106.8236856",
+                    "user_ratings_total": 209,
+                    "routes_distance": "3.4 km",
+                    "printed": "Indomaret Kemang Timur {F295} - 4.2 - 209 review (3.4 km)"
+                },
+                {
+                    "nama": "Indomaret Fresh Kemang",
+                    "rating": 4.4,
+                    "location": "-6.2725835,106.8148667",
+                    "user_ratings_total": 394,
+                    "routes_distance": "3.2 km",
+                    "printed": "Indomaret Fresh Kemang - 4.4 - 394 review (3.2 km)"
+                },
+                {
+                    "nama": "Alfamart",
+                    "rating": 4.3,
+                    "location": "-6.2670447,106.8020653",
+                    "user_ratings_total": 185,
+                    "routes_distance": "2.5 km",
+                    "printed": "Alfamart - 4.3 - 185 review (2.5 km)"
+                },
+                {
+                    "nama": "Hypermart Lippo Mall Kemang",
+                    "rating": 4.5,
+                    "location": "-6.2621229,106.8128052",
+                    "user_ratings_total": 2048,
+                    "routes_distance": "220 m",
+                    "printed": "Hypermart Lippo Mall Kemang - 4.5 - 2048 review (220 m)"
+                },
+                {
+                    "nama": "BAKSO KEMANG",
+                    "rating": 4.5,
+                    "location": "-6.261970199999999,106.8155706",
+                    "user_ratings_total": 535,
+                    "routes_distance": "518 m",
+                    "printed": "BAKSO KEMANG - 4.5 - 535 review (518 m)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Indonesia Banking School",
+                    "rating": 4.5,
+                    "location": "-6.261177999999999,106.8168541",
+                    "user_ratings_total": 159,
+                    "routes_distance": "2.4 km",
+                    "printed": "Indonesia Banking School - 4.5 - 159 review (2.4 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Mentari Intercultural School Jakarta Elementary",
+                    "rating": 3.1,
+                    "location": "-6.2585594,106.8063877",
+                    "user_ratings_total": 148,
+                    "routes_distance": "2.9 km",
+                    "printed": "Mentari Intercultural School Jakarta Elementary - 3.1 - 148 review (2.9 km)"
+                },
+                {
+                    "nama": "PLAY GROUP DAN TK KEPOMPONG",
+                    "rating": 4.4,
+                    "location": "-6.2504569,106.8141992",
+                    "user_ratings_total": 105,
+                    "routes_distance": "2.2 km",
+                    "printed": "PLAY GROUP DAN TK KEPOMPONG - 4.4 - 105 review (2.2 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Plaza Adorama",
+            "restaurants": [
+                {
+                    "nama": "McDonald's Kemang Raya",
+                    "rating": 4.6,
+                    "location": "-6.257539,106.8144371",
+                    "user_ratings_total": 16114,
+                    "printed": "McDonald's Kemang Raya - 4.6 - 16114 review"
+                },
+                {
+                    "nama": "El Asador South American Restaurant Kemang",
+                    "rating": 4.5,
+                    "location": "-6.2559982,106.8150035",
+                    "user_ratings_total": 1141,
+                    "printed": "El Asador South American Restaurant Kemang - 4.5 - 1141 review"
+                },
+                {
+                    "nama": "ECOLOGY Bistro Kemang",
+                    "rating": 4.5,
+                    "location": "-6.256034199999999,106.8146235",
+                    "user_ratings_total": 1069,
+                    "printed": "ECOLOGY Bistro Kemang - 4.5 - 1069 review"
+                },
+                {
+                    "nama": "Queens Head Jakarta",
+                    "rating": 4.4,
+                    "location": "-6.2592683,106.8150723",
+                    "user_ratings_total": 788,
+                    "printed": "Queens Head Jakarta - 4.4 - 788 review"
+                },
+                {
+                    "nama": "Dim Sum Inc",
+                    "rating": 4.4,
+                    "location": "-6.2597447,106.8152114",
+                    "user_ratings_total": 731,
+                    "printed": "Dim Sum Inc - 4.4 - 731 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Colony 6 Kemang",
+            "restaurants": [
+                {
+                    "nama": "Eastern Promise Pub & Curry House",
+                    "rating": 4.4,
+                    "location": "-6.254957999999998,106.8094558",
+                    "user_ratings_total": 2244,
+                    "printed": "Eastern Promise Pub & Curry House - 4.4 - 2244 review"
+                },
+                {
+                    "nama": "Die Stube",
+                    "rating": 4.6,
+                    "location": "-6.2557914,106.8087727",
+                    "user_ratings_total": 1900,
+                    "printed": "Die Stube - 4.6 - 1900 review"
+                },
+                {
+                    "nama": "ECOLOGY Bistro Kemang",
+                    "rating": 4.5,
+                    "location": "-6.256034199999999,106.8146235",
+                    "user_ratings_total": 1069,
+                    "printed": "ECOLOGY Bistro Kemang - 4.5 - 1069 review"
+                },
+                {
+                    "nama": "Liberica",
+                    "rating": 4.4,
+                    "location": "-6.255495400000001,106.8103823",
+                    "user_ratings_total": 651,
+                    "printed": "Liberica - 4.4 - 651 review"
+                },
+                {
+                    "nama": "Ganesha Ek Sanskriti Traditional Indian cuisine",
+                    "rating": 4.4,
+                    "location": "-6.2555409,106.8096775",
+                    "user_ratings_total": 205,
+                    "printed": "Ganesha Ek Sanskriti Traditional Indian cuisine - 4.4 - 205 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Lippo Mall Kemang",
+            "restaurants": [
+                {
+                    "nama": "McDonald's Kemang Raya",
+                    "rating": 4.6,
+                    "location": "-6.257539,106.8144371",
+                    "user_ratings_total": 16114,
+                    "printed": "McDonald's Kemang Raya - 4.6 - 16114 review"
+                },
+                {
+                    "nama": "Mamma Rosy",
+                    "rating": 4.5,
+                    "location": "-6.263436100000001,106.8159668",
+                    "user_ratings_total": 3341,
+                    "printed": "Mamma Rosy - 4.5 - 3341 review"
+                },
+                {
+                    "nama": "Queens Head Jakarta",
+                    "rating": 4.4,
+                    "location": "-6.2592683,106.8150723",
+                    "user_ratings_total": 788,
+                    "printed": "Queens Head Jakarta - 4.4 - 788 review"
+                },
+                {
+                    "nama": "PappaRich Lippo Mall Kemang",
+                    "rating": 4.3,
+                    "location": "-6.261997099999999,106.8126155",
+                    "user_ratings_total": 769,
+                    "printed": "PappaRich Lippo Mall Kemang - 4.3 - 769 review"
+                },
+                {
+                    "nama": "Dim Sum Inc",
+                    "rating": 4.4,
+                    "location": "-6.2597447,106.8152114",
+                    "user_ratings_total": 731,
+                    "printed": "Dim Sum Inc - 4.4 - 731 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Kemang Sky",
+                    "rating": 4.5,
+                    "location": "-6.2577862,106.8148894",
+                    "user_ratings_total": 2496,
+                    "printed": "Starbucks Kemang Sky - 4.5 - 2496 review"
+                },
+                {
+                    "nama": "Starbucks Coffee Colony Kemang",
+                    "rating": 4.5,
+                    "location": "-6.255530299999999,106.8103929",
+                    "user_ratings_total": 109,
+                    "printed": "Starbucks Coffee Colony Kemang - 4.5 - 109 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "ACE Hardware - Lippo Kemang Village",
+                    "rating": 4.5,
+                    "location": "-6.2604622,106.812767",
+                    "user_ratings_total": 341,
+                    "printed": "ACE Hardware - Lippo Kemang Village - 4.5 - 341 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's Kemang Raya",
+                    "rating": 4.6,
+                    "location": "-6.2575463,106.8144363",
+                    "user_ratings_total": 16114,
+                    "printed": "McDonald's Kemang Raya - 4.6 - 16114 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Stasiun Kebayoran",
+                    "rating": 4.4,
+                    "location": "-6.237247499999999,106.7825225",
+                    "user_ratings_total": 1294,
+                    "routes_distance": "6.9 km",
+                    "printed": "Stasiun Kebayoran - 4.4 - 1294 review (6.9 km)"
+                },
+                {
+                    "nama": "Stasiun Pasar Minggu",
+                    "rating": 4.3,
+                    "location": "-6.284180000000001,106.84457",
+                    "user_ratings_total": 1167,
+                    "routes_distance": "7.7 km",
+                    "printed": "Stasiun Pasar Minggu - 4.3 - 1167 review (7.7 km)"
+                },
+                {
+                    "nama": "Duren Kalibata",
+                    "rating": 4.4,
+                    "location": "-6.2553166,106.8550527",
+                    "user_ratings_total": 1076,
+                    "routes_distance": "6.8 km",
+                    "printed": "Duren Kalibata - 4.4 - 1076 review (6.8 km)"
+                },
+                {
+                    "nama": "Stasiun Cawang",
+                    "rating": 4.4,
+                    "location": "-6.242487300000001,106.8588122",
+                    "user_ratings_total": 1150,
+                    "routes_distance": "8.2 km",
+                    "printed": "Stasiun Cawang - 4.4 - 1150 review (8.2 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "32.4 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "13.4 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "13.1 km"
+        }
+    ]
+}

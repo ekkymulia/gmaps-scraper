@@ -1,0 +1,638 @@
+{
+    "nama": "Westmark",
+    "alamat": "12, Jl. Tj. Duren Timur 2 No.30, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia",
+    "kecamatan": "Kecamatan Grogol petamburan",
+    "kelurahan": "Tanjung Duren Selatan",
+    "location": "-6.1803748,106.7936597",
+    "permalink": "westmark",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Anak dan Bunda Harapan Kita",
+                    "rating": 4,
+                    "location": "-6.184745300000001,106.7990034",
+                    "user_ratings_total": 744,
+                    "routes_distance": "4.3 km",
+                    "printed": "Rumah Sakit Anak dan Bunda Harapan Kita - 4 - 744 review (4.3 km)"
+                },
+                {
+                    "nama": "Pusat Jantung Nasional Harapan Kita",
+                    "rating": 4.3,
+                    "location": "-6.1854646,106.7987365",
+                    "user_ratings_total": 772,
+                    "routes_distance": "4.3 km",
+                    "printed": "Pusat Jantung Nasional Harapan Kita - 4.3 - 772 review (4.3 km)"
+                },
+                {
+                    "nama": "RS Kanker Dharmais",
+                    "rating": 3.5,
+                    "location": "-6.186828699999998,106.7979783",
+                    "user_ratings_total": 1127,
+                    "routes_distance": "4.5 km",
+                    "printed": "RS Kanker Dharmais - 3.5 - 1127 review (4.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Alexandre Christie MTA",
+                    "rating": 4.4,
+                    "location": "-6.178583100000001,106.7922128",
+                    "user_ratings_total": 324,
+                    "routes_distance": "456 m",
+                    "printed": "Alexandre Christie MTA - 4.4 - 324 review (456 m)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Hero Taman Anggrek",
+                    "rating": 4.5,
+                    "location": "-6.178812,106.792763",
+                    "user_ratings_total": 749,
+                    "routes_distance": "559 m",
+                    "printed": "Hero Taman Anggrek - 4.5 - 749 review (559 m)"
+                },
+                {
+                    "nama": "Transmart Carrefour Central Park",
+                    "rating": 4.4,
+                    "location": "-6.1771826,106.7906123",
+                    "user_ratings_total": 2958,
+                    "routes_distance": "1.0 km",
+                    "printed": "Transmart Carrefour Central Park - 4.4 - 2958 review (1.0 km)"
+                },
+                {
+                    "nama": "Ranch Market",
+                    "rating": 4.7,
+                    "location": "-6.180966,106.7922614",
+                    "user_ratings_total": 297,
+                    "routes_distance": "222 m",
+                    "printed": "Ranch Market - 4.7 - 297 review (222 m)"
+                },
+                {
+                    "nama": "KKV-Central Park",
+                    "rating": 4.7,
+                    "location": "-6.1765276,106.7910463",
+                    "user_ratings_total": 4764,
+                    "routes_distance": "1.1 km",
+                    "printed": "KKV-Central Park - 4.7 - 4764 review (1.1 km)"
+                },
+                {
+                    "nama": "Lobby Lumina, Central Park",
+                    "rating": 4.8,
+                    "location": "-6.176114999999999,106.7910888",
+                    "user_ratings_total": 105,
+                    "routes_distance": "1.1 km",
+                    "printed": "Lobby Lumina, Central Park - 4.8 - 105 review (1.1 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Universitas Kristen Krida Wacana, Kampus I",
+                    "rating": 4.6,
+                    "location": "-6.172516,106.7884645",
+                    "user_ratings_total": 477,
+                    "routes_distance": "2.4 km",
+                    "printed": "Universitas Kristen Krida Wacana, Kampus I - 4.6 - 477 review (2.4 km)"
+                },
+                {
+                    "nama": "Universitas Tarumanagara",
+                    "rating": 4.5,
+                    "location": "-6.169143800000001,106.7894575",
+                    "user_ratings_total": 952,
+                    "routes_distance": "2.1 km",
+                    "printed": "Universitas Tarumanagara - 4.5 - 952 review (2.1 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": []
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Alexandre Christie MTA",
+            "restaurants": [
+                {
+                    "nama": "Starbucks Central Park",
+                    "rating": 4.6,
+                    "location": "-6.176956,106.791294",
+                    "user_ratings_total": 1201,
+                    "printed": "Starbucks Central Park - 4.6 - 1201 review"
+                },
+                {
+                    "nama": "Penang Bistro Central Park",
+                    "rating": 4.6,
+                    "location": "-6.1763634,106.7918308",
+                    "user_ratings_total": 670,
+                    "printed": "Penang Bistro Central Park - 4.6 - 670 review"
+                },
+                {
+                    "nama": "HokBen Mal Taman Anggrek",
+                    "rating": 4.6,
+                    "location": "-6.1787673,106.7924403",
+                    "user_ratings_total": 517,
+                    "printed": "HokBen Mal Taman Anggrek - 4.6 - 517 review"
+                },
+                {
+                    "nama": "Yoshinoya",
+                    "rating": 4.3,
+                    "location": "-6.1786459,106.7917281",
+                    "user_ratings_total": 348,
+                    "printed": "Yoshinoya - 4.3 - 348 review"
+                },
+                {
+                    "nama": "Ta Wan - Mall Taman Anggrek",
+                    "rating": 4.3,
+                    "location": "-6.178583100000001,106.7922128",
+                    "user_ratings_total": 204,
+                    "printed": "Ta Wan - Mall Taman Anggrek - 4.3 - 204 review"
+                },
+                {
+                    "nama": "OldTown White Coffee Anggrek",
+                    "rating": 4.3,
+                    "location": "-6.17861,106.792569",
+                    "user_ratings_total": 193,
+                    "printed": "OldTown White Coffee Anggrek - 4.3 - 193 review"
+                },
+                {
+                    "nama": "Pepper Lunch Mall Taman Anggrek",
+                    "rating": 4.2,
+                    "location": "-6.178888899999999,106.7927778",
+                    "user_ratings_total": 178,
+                    "printed": "Pepper Lunch Mall Taman Anggrek - 4.2 - 178 review"
+                },
+                {
+                    "nama": "Vin+ GSA (CP)",
+                    "rating": 4.5,
+                    "location": "-6.177368899999999,106.78975",
+                    "user_ratings_total": 138,
+                    "printed": "Vin+ GSA (CP) - 4.5 - 138 review"
+                },
+                {
+                    "nama": "Sate Khas Senayan Taman Anggrek",
+                    "rating": 4,
+                    "location": "-6.178508399999999,106.792524",
+                    "user_ratings_total": 133,
+                    "printed": "Sate Khas Senayan Taman Anggrek - 4 - 133 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Tomang Raya",
+                    "rating": 4.5,
+                    "location": "-6.177237,106.7993341",
+                    "user_ratings_total": 2414,
+                    "printed": "Starbucks Tomang Raya - 4.5 - 2414 review"
+                },
+                {
+                    "nama": "Starbucks Central Park",
+                    "rating": 4.6,
+                    "location": "-6.176956,106.791294",
+                    "user_ratings_total": 1201,
+                    "printed": "Starbucks Central Park - 4.6 - 1201 review"
+                },
+                {
+                    "nama": "Starbucks Neo SOHO",
+                    "rating": 4.6,
+                    "location": "-6.1752213,106.7903039",
+                    "user_ratings_total": 606,
+                    "printed": "Starbucks Neo SOHO - 4.6 - 606 review"
+                },
+                {
+                    "nama": "Starbucks",
+                    "rating": 4.5,
+                    "location": "-6.1899551,106.7987151",
+                    "user_ratings_total": 398,
+                    "printed": "Starbucks - 4.5 - 398 review"
+                },
+                {
+                    "nama": "Starbucks MGR 1",
+                    "rating": 4.7,
+                    "location": "-6.1742365,106.7884907",
+                    "user_ratings_total": 298,
+                    "printed": "Starbucks MGR 1 - 4.7 - 298 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "Ace Home Center Neo Soho Mall",
+                    "rating": 4.6,
+                    "location": "-6.1746663,106.7896856",
+                    "user_ratings_total": 934,
+                    "printed": "Ace Home Center Neo Soho Mall - 4.6 - 934 review"
+                },
+                {
+                    "nama": "ACE HARDWARE - MAL TAMAN ANGGREK",
+                    "rating": 4.7,
+                    "location": "-6.179391,106.792549",
+                    "user_ratings_total": 732,
+                    "printed": "ACE HARDWARE - MAL TAMAN ANGGREK - 4.7 - 732 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": []
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "GoWork",
+                    "rating": 4.9,
+                    "location": "-6.177408,106.7913133",
+                    "routes_distance": "1.1 km",
+                    "user_ratings_total": 136,
+                    "printed": "GoWork - 4.9 - 136 review"
+                },
+                {
+                    "nama": "VCO At Work",
+                    "rating": 0,
+                    "location": "-6.176186,106.7919543",
+                    "routes_distance": "1.2 km",
+                    "user_ratings_total": 0,
+                    "printed": "VCO At Work - 0 - 0 review"
+                },
+                {
+                    "nama": "OFFICE 99 - Central Park",
+                    "rating": 0,
+                    "location": "-6.174748,106.7899227",
+                    "routes_distance": "1.2 km",
+                    "user_ratings_total": 0,
+                    "printed": "OFFICE 99 - Central Park - 0 - 0 review"
+                },
+                {
+                    "nama": "Werkspace Soho Capital",
+                    "rating": 4.4,
+                    "location": "-6.1745788,106.7897985",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 99,
+                    "printed": "Werkspace Soho Capital - 4.4 - 99 review"
+                },
+                {
+                    "nama": "JOKEM - Shops & Business Gallery",
+                    "rating": 5,
+                    "location": "-6.187425699999999,106.7874322",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 4,
+                    "printed": "JOKEM - Shops & Business Gallery - 5 - 4 review"
+                },
+                {
+                    "nama": "Infinity Virtual Office and Co Working Space",
+                    "rating": 0,
+                    "location": "-6.1880118,106.796432",
+                    "routes_distance": "2.9 km",
+                    "user_ratings_total": 0,
+                    "printed": "Infinity Virtual Office and Co Working Space - 0 - 0 review"
+                },
+                {
+                    "nama": "Alfa-X S. Parman",
+                    "rating": 4.7,
+                    "location": "-6.1696767,106.7905446",
+                    "routes_distance": "3.5 km",
+                    "user_ratings_total": 294,
+                    "printed": "Alfa-X S. Parman - 4.7 - 294 review"
+                },
+                {
+                    "nama": "XWORK - Sewa Office & Virtual Office Terlengkap",
+                    "rating": 4.3,
+                    "location": "-6.1898896,106.7988509",
+                    "routes_distance": "4.9 km",
+                    "user_ratings_total": 26,
+                    "printed": "XWORK - Sewa Office & Virtual Office Terlengkap - 4.3 - 26 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Halte Ukrida",
+                    "rating": 4.3,
+                    "location": "-6.1723468,106.7885456",
+                    "routes_distance": "2.4 km",
+                    "user_ratings_total": 11,
+                    "printed": "Halte Ukrida - 4.3 - 11 review"
+                },
+                {
+                    "nama": "Seberang S. Parman Podomoro City",
+                    "rating": 3.5,
+                    "location": "-6.1757,106.79314",
+                    "routes_distance": "2.9 km",
+                    "user_ratings_total": 22,
+                    "printed": "Seberang S. Parman Podomoro City - 3.5 - 22 review"
+                },
+                {
+                    "nama": "Tomang Mandala",
+                    "rating": 4.5,
+                    "location": "-6.1768813,106.8003688",
+                    "routes_distance": "3.9 km",
+                    "user_ratings_total": 40,
+                    "printed": "Tomang Mandala - 4.5 - 40 review"
+                },
+                {
+                    "nama": "Halte Harapan Kita",
+                    "rating": 4.4,
+                    "location": "-6.1848711,106.7969407",
+                    "routes_distance": "4.0 km",
+                    "user_ratings_total": 35,
+                    "printed": "Halte Harapan Kita - 4.4 - 35 review"
+                },
+                {
+                    "nama": "Taman Anggrek",
+                    "rating": 4.2,
+                    "location": "-6.1761046,106.7926042",
+                    "routes_distance": "630 m",
+                    "user_ratings_total": 6,
+                    "printed": "Taman Anggrek - 4.2 - 6 review"
+                },
+                {
+                    "nama": "Halte transjakarta",
+                    "rating": 0,
+                    "location": "-6.1893042,106.7970598",
+                    "routes_distance": "7.2 km",
+                    "user_ratings_total": 0,
+                    "printed": "Halte transjakarta - 0 - 0 review"
+                },
+                {
+                    "nama": "Slipi Kemanggisan",
+                    "rating": 4.8,
+                    "location": "-6.1893042,106.7970598",
+                    "routes_distance": "7.2 km",
+                    "user_ratings_total": 11,
+                    "printed": "Slipi Kemanggisan - 4.8 - 11 review"
+                },
+                {
+                    "nama": "S. Parman Podomoro City",
+                    "rating": 4.1,
+                    "location": "-6.1754972,106.7922023",
+                    "routes_distance": "709 m",
+                    "user_ratings_total": 86,
+                    "printed": "S. Parman Podomoro City - 4.1 - 86 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat",
+                    "rating": 4.3,
+                    "location": "-6.1812238,106.7877018",
+                    "routes_distance": "1.4 km",
+                    "user_ratings_total": 36,
+                    "printed": "Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat - 4.3 - 36 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Cengkareng Timur",
+                    "rating": 3.6,
+                    "location": "-6.1451837,106.7331986",
+                    "routes_distance": "10.0 km",
+                    "user_ratings_total": 58,
+                    "printed": "Kantor Kelurahan Cengkareng Timur - 3.6 - 58 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Paseban",
+                    "rating": 4,
+                    "location": "-6.1916663,106.8539021",
+                    "routes_distance": "10.7 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kantor Kelurahan Paseban - 4 - 29 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pegangsaan Jakarta Pusat",
+                    "rating": 4.3,
+                    "location": "-6.204030899999999,106.8502538",
+                    "routes_distance": "12.4 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Pegangsaan Jakarta Pusat - 4.3 - 21 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kuningan Timur",
+                    "rating": 4.3,
+                    "location": "-6.227610899999999,106.8306336",
+                    "routes_distance": "12.4 km",
+                    "user_ratings_total": 14,
+                    "printed": "Kantor Kelurahan Kuningan Timur - 4.3 - 14 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN SETIA BUDI",
+                    "rating": 5,
+                    "location": "-6.2082574,106.8240108",
+                    "routes_distance": "13.6 km",
+                    "user_ratings_total": 1,
+                    "printed": "KANTOR KELURAHAN SETIA BUDI - 5 - 1 review"
+                },
+                {
+                    "nama": "Kantor Lurah Manggarai Selatan",
+                    "rating": 4.2,
+                    "location": "-6.2181169,106.8471166",
+                    "routes_distance": "16.7 km",
+                    "user_ratings_total": 18,
+                    "printed": "Kantor Lurah Manggarai Selatan - 4.2 - 18 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kemanggisan",
+                    "rating": 3.5,
+                    "location": "-6.1923996,106.7868096",
+                    "routes_distance": "2.7 km",
+                    "user_ratings_total": 31,
+                    "printed": "Kantor Kelurahan Kemanggisan - 3.5 - 31 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Jelambar",
+                    "rating": 3.3,
+                    "location": "-6.1614746,106.7816313",
+                    "routes_distance": "4.3 km",
+                    "user_ratings_total": 41,
+                    "printed": "Kantor Kelurahan Jelambar - 3.3 - 41 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Tomang Grogol Petamburan",
+                    "rating": 4.3,
+                    "location": "-6.1718573,106.8001774",
+                    "routes_distance": "4.3 km",
+                    "user_ratings_total": 24,
+                    "printed": "Kantor Kelurahan Tomang Grogol Petamburan - 4.3 - 24 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN CIDENG",
+                    "rating": 4.1,
+                    "location": "-6.167923099999999,106.8092933",
+                    "routes_distance": "5.5 km",
+                    "user_ratings_total": 8,
+                    "printed": "KANTOR KELURAHAN CIDENG - 4.1 - 8 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kampung Bali",
+                    "rating": 4.3,
+                    "location": "-6.1842932,106.8178366",
+                    "routes_distance": "5.6 km",
+                    "user_ratings_total": 12,
+                    "printed": "Kantor Kelurahan Kampung Bali - 4.3 - 12 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN GAMBIR",
+                    "rating": 4.2,
+                    "location": "-6.1800766,106.8200188",
+                    "routes_distance": "5.7 km",
+                    "user_ratings_total": 5,
+                    "printed": "KANTOR KELURAHAN GAMBIR - 4.2 - 5 review"
+                },
+                {
+                    "nama": "Kantor Lurah Pekojan",
+                    "rating": 4,
+                    "location": "-6.139516899999999,106.8006989",
+                    "routes_distance": "5.9 km",
+                    "user_ratings_total": 33,
+                    "printed": "Kantor Lurah Pekojan - 4 - 33 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN PETOJO SELATAN",
+                    "rating": 4.8,
+                    "location": "-6.1703994,106.8166394",
+                    "routes_distance": "6.4 km",
+                    "user_ratings_total": 5,
+                    "printed": "KANTOR KELURAHAN PETOJO SELATAN - 4.8 - 5 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat",
+                    "rating": 4.3,
+                    "location": "-6.1812238,106.7877018",
+                    "routes_distance": "1.4 km",
+                    "user_ratings_total": 36,
+                    "printed": "Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat - 4.3 - 36 review"
+                },
+                {
+                    "nama": "Kantor Kecamatan Grogol Petamburan",
+                    "rating": 4.1,
+                    "location": "-6.177926299999999,106.7833081",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 52,
+                    "printed": "Kantor Kecamatan Grogol Petamburan - 4.1 - 52 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Tanjung Duren Utara Jakarta Barat",
+                    "rating": 3.6,
+                    "location": "-6.1734019,106.7889442",
+                    "routes_distance": "2.3 km",
+                    "user_ratings_total": 17,
+                    "printed": "Kantor Kelurahan Tanjung Duren Utara Jakarta Barat - 3.6 - 17 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kota Bambu Selatan",
+                    "rating": 4.1,
+                    "location": "-6.185195200000001,106.8019928",
+                    "routes_distance": "3.6 km",
+                    "user_ratings_total": 22,
+                    "printed": "Kantor Kelurahan Kota Bambu Selatan - 4.1 - 22 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Tomang Grogol Petamburan",
+                    "rating": 4.3,
+                    "location": "-6.1718573,106.8001774",
+                    "routes_distance": "4.3 km",
+                    "user_ratings_total": 24,
+                    "printed": "Kantor Kelurahan Tomang Grogol Petamburan - 4.3 - 24 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Stasiun Tanahabang",
+                    "rating": 4.2,
+                    "location": "-6.185702099999999,106.8108536",
+                    "user_ratings_total": 3181,
+                    "routes_distance": "5.7 km",
+                    "printed": "Stasiun Tanahabang - 4.2 - 3181 review (5.7 km)"
+                },
+                {
+                    "nama": "Grogol",
+                    "rating": 4.3,
+                    "location": "-6.1620333,106.7893663",
+                    "user_ratings_total": 514,
+                    "routes_distance": "3.2 km",
+                    "printed": "Grogol - 4.3 - 514 review (3.2 km)"
+                },
+                {
+                    "nama": "Stadiun Karet",
+                    "rating": 4.1,
+                    "location": "-6.2008189,106.815776",
+                    "user_ratings_total": 616,
+                    "routes_distance": "7.4 km",
+                    "printed": "Stadiun Karet - 4.1 - 616 review (7.4 km)"
+                },
+                {
+                    "nama": "Stasiun Sudirman",
+                    "rating": 4.4,
+                    "location": "-6.202268399999999,106.8231961",
+                    "user_ratings_total": 2218,
+                    "routes_distance": "12.1 km",
+                    "printed": "Stasiun Sudirman - 4.4 - 2218 review (12.1 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "21.2 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "18.9 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "7.7 km"
+        }
+    ]
+}

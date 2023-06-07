@@ -1,0 +1,463 @@
+{
+    "nama": "Wang Residence",
+    "alamat": "Jalan Panjang kavling 18 RT.5/RW.11 Kedoya Utara DKI Jakarta RT.5, RW.11, Kedoya Utara, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11520, Indonesia",
+    "kecamatan": "Kecamatan Kebon Jeruk",
+    "kelurahan": "Kedoya Utara",
+    "location": "-6.173341,106.7660618",
+    "permalink": "wang_residence",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "RS Grha Kedoya",
+                    "rating": 3.9,
+                    "location": "-6.168310399999999,106.7649289",
+                    "user_ratings_total": 1104,
+                    "routes_distance": "2.6 km",
+                    "printed": "RS Grha Kedoya - 3.9 - 1104 review (2.6 km)"
+                },
+                {
+                    "nama": "Spine Clinic Family Holistic (Terapi Skoliosis Jakarta)",
+                    "rating": 4.9,
+                    "location": "-6.162033800000001,106.7706695",
+                    "user_ratings_total": 200,
+                    "routes_distance": "3.8 km",
+                    "printed": "Spine Clinic Family Holistic (Terapi Skoliosis Jakarta) - 4.9 - 200 review (3.8 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Wang Plaza",
+                    "rating": 4.5,
+                    "location": "-6.1729507,106.7659789",
+                    "user_ratings_total": 726,
+                    "routes_distance": "1.3 km",
+                    "printed": "Wang Plaza - 4.5 - 726 review (1.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Super Indo Sunrise",
+                    "rating": 4.3,
+                    "location": "-6.1744021,106.7653809",
+                    "user_ratings_total": 1464,
+                    "routes_distance": "1.0 km",
+                    "printed": "Super Indo Sunrise - 4.3 - 1464 review (1.0 km)"
+                },
+                {
+                    "nama": "Farmers Market Wang Plaza",
+                    "rating": 4.6,
+                    "location": "-6.1729016,106.7659871",
+                    "user_ratings_total": 250,
+                    "routes_distance": "1.3 km",
+                    "printed": "Farmers Market Wang Plaza - 4.6 - 250 review (1.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "VOSmed Bimbel Kedokteran",
+                    "rating": 5,
+                    "location": "-6.172216400000001,106.76237",
+                    "user_ratings_total": 112,
+                    "routes_distance": "2.0 km",
+                    "printed": "VOSmed Bimbel Kedokteran - 5 - 112 review (2.0 km)"
+                },
+                {
+                    "nama": "Kursus Mengemudi Sunrise Jaya",
+                    "rating": 4.9,
+                    "location": "-6.175182100000001,106.7618563",
+                    "user_ratings_total": 389,
+                    "routes_distance": "2.3 km",
+                    "printed": "Kursus Mengemudi Sunrise Jaya - 4.9 - 389 review (2.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Pondok Pesantren Asshiddiqiyah Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.174638399999999,106.7661815",
+                    "user_ratings_total": 167,
+                    "routes_distance": "152 m",
+                    "printed": "Pondok Pesantren Asshiddiqiyah Jakarta - 4.6 - 167 review (152 m)"
+                },
+                {
+                    "nama": "SMA NEGERI 57 Jakarta Barat",
+                    "rating": 4.5,
+                    "location": "-6.1745918,106.7563867",
+                    "user_ratings_total": 158,
+                    "routes_distance": "3.1 km",
+                    "printed": "SMA NEGERI 57 Jakarta Barat - 4.5 - 158 review (3.1 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Wang Plaza",
+            "restaurants": [
+                {
+                    "nama": "Pizza Hut Restoran",
+                    "rating": 4.4,
+                    "location": "-6.1696933,106.7666216",
+                    "user_ratings_total": 2341,
+                    "printed": "Pizza Hut Restoran - 4.4 - 2341 review"
+                },
+                {
+                    "nama": "XYZ BEER GARDEN",
+                    "rating": 4.3,
+                    "location": "-6.1701287,106.7653562",
+                    "user_ratings_total": 500,
+                    "printed": "XYZ BEER GARDEN - 4.3 - 500 review"
+                },
+                {
+                    "nama": "Sei'ra - Makanan Khas NTT",
+                    "rating": 4.2,
+                    "location": "-6.169802799999998,106.7687222",
+                    "user_ratings_total": 288,
+                    "printed": "Sei'ra - Makanan Khas NTT - 4.2 - 288 review"
+                },
+                {
+                    "nama": "Hoghock, Taman Ratu",
+                    "rating": 4.5,
+                    "location": "-6.169668,106.767049",
+                    "user_ratings_total": 255,
+                    "printed": "Hoghock, Taman Ratu - 4.5 - 255 review"
+                },
+                {
+                    "nama": "Fujiyama 55 Ramen",
+                    "rating": 4.6,
+                    "location": "-6.172903199999999,106.7659326",
+                    "user_ratings_total": 210,
+                    "printed": "Fujiyama 55 Ramen - 4.6 - 210 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Wang Plaza",
+                    "rating": 4.7,
+                    "location": "-6.1729507,106.7658871",
+                    "user_ratings_total": 118,
+                    "printed": "Starbucks Wang Plaza - 4.7 - 118 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "ACE HARDWARE - GREEN VILLE",
+                    "rating": 4.5,
+                    "location": "-6.1696775,106.7706052",
+                    "user_ratings_total": 304,
+                    "printed": "ACE HARDWARE - GREEN VILLE - 4.5 - 304 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's",
+                    "rating": 4.4,
+                    "location": "-6.1658674,106.7627826",
+                    "user_ratings_total": 7073,
+                    "printed": "McDonald's - 4.4 - 7073 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": []
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Kedoya Assiddiqiyah",
+                    "rating": 4.3,
+                    "location": "-6.1745,106.76585",
+                    "routes_distance": "125 m",
+                    "user_ratings_total": 27,
+                    "printed": "Kedoya Assiddiqiyah - 4.3 - 27 review"
+                },
+                {
+                    "nama": "Kedoya Green Garden",
+                    "rating": 4.4,
+                    "location": "-6.16444,106.76301",
+                    "routes_distance": "2.1 km",
+                    "user_ratings_total": 66,
+                    "printed": "Kedoya Green Garden - 4.4 - 66 review"
+                },
+                {
+                    "nama": "Halte Busway Indovision 2",
+                    "rating": 4.3,
+                    "location": "-6.165032,106.7631965",
+                    "routes_distance": "2.7 km",
+                    "user_ratings_total": 3,
+                    "printed": "Halte Busway Indovision 2 - 4.3 - 3 review"
+                },
+                {
+                    "nama": "INDOSIAR 2",
+                    "rating": 4.7,
+                    "location": "-6.1633865,106.7752051",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 3,
+                    "printed": "INDOSIAR 2 - 4.7 - 3 review"
+                },
+                {
+                    "nama": "Indosiar",
+                    "rating": 4.1,
+                    "location": "-6.16338,106.77514",
+                    "routes_distance": "4.7 km",
+                    "user_ratings_total": 190,
+                    "printed": "Indosiar - 4.1 - 190 review"
+                },
+                {
+                    "nama": "Gang H. Maya 1",
+                    "rating": 0,
+                    "location": "-6.1779077,106.7661553",
+                    "routes_distance": "560 m",
+                    "user_ratings_total": 0,
+                    "printed": "Gang H. Maya 1 - 0 - 0 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Pos RW 01 Duri Kepa",
+                    "rating": 4.5,
+                    "location": "-6.1864041,106.7729423",
+                    "routes_distance": "1.8 km",
+                    "user_ratings_total": 6,
+                    "printed": "Pos RW 01 Duri Kepa - 4.5 - 6 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Duri Kepa",
+                    "rating": 4.3,
+                    "location": "-6.1850817,106.7732485",
+                    "routes_distance": "2.0 km",
+                    "user_ratings_total": 191,
+                    "printed": "Kantor Kelurahan Duri Kepa - 4.3 - 191 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kedoya Utara",
+                    "rating": 3.6,
+                    "location": "-6.1769932,106.7674239",
+                    "routes_distance": "2.9 km",
+                    "user_ratings_total": 34,
+                    "printed": "Kantor Kelurahan Kedoya Utara - 3.6 - 34 review"
+                },
+                {
+                    "nama": "Kelurahan Kedoya Selatan",
+                    "rating": 3.9,
+                    "location": "-6.179808899999999,106.7589868",
+                    "routes_distance": "3.5 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kelurahan Kedoya Selatan - 3.9 - 29 review"
+                },
+                {
+                    "nama": "Kantor Lurah Kebon Jeruk Jakarta Barat",
+                    "rating": 4.3,
+                    "location": "-6.1898545,106.7730356",
+                    "routes_distance": "3.9 km",
+                    "user_ratings_total": 51,
+                    "printed": "Kantor Lurah Kebon Jeruk Jakarta Barat - 4.3 - 51 review"
+                },
+                {
+                    "nama": "Kelurahan Kebon Jeruk Baru",
+                    "rating": 4.6,
+                    "location": "-6.1899102,106.7730444",
+                    "routes_distance": "3.9 km",
+                    "user_ratings_total": 76,
+                    "printed": "Kelurahan Kebon Jeruk Baru - 4.6 - 76 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat",
+                    "rating": 4.3,
+                    "location": "-6.1812238,106.7877018",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 36,
+                    "printed": "Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat - 4.3 - 36 review"
+                },
+                {
+                    "nama": "Kantor Kecamatan Kebon Jeruk",
+                    "rating": 4.2,
+                    "location": "-6.1987428,106.7643212",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 53,
+                    "printed": "Kantor Kecamatan Kebon Jeruk - 4.2 - 53 review"
+                },
+                {
+                    "nama": "Sekretariat RW.010 Kel. Kebon Jeruk",
+                    "rating": 5,
+                    "location": "-6.192945,106.7639025",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 25,
+                    "printed": "Sekretariat RW.010 Kel. Kebon Jeruk - 5 - 25 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan WIJAYA KUSUMA",
+                    "rating": 4,
+                    "location": "-6.153682000000001,106.772469",
+                    "routes_distance": "4.5 km",
+                    "user_ratings_total": 25,
+                    "printed": "Kantor Kelurahan WIJAYA KUSUMA - 4 - 25 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kembangan Selatan",
+                    "rating": 4.6,
+                    "location": "-6.1834128,106.7517917",
+                    "routes_distance": "4.5 km",
+                    "user_ratings_total": 104,
+                    "printed": "Kantor Kelurahan Kembangan Selatan - 4.6 - 104 review"
+                },
+                {
+                    "nama": "Kantor RW 04 Kel.Wijaya Kusuma Kec.Grogol Petamburan Jakarta Barat",
+                    "rating": 5,
+                    "location": "-6.156213,106.7724041",
+                    "routes_distance": "4.6 km",
+                    "user_ratings_total": 1,
+                    "printed": "Kantor RW 04 Kel.Wijaya Kusuma Kec.Grogol Petamburan Jakarta Barat - 5 - 1 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kemanggisan",
+                    "rating": 3.5,
+                    "location": "-6.1923996,106.7868096",
+                    "routes_distance": "5.0 km",
+                    "user_ratings_total": 31,
+                    "printed": "Kantor Kelurahan Kemanggisan - 3.5 - 31 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Tanjung Duren Utara Jakarta Barat",
+                    "rating": 3.6,
+                    "location": "-6.1734019,106.7889442",
+                    "routes_distance": "5.2 km",
+                    "user_ratings_total": 17,
+                    "printed": "Kantor Kelurahan Tanjung Duren Utara Jakarta Barat - 3.6 - 17 review"
+                },
+                {
+                    "nama": "Kantor Kecamatan Palmerah",
+                    "rating": 4.2,
+                    "location": "-6.198869200000001,106.7869606",
+                    "routes_distance": "5.4 km",
+                    "user_ratings_total": 36,
+                    "printed": "Kantor Kecamatan Palmerah - 4.2 - 36 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Kedoya Utara",
+                    "rating": 3.6,
+                    "location": "-6.1769932,106.7674239",
+                    "routes_distance": "2.9 km",
+                    "user_ratings_total": 34,
+                    "printed": "Kantor Kelurahan Kedoya Utara - 3.6 - 34 review"
+                },
+                {
+                    "nama": "Kelurahan Kedoya Selatan",
+                    "rating": 3.9,
+                    "location": "-6.179808899999999,106.7589868",
+                    "routes_distance": "3.5 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kelurahan Kedoya Selatan - 3.9 - 29 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Grogol",
+                    "rating": 4.3,
+                    "location": "-6.1620333,106.7893663",
+                    "user_ratings_total": 513,
+                    "routes_distance": "8.5 km",
+                    "printed": "Grogol - 4.3 - 513 review (8.5 km)"
+                },
+                {
+                    "nama": "Stasiun Tanahabang",
+                    "rating": 4.2,
+                    "location": "-6.185702099999999,106.8108536",
+                    "user_ratings_total": 3175,
+                    "routes_distance": "8.6 km",
+                    "printed": "Stasiun Tanahabang - 4.2 - 3175 review (8.6 km)"
+                },
+                {
+                    "nama": "Pesing",
+                    "rating": 4.3,
+                    "location": "-6.161257899999999,106.7714439",
+                    "user_ratings_total": 390,
+                    "routes_distance": "4.0 km",
+                    "printed": "Pesing - 4.3 - 390 review (4.0 km)"
+                },
+                {
+                    "nama": "Duri",
+                    "rating": 4.3,
+                    "location": "-6.155246500000001,106.8014521",
+                    "user_ratings_total": 2027,
+                    "routes_distance": "9.2 km",
+                    "printed": "Duri - 4.3 - 2027 review (9.2 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "26.5 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "21.0 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "10.7 km"
+        }
+    ]
+}

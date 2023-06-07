@@ -1,0 +1,220 @@
+The Kuningan Place
+
+the_kuningan_place
+
+Kordinat: -6.2128364,106.8353598
+
+7, apartement kuningan place, Jl. H Kavling No.15, RT.7/RW.1, Menteng Atas, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12980, Indonesia
+
+===================
+
+hospital:
+
+RS MMC - 4 - 412 review (1.7 km)lokasi: -6.219863699999999,106.8323987
+Rumah Sakit Agung - 3 - 422 review (4.0 km)lokasi: -6.209101899999999,106.8464209
+Mayapada Hospital Kuningan (MHKN) - 4.2 - 760 review (1.4 km)lokasi: -6.2186758,106.8314818
+
+
+shopping_mall:
+
+Plaza Festival Mall Kuningan - 4.4 - 24019 review (1.3 km)lokasi: -6.221077800000001,106.8324111
+Bursa Sajadah - Jakarta - 4.4 - 465 review (3.8 km)lokasi: -6.2163108,106.8439182
+
+
+supermarket:
+
+Farmers Market - 4.4 - 545 review (1.1 km)lokasi: -6.2182508,106.8351427
+Alfamart - 4.3 - 152 review (3.8 km)lokasi: -6.216434,106.8278736
+Alfamart Karbela - 4.3 - 269 review (3.6 km)lokasi: -6.2138645,106.8266133
+Indomaret Plus karet pedurenan - 3.8 - 101 review (3.2 km)lokasi: -6.2213327,106.827018
+Transmart Kota Kasablanka - 4.4 - 4581 review (2.8 km)lokasi: -6.2226058,106.8423994
+Alfamidi Minangkabau - 4.2 - 176 review (2.7 km)lokasi: -6.213905899999999,106.8433089
+
+
+university:
+
+Universitas Teknologi Muhammadiyah Jakarta - 4.6 - 123 review (2.6 km)lokasi: -6.214390199999999,106.8431799
+Perbanas Institute Jakarta (Yayasan Pendidikan Perbanas) - 4.6 - 383 review (3.3 km)lokasi: -6.2174872,106.8288798
+Universitas Bakrie - 4.5 - 306 review (1.2 km)lokasi: -6.220378800000001,106.8332191
+
+
+school:
+
+Swastik Mart - 4.2 - 286 review (652 m)lokasi: -6.217766499999999,106.8360385
+SMA Negeri 43 Jakarta Selatan - 4.4 - 149 review (2.8 km)lokasi: -6.216239799999999,106.8416266
+
+
+===================
+
+Rasto di Mall Plaza Festival Mall Kuningan:
+
+Dim Sum Inc - 4.4 - 2271 reviewlokasi: -6.221576900000001,106.8331726
+Seasonal Tastes at The Westin Jakarta - 4.6 - 1613 reviewlokasi: -6.223906899999998,106.8337168
+HokBen Pasar Festival - 4.8 - 1531 reviewlokasi: -6.2214595,106.8326448
+Warung Tekko - 4.3 - 537 reviewlokasi: -6.2217109,106.832831
+Sky Garden Cafe - 4.5 - 374 reviewlokasi: -6.220917999999999,106.829175
+
+
+Rasto di Mall Bursa Sajadah - Jakarta:
+
+Seafood Ade Fani 67 (Manggarai) - 4.5 - 3061 reviewlokasi: -6.214823,106.8433016
+Martabak Kubang Hayuda - 4.4 - 2574 reviewlokasi: -6.2172353,106.8443846
+Toba Tabo Lapo Batak - 4.4 - 979 reviewlokasi: -6.215948900000001,106.8435287
+Toba Dream Jakarta - 4.6 - 417 reviewlokasi: -6.2159627,106.8434644
+Viky Sianipar Inc. - 4.5 - 182 reviewlokasi: -6.2139767,106.8439515
+
+
+===================
+
+Keyword Data Starbucks:
+
+
+
+Starbucks - 4.5 - 912 reviewlokasi: -6.2157754,106.8301967
+Starbucks - 4.5 - 570 reviewlokasi: -6.2206375,106.8323776
+Starbucks Rasuna Epicentrum - 4.4 - 416 reviewlokasi: -6.2179162,106.8350783
+
+
+===================
+
+Keyword Data Ace Hardware:
+
+
+
+ACE Hardware - Kota Kasablanka - 4.6 - 905 reviewlokasi: -6.2222965,106.8423884
+ACE HARDWARE - EPIWALK KUNINGAN - 4.5 - 152 reviewlokasi: -6.218128099999999,106.8354255
+
+
+===================
+
+Keyword Data Guardian:
+
+
+
+
+
+===================
+
+Keyword Data Century:
+
+
+
+
+
+===================
+
+Keyword Data Mc Donald's:
+
+
+
+McDonald's - 4.5 - 4663 reviewlokasi: -6.220647899999999,106.8324844
+
+
+===================
+
+Keyword Data Electronic City:
+
+
+
+
+
+===================
+
+Keyword Data Co Working Space:
+
+Coworkinc, Impact Hub Jakarta, Spacemob Gama, Ko+labora Flexispace, Rooftop 24 Coworking Space & Pisa Mart, WU Hub Coworking Space, 
+
+Coworkinc - 4.6 - 197 review - 1.5 kmlokasi: -6.2196288,106.8319934
+Impact Hub Jakarta - 5 - 9 review - 1.5 kmlokasi: -6.219606,106.8320397
+Spacemob Gama - 4.6 - 46 review - 2.2 kmlokasi: -6.224006,106.833789
+Ko+labora Flexispace - 4.9 - 10 review - 3.3 kmlokasi: -6.2135678,106.8287108
+Rooftop 24 Coworking Space & Pisa Mart - 5 - 2 review - 3.3 kmlokasi: -6.2199197,106.8269168
+WU Hub Coworking Space - 4.4 - 75 review - 697 mlokasi: -6.2138784,106.8311068
+
+
+===================
+
+Keyword Data Halte Transjakarta:
+
+Setiabudi Utara Aini 1, Setiabudi Utara Aini, Karet Kuningan 1, Halimun, Halte Halimun, GOR Soemantri 1, GOR Sumantri, Karet Kuningan 2, Latuharhary, Kuningan Madya Aini, Pasar Rumput, 
+
+Setiabudi Utara Aini 1 - 4.3 - 20 review - 1.3 kmlokasi: -6.2081973,106.8301081
+Setiabudi Utara Aini - 4.3 - 11 review - 1.3 kmlokasi: -6.208463,106.830183
+Karet Kuningan 1 - 3.8 - 13 review - 1.3 kmlokasi: -6.2173859,106.8310774
+Halimun - 3.4 - 10 review - 1.6 kmlokasi: -6.205127699999999,106.8333873
+Halte Halimun - 3.8 - 22 review - 1.7 kmlokasi: -6.2050595,106.8325191
+GOR Soemantri 1 - 4.5 - 11 review - 1.7 kmlokasi: -6.2208853,106.8322681
+GOR Sumantri - 4.1 - 66 review - 2.6 kmlokasi: -6.2210012,106.8318541
+Karet Kuningan 2 - 4.3 - 19 review - 3.0 kmlokasi: -6.21733,106.83067
+Latuharhary - 4.4 - 33 review - 3.1 kmlokasi: -6.2028065,106.8276578
+Kuningan Madya Aini - 4.2 - 44 review - 3.5 kmlokasi: -6.21266,106.83042
+Pasar Rumput - 4.2 - 136 review - 4.2 kmlokasi: -6.2071384,106.8411367
+
+
+===================
+
+Keyword Data Kantor Kelurahan:
+
+KANTOR KELURAHAN SETIA BUDI, Kantor Kelurahan Pegangsaan Jakarta Pusat, Kantor Lurah Gondangdia, Kantor Kelurahan Kuningan Timur, Kantor Lurah Manggarai Selatan, Kantor Lurah Cikini, Kantor Lurah Bendungan Hilir, Kantor Kelurahan Tebet Timur, Kantor Kelurahan Paseban, KANTOR KELURAHAN GAMBIR, Kantor Kelurahan Petogogan, Kantor Kelurahan Kebon Sirih, Kantor Kelurahan Kampung Bali, Kantor Kelurahan Palmeriam, Kantor Kelurahan Cempaka Putih Barat, 
+
+KANTOR KELURAHAN SETIA BUDI - 5 - 1 review - 3.2 kmlokasi: -6.2082574,106.8240108
+Kantor Kelurahan Pegangsaan Jakarta Pusat - 4.3 - 21 review - 3.9 kmlokasi: -6.204030899999999,106.8502538
+Kantor Lurah Gondangdia - 3.2 - 11 review - 4.0 kmlokasi: -6.190382199999999,106.8346434
+Kantor Kelurahan Kuningan Timur - 4.3 - 14 review - 4.1 kmlokasi: -6.227610899999999,106.8306336
+Kantor Lurah Manggarai Selatan - 4.2 - 18 review - 4.3 kmlokasi: -6.2181169,106.8471166
+Kantor Lurah Cikini - 4.4 - 23 review - 4.6 kmlokasi: -6.188789799999999,106.8390841
+Kantor Lurah Bendungan Hilir - 4.2 - 29 review - 4.8 kmlokasi: -6.201669000000001,106.8082743
+Kantor Kelurahan Tebet Timur - 4.1 - 21 review - 5.3 kmlokasi: -6.2286079,106.8580033
+Kantor Kelurahan Paseban - 4 - 29 review - 5.9 kmlokasi: -6.1916663,106.8539021
+KANTOR KELURAHAN GAMBIR - 4.2 - 5 review - 5.9 kmlokasi: -6.1800766,106.8200188
+Kantor Kelurahan Petogogan - 3.7 - 27 review - 5.9 kmlokasi: -6.244187399999999,106.8137346
+Kantor Kelurahan Kebon Sirih - 3.1 - 18 review - 6.2 kmlokasi: -6.1841627,106.8293249
+Kantor Kelurahan Kampung Bali - 4.3 - 12 review - 6.2 kmlokasi: -6.1842932,106.8178366
+Kantor Kelurahan Palmeriam - 3.9 - 32 review - 6.2 kmlokasi: -6.2070666,106.8614112
+Kantor Kelurahan Cempaka Putih Barat - 3.7 - 39 review - 7.8 kmlokasi: -6.1833225,106.8676692
+
+
+===================
+
+Keyword Data Kantor Kecamatan:
+
+Kantor Lurah Guntur, Kantor Lurah Menteng Atas, KANTOR KELURAHAN KARET SETIABUDI, Kantor Kelurahan Menteng Jakarta Pusat, 
+
+Kantor Lurah Guntur - 3.5 - 4 review - 1.5 kmlokasi: -6.2072134,106.8342636
+Kantor Lurah Menteng Atas - 4 - 1 review - 2.3 kmlokasi: -6.221834899999999,106.8383922
+KANTOR KELURAHAN KARET SETIABUDI - 4 - 2 review - 3.1 kmlokasi: -6.210857499999999,106.8258601
+Kantor Kelurahan Menteng Jakarta Pusat - 4.4 - 84 review - 3.4 kmlokasi: -6.2037721,106.8446467
+
+
+===================
+
+Dynamic Transport:
+
+train_stationManggarai - 4.3 - 4640 review (4.8 km)lokasi: -6.209901899999998,106.8502202
+train_stationStasiun Sudirman - 4.4 - 2217 review (3.9 km)lokasi: -6.202268399999999,106.8231961
+train_stationStadiun Karet - 4.1 - 615 review (5.8 km)lokasi: -6.2008189,106.815776
+train_stationTebet - 4.5 - 2038 review (5.2 km)lokasi: -6.226111800000001,106.8582931
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+bus_stationPasar Rumput - 4.2 - 136 review (4.2 km)lokasi: -6.2071384,106.8411367
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 31.4 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 11.6 km
+
+
+Stasiun Gambirroute distance: 5.4 km
+
+

@@ -1,0 +1,679 @@
+{
+    "nama": "Branz BSD",
+    "alamat": "Jl. BSD Grand Boulevard, Pagedangan, Kec. Pagedangan, Kabupaten Tangerang, Banten, Indonesia",
+    "kecamatan": "Kecamatan Pagedangan",
+    "kelurahan": "Pagedangan",
+    "location": "-6.3002498,106.6439713",
+    "permalink": "branz_bsd",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "RS THT Proklamasi BSD",
+                    "rating": 3.7,
+                    "location": "-6.2963178,106.6684868",
+                    "user_ratings_total": 151,
+                    "routes_distance": "4.5 km",
+                    "printed": "RS THT Proklamasi BSD - 3.7 - 151 review (4.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "\u00c6ON Mall BSD City",
+                    "rating": 4.7,
+                    "location": "-6.305325199999999,106.6435146",
+                    "user_ratings_total": 77902,
+                    "routes_distance": "1.4 km",
+                    "printed": "\u00c6ON Mall BSD City - 4.7 - 77902 review (1.4 km)"
+                },
+                {
+                    "nama": "QBIG BSD City",
+                    "rating": 4.4,
+                    "location": "-6.2845625,106.6380557",
+                    "user_ratings_total": 7515,
+                    "routes_distance": "2.1 km",
+                    "printed": "QBIG BSD City - 4.4 - 7515 review (2.1 km)"
+                },
+                {
+                    "nama": "Teraskota Entertainment Center",
+                    "rating": 4.4,
+                    "location": "-6.295563299999999,106.6674867",
+                    "user_ratings_total": 22888,
+                    "routes_distance": "4.6 km",
+                    "printed": "Teraskota Entertainment Center - 4.4 - 22888 review (4.6 km)"
+                },
+                {
+                    "nama": "MINISO",
+                    "rating": 4.6,
+                    "location": "-6.304668699999999,106.6435277",
+                    "user_ratings_total": 4162,
+                    "routes_distance": "1.3 km",
+                    "printed": "MINISO - 4.6 - 4162 review (1.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "AEON Store BSD City",
+                    "rating": 4.8,
+                    "location": "-6.3050114,106.6427107",
+                    "user_ratings_total": 2414,
+                    "routes_distance": "1.2 km",
+                    "printed": "AEON Store BSD City - 4.8 - 2414 review (1.2 km)"
+                },
+                {
+                    "nama": "QBIG BSD City",
+                    "rating": 4.4,
+                    "location": "-6.2845625,106.6380557",
+                    "user_ratings_total": 7515,
+                    "routes_distance": "2.1 km",
+                    "printed": "QBIG BSD City - 4.4 - 7515 review (2.1 km)"
+                },
+                {
+                    "nama": "Carrefour Bumi Serpong Damai",
+                    "rating": 4.4,
+                    "location": "-6.286138999999999,106.664237",
+                    "user_ratings_total": 201,
+                    "routes_distance": "4.9 km",
+                    "printed": "Carrefour Bumi Serpong Damai - 4.4 - 201 review (4.9 km)"
+                },
+                {
+                    "nama": "Ranch Market The Breeze",
+                    "rating": 4.6,
+                    "location": "-6.302245000000001,106.653258",
+                    "user_ratings_total": 1865,
+                    "routes_distance": "2.4 km",
+                    "printed": "Ranch Market The Breeze - 4.6 - 1865 review (2.4 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Unika Atma Jaya Kampus 3 BSD - Cisauk",
+                    "rating": 4.7,
+                    "location": "-6.3177878,106.6503682",
+                    "user_ratings_total": 433,
+                    "routes_distance": "4.3 km",
+                    "printed": "Unika Atma Jaya Kampus 3 BSD - Cisauk - 4.7 - 433 review (4.3 km)"
+                },
+                {
+                    "nama": "Universitas Prasetiya Mulya",
+                    "rating": 4.6,
+                    "location": "-6.3003827,106.6395386",
+                    "user_ratings_total": 318,
+                    "routes_distance": "1.6 km",
+                    "printed": "Universitas Prasetiya Mulya - 4.6 - 318 review (1.6 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Jakarta Nanyang School",
+                    "rating": 4.7,
+                    "location": "-6.287889099999999,106.6509049",
+                    "user_ratings_total": 158,
+                    "routes_distance": "2.9 km",
+                    "printed": "Jakarta Nanyang School - 4.7 - 158 review (2.9 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "\u00c6ON Mall BSD City",
+            "restaurants": [
+                {
+                    "nama": "On-Yasai",
+                    "rating": 4.6,
+                    "location": "-6.3039858,106.6446457",
+                    "user_ratings_total": 604,
+                    "printed": "On-Yasai - 4.6 - 604 review"
+                },
+                {
+                    "nama": "Imperial Kitchen & Dimsum",
+                    "rating": 4.2,
+                    "location": "-6.3049371,106.6437436",
+                    "user_ratings_total": 595,
+                    "printed": "Imperial Kitchen & Dimsum - 4.2 - 595 review"
+                },
+                {
+                    "nama": "Steak 21",
+                    "rating": 4.5,
+                    "location": "-6.3049066,106.6434547",
+                    "user_ratings_total": 509,
+                    "printed": "Steak 21 - 4.5 - 509 review"
+                },
+                {
+                    "nama": "Solaria - AEON BSD",
+                    "rating": 3.9,
+                    "location": "-6.3046296,106.6429828",
+                    "user_ratings_total": 447,
+                    "printed": "Solaria - AEON BSD - 3.9 - 447 review"
+                },
+                {
+                    "nama": "Uchino Shokudo",
+                    "rating": 4.3,
+                    "location": "-6.304046599999999,106.644325",
+                    "user_ratings_total": 349,
+                    "printed": "Uchino Shokudo - 4.3 - 349 review"
+                },
+                {
+                    "nama": "Sukiya Gyudon",
+                    "rating": 4.1,
+                    "location": "-6.3049653,106.6433353",
+                    "user_ratings_total": 311,
+                    "printed": "Sukiya Gyudon - 4.1 - 311 review"
+                },
+                {
+                    "nama": "Ta Wan - AEON Mall BSD",
+                    "rating": 4.2,
+                    "location": "-6.304941400000001,106.6436255",
+                    "user_ratings_total": 232,
+                    "printed": "Ta Wan - AEON Mall BSD - 4.2 - 232 review"
+                },
+                {
+                    "nama": "WING.STOP",
+                    "rating": 4.3,
+                    "location": "-6.3049354,106.6433759",
+                    "user_ratings_total": 229,
+                    "printed": "WING.STOP - 4.3 - 229 review"
+                },
+                {
+                    "nama": "Pepper Lunch Express Aeon Mall BSD City",
+                    "rating": 4.6,
+                    "location": "-6.303781899999999,106.6442388",
+                    "user_ratings_total": 219,
+                    "printed": "Pepper Lunch Express Aeon Mall BSD City - 4.6 - 219 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "QBIG BSD City",
+            "restaurants": [
+                {
+                    "nama": "Restaurant Penang QBIG BSD City",
+                    "rating": 4.3,
+                    "location": "-6.2846144,106.6366076",
+                    "user_ratings_total": 489,
+                    "printed": "Restaurant Penang QBIG BSD City - 4.3 - 489 review"
+                },
+                {
+                    "nama": "Tokio Sushi, QBig BSD City",
+                    "rating": 4.7,
+                    "location": "-6.285057500000001,106.6372031",
+                    "user_ratings_total": 380,
+                    "printed": "Tokio Sushi, QBig BSD City - 4.7 - 380 review"
+                },
+                {
+                    "nama": "Ramen Ten 10 QBIG BSD City",
+                    "rating": 4.3,
+                    "location": "-6.284836400000001,106.6366616",
+                    "user_ratings_total": 288,
+                    "printed": "Ramen Ten 10 QBIG BSD City - 4.3 - 288 review"
+                },
+                {
+                    "nama": "Big Fish Streat QBIG BSD City",
+                    "rating": 4,
+                    "location": "-6.285173,106.6368547",
+                    "user_ratings_total": 167,
+                    "printed": "Big Fish Streat QBIG BSD City - 4 - 167 review"
+                },
+                {
+                    "nama": "Sapo Oriental QBIG BSD City",
+                    "rating": 4.3,
+                    "location": "-6.2841502,106.6365188",
+                    "user_ratings_total": 158,
+                    "printed": "Sapo Oriental QBIG BSD City - 4.3 - 158 review"
+                },
+                {
+                    "nama": "KFC QBig BSD City",
+                    "rating": 3.5,
+                    "location": "-6.284416999999999,106.63725",
+                    "user_ratings_total": 139,
+                    "printed": "KFC QBig BSD City - 3.5 - 139 review"
+                },
+                {
+                    "nama": "Warung Tekko QBIG BSD City",
+                    "rating": 3.8,
+                    "location": "-6.285059700000001,106.6372879",
+                    "user_ratings_total": 139,
+                    "printed": "Warung Tekko QBIG BSD City - 3.8 - 139 review"
+                },
+                {
+                    "nama": "CFC QBIG BSD City",
+                    "rating": 4,
+                    "location": "-6.2839468,106.6364957",
+                    "user_ratings_total": 119,
+                    "printed": "CFC QBIG BSD City - 4 - 119 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Teraskota Entertainment Center",
+            "restaurants": [
+                {
+                    "nama": "HokBen",
+                    "rating": 4.4,
+                    "location": "-6.2940143,106.6657198",
+                    "user_ratings_total": 5681,
+                    "printed": "HokBen - 4.4 - 5681 review"
+                },
+                {
+                    "nama": "Steak Hotel by Holycow!",
+                    "rating": 4.3,
+                    "location": "-6.29407,106.666718",
+                    "user_ratings_total": 1773,
+                    "printed": "Steak Hotel by Holycow! - 4.3 - 1773 review"
+                },
+                {
+                    "nama": "Gandy Steak & Bakery",
+                    "rating": 4.4,
+                    "location": "-6.295343299999998,106.667286",
+                    "user_ratings_total": 424,
+                    "printed": "Gandy Steak & Bakery - 4.4 - 424 review"
+                },
+                {
+                    "nama": "LEVEL UP Caf\u00e9",
+                    "rating": 4.5,
+                    "location": "-6.2935961,106.6669941",
+                    "user_ratings_total": 257,
+                    "printed": "LEVEL UP Caf\u00e9 - 4.5 - 257 review"
+                },
+                {
+                    "nama": "Kafe Betawi Teras Kota",
+                    "rating": 4.1,
+                    "location": "-6.295340400000001,106.6673628",
+                    "user_ratings_total": 159,
+                    "printed": "Kafe Betawi Teras Kota - 4.1 - 159 review"
+                },
+                {
+                    "nama": "Bakso Lapangan Tembak Senayan - Teras Kota",
+                    "rating": 3.9,
+                    "location": "-6.2957902,106.6672163",
+                    "user_ratings_total": 158,
+                    "printed": "Bakso Lapangan Tembak Senayan - Teras Kota - 3.9 - 158 review"
+                },
+                {
+                    "nama": "Dum Dum Thai Tea",
+                    "rating": 4.4,
+                    "location": "-6.295605699999999,106.6675065",
+                    "user_ratings_total": 158,
+                    "printed": "Dum Dum Thai Tea - 4.4 - 158 review"
+                },
+                {
+                    "nama": "Ekaria Delight - BSD",
+                    "rating": 4.5,
+                    "location": "-6.294631,106.667855",
+                    "user_ratings_total": 153,
+                    "printed": "Ekaria Delight - BSD - 4.5 - 153 review"
+                },
+                {
+                    "nama": "Daun Curry Asian Cuisine",
+                    "rating": 4.5,
+                    "location": "-6.2956476,106.6675556",
+                    "user_ratings_total": 123,
+                    "printed": "Daun Curry Asian Cuisine - 4.5 - 123 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "MINISO",
+            "restaurants": [
+                {
+                    "nama": "On-Yasai",
+                    "rating": 4.6,
+                    "location": "-6.3039858,106.6446457",
+                    "user_ratings_total": 604,
+                    "printed": "On-Yasai - 4.6 - 604 review"
+                },
+                {
+                    "nama": "Steak 21",
+                    "rating": 4.5,
+                    "location": "-6.3049066,106.6434547",
+                    "user_ratings_total": 509,
+                    "printed": "Steak 21 - 4.5 - 509 review"
+                },
+                {
+                    "nama": "Solaria - AEON BSD",
+                    "rating": 3.9,
+                    "location": "-6.3046296,106.6429828",
+                    "user_ratings_total": 447,
+                    "printed": "Solaria - AEON BSD - 3.9 - 447 review"
+                },
+                {
+                    "nama": "Uchino Shokudo",
+                    "rating": 4.3,
+                    "location": "-6.304046599999999,106.644325",
+                    "user_ratings_total": 349,
+                    "printed": "Uchino Shokudo - 4.3 - 349 review"
+                },
+                {
+                    "nama": "Sukiya Gyudon",
+                    "rating": 4.1,
+                    "location": "-6.3049653,106.6433353",
+                    "user_ratings_total": 311,
+                    "printed": "Sukiya Gyudon - 4.1 - 311 review"
+                },
+                {
+                    "nama": "KFC",
+                    "rating": 4.3,
+                    "location": "-6.304593499999998,106.6433979",
+                    "user_ratings_total": 289,
+                    "printed": "KFC - 4.3 - 289 review"
+                },
+                {
+                    "nama": "WING.STOP",
+                    "rating": 4.3,
+                    "location": "-6.3049354,106.6433759",
+                    "user_ratings_total": 229,
+                    "printed": "WING.STOP - 4.3 - 229 review"
+                },
+                {
+                    "nama": "Pepper Lunch Express Aeon Mall BSD City",
+                    "rating": 4.6,
+                    "location": "-6.303781899999999,106.6442388",
+                    "user_ratings_total": 219,
+                    "printed": "Pepper Lunch Express Aeon Mall BSD City - 4.6 - 219 review"
+                },
+                {
+                    "nama": "Sate Khas Senayan",
+                    "rating": 4.3,
+                    "location": "-6.303766,106.6444359",
+                    "user_ratings_total": 202,
+                    "printed": "Sate Khas Senayan - 4.3 - 202 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks AEON Mall BSD",
+                    "rating": 4.6,
+                    "location": "-6.3044202,106.6438763",
+                    "user_ratings_total": 1145,
+                    "printed": "Starbucks AEON Mall BSD - 4.6 - 1145 review"
+                },
+                {
+                    "nama": "Starbucks The Breeze BSD",
+                    "rating": 4.6,
+                    "location": "-6.301918499999999,106.654375",
+                    "user_ratings_total": 1088,
+                    "printed": "Starbucks The Breeze BSD - 4.6 - 1088 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": []
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's Edutown BSD",
+                    "rating": 4.6,
+                    "location": "-6.300000199999999,106.6409227",
+                    "user_ratings_total": 6044,
+                    "printed": "McDonald's Edutown BSD - 4.6 - 6044 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "GoWork BSD Green Office Park - Coworking and Office Space",
+                    "rating": 4.8,
+                    "location": "-6.302161,106.6500626",
+                    "routes_distance": "1.8 km",
+                    "user_ratings_total": 119,
+                    "printed": "GoWork BSD Green Office Park - Coworking and Office Space - 4.8 - 119 review"
+                },
+                {
+                    "nama": "Cohive Green Office Park 9 BSD",
+                    "rating": 4.7,
+                    "location": "-6.302567199999999,106.65198",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 153,
+                    "printed": "Cohive Green Office Park 9 BSD - 4.7 - 153 review"
+                },
+                {
+                    "nama": "TwoSpaces CDP - Coworking Space",
+                    "rating": 4.9,
+                    "location": "-6.3057374,106.6524254",
+                    "routes_distance": "2.7 km",
+                    "user_ratings_total": 87,
+                    "printed": "TwoSpaces CDP - Coworking Space - 4.9 - 87 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Halte Bus BSD City",
+                    "rating": 5,
+                    "location": "-6.3008675,106.6520979",
+                    "routes_distance": "2.9 km",
+                    "user_ratings_total": 1,
+                    "printed": "Halte Bus BSD City - 5 - 1 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Lurah Pakulonan",
+                    "rating": 0,
+                    "location": "-6.2400861,106.6473816",
+                    "routes_distance": "10.4 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor Lurah Pakulonan - 0 - 0 review"
+                },
+                {
+                    "nama": "KANTOR LURAH BAKTI JAYA",
+                    "rating": 5,
+                    "location": "-6.3522379,106.7017272",
+                    "routes_distance": "11.6 km",
+                    "user_ratings_total": 2,
+                    "printed": "KANTOR LURAH BAKTI JAYA - 5 - 2 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Binong",
+                    "rating": 2.3,
+                    "location": "-6.2400237,106.5811295",
+                    "routes_distance": "14.7 km",
+                    "user_ratings_total": 17,
+                    "printed": "Kantor Kelurahan Binong - 2.3 - 17 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pondok Kacang Barat",
+                    "rating": 3.3,
+                    "location": "-6.2552737,106.6832833",
+                    "routes_distance": "16.0 km",
+                    "user_ratings_total": 23,
+                    "printed": "Kantor Kelurahan Pondok Kacang Barat - 3.3 - 23 review"
+                },
+                {
+                    "nama": "Kantor Lurah Pondok Pucung",
+                    "rating": 4.7,
+                    "location": "-6.2799054,106.7070915",
+                    "routes_distance": "16.2 km",
+                    "user_ratings_total": 38,
+                    "printed": "Kantor Lurah Pondok Pucung - 4.7 - 38 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN PARUNG SERAB",
+                    "rating": 4.3,
+                    "location": "-6.2522747,106.6996855",
+                    "routes_distance": "17.8 km",
+                    "user_ratings_total": 41,
+                    "printed": "KANTOR KELURAHAN PARUNG SERAB - 4.3 - 41 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Sampora",
+                    "rating": 3.8,
+                    "location": "-6.3084241,106.656068",
+                    "routes_distance": "2.8 km",
+                    "user_ratings_total": 4,
+                    "printed": "Kantor Kelurahan Sampora - 3.8 - 4 review"
+                },
+                {
+                    "nama": "Kantor kelurahan cilenggang",
+                    "rating": 0,
+                    "location": "-6.304240999999999,106.6685931",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor kelurahan cilenggang - 0 - 0 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Serpong",
+                    "rating": 4.5,
+                    "location": "-6.3208782,106.661966",
+                    "routes_distance": "4.9 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Serpong - 4.5 - 21 review"
+                },
+                {
+                    "nama": "Kantor Lurah Serpong",
+                    "rating": 0,
+                    "location": "-6.3208769,106.6619669",
+                    "routes_distance": "4.9 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor Lurah Serpong - 0 - 0 review"
+                },
+                {
+                    "nama": "Kantor Lurah Lengkong Gudang Timur",
+                    "rating": 4.1,
+                    "location": "-6.294799599999999,106.6871928",
+                    "routes_distance": "6.1 km",
+                    "user_ratings_total": 8,
+                    "printed": "Kantor Lurah Lengkong Gudang Timur - 4.1 - 8 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Rawa Buntu",
+                    "rating": 3.6,
+                    "location": "-6.3184631,106.6810688",
+                    "routes_distance": "6.3 km",
+                    "user_ratings_total": 19,
+                    "printed": "Kantor Kelurahan Rawa Buntu - 3.6 - 19 review"
+                },
+                {
+                    "nama": "Kantor Lurah Pondok Jagung",
+                    "rating": 0,
+                    "location": "-6.2608197,106.6528401",
+                    "routes_distance": "6.7 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor Lurah Pondok Jagung - 0 - 0 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Lengkong, Kecamatan Serpong, Tangerang Selatan Banten",
+                    "rating": 5,
+                    "location": "-6.2786849,106.6676721",
+                    "routes_distance": "6.8 km",
+                    "user_ratings_total": 1,
+                    "printed": "Kantor Kelurahan Lengkong, Kecamatan Serpong, Tangerang Selatan Banten - 5 - 1 review"
+                },
+                {
+                    "nama": "Kantor Lurah Lengkong Karya",
+                    "rating": 4.4,
+                    "location": "-6.278681199999999,106.6675976",
+                    "routes_distance": "6.8 km",
+                    "user_ratings_total": 43,
+                    "printed": "Kantor Lurah Lengkong Karya - 4.4 - 43 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": []
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Serpong",
+                    "rating": 4.1,
+                    "location": "-6.3202143,106.6655593",
+                    "user_ratings_total": 663,
+                    "routes_distance": "4.7 km",
+                    "printed": "Serpong - 4.1 - 663 review (4.7 km)"
+                },
+                {
+                    "nama": "Rawa Buntu",
+                    "rating": 4.4,
+                    "location": "-6.314824499999999,106.6760222",
+                    "user_ratings_total": 1641,
+                    "routes_distance": "6.2 km",
+                    "printed": "Rawa Buntu - 4.4 - 1641 review (6.2 km)"
+                },
+                {
+                    "nama": "Stasiun Cisauk",
+                    "rating": 4.6,
+                    "location": "-6.3244818,106.6415885",
+                    "user_ratings_total": 1000,
+                    "routes_distance": "3.7 km",
+                    "printed": "Stasiun Cisauk - 4.6 - 1000 review (3.7 km)"
+                },
+                {
+                    "nama": "Stasiun serpong",
+                    "rating": 4.3,
+                    "location": "-6.3196333,106.6637867",
+                    "user_ratings_total": 135,
+                    "routes_distance": "4.5 km",
+                    "printed": "Stasiun serpong - 4.3 - 135 review (4.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "35.8 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "44.4 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "39.7 km"
+        }
+    ]
+}

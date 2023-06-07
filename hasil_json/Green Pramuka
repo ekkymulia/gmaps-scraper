@@ -1,0 +1,323 @@
+{
+    "nama": "Green Pramuka",
+    "alamat": "Apartemen Green Pramuka, Jl. Rawasari Sel., RT.12/RW.9, Cemp. Putih Tim., Kec. Cemp. Putih, Jkt Utara, Jawa Barat 10510, Indonesia",
+    "kecamatan": "Kecamatan Cempaka Putih",
+    "kelurahan": "Cempaka Putih Timur",
+    "location": "-6.1858596,106.8717241",
+    "permalink": "green_pramuka",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "RSUD Cempaka Putih",
+                    "rating": 3.6,
+                    "location": "-6.184781300000001,106.8724572",
+                    "user_ratings_total": 314,
+                    "routes_distance": "202 m",
+                    "printed": "RSUD Cempaka Putih - 3.6 - 314 review (202 m)"
+                },
+                {
+                    "nama": "Puskesmas Kecamatan Cempaka Putih",
+                    "rating": 4,
+                    "location": "-6.190340300000001,106.8706914",
+                    "user_ratings_total": 233,
+                    "routes_distance": "687 m",
+                    "printed": "Puskesmas Kecamatan Cempaka Putih - 4 - 233 review (687 m)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Green Pramuka Square Mall",
+                    "rating": 4.5,
+                    "location": "-6.189147999999999,106.874014",
+                    "user_ratings_total": 26710,
+                    "routes_distance": "891 m",
+                    "printed": "Green Pramuka Square Mall - 4.5 - 26710 review (891 m)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Indomaret Plus Percetakan Negara 1 tc66",
+                    "rating": 4.3,
+                    "location": "-6.1878041,106.8645947",
+                    "user_ratings_total": 189,
+                    "routes_distance": "954 m",
+                    "printed": "Indomaret Plus Percetakan Negara 1 tc66 - 4.3 - 189 review (954 m)"
+                },
+                {
+                    "nama": "Alfamidi Mardani 2",
+                    "rating": 4.3,
+                    "location": "-6.1867084,106.8634357",
+                    "user_ratings_total": 391,
+                    "routes_distance": "1.2 km",
+                    "printed": "Alfamidi Mardani 2 - 4.3 - 391 review (1.2 km)"
+                },
+                {
+                    "nama": "Indomaret Fresh Cempaka Putih Raya 100",
+                    "rating": 4.5,
+                    "location": "-6.176492400000001,106.8723364",
+                    "user_ratings_total": 1539,
+                    "routes_distance": "2.1 km",
+                    "printed": "Indomaret Fresh Cempaka Putih Raya 100 - 4.5 - 1539 review (2.1 km)"
+                },
+                {
+                    "nama": "Alfamart Balai Rakyat",
+                    "rating": 4.2,
+                    "location": "-6.1956826,106.8684015",
+                    "user_ratings_total": 198,
+                    "routes_distance": "2.0 km",
+                    "printed": "Alfamart Balai Rakyat - 4.2 - 198 review (2.0 km)"
+                },
+                {
+                    "nama": "Alfamidi Mardani (SC64)",
+                    "rating": 4.2,
+                    "location": "-6.1823013,106.8616693",
+                    "user_ratings_total": 346,
+                    "routes_distance": "1.7 km",
+                    "printed": "Alfamidi Mardani (SC64) - 4.2 - 346 review (1.7 km)"
+                },
+                {
+                    "nama": "Indomaret Apt Green Pramuka Faggio",
+                    "rating": 4.6,
+                    "location": "-6.188271400000001,106.8710166",
+                    "user_ratings_total": 156,
+                    "routes_distance": "544 m",
+                    "printed": "Indomaret Apt Green Pramuka Faggio - 4.6 - 156 review (544 m)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Indonesia International Institute for Life-Sciences (i3L)",
+                    "rating": 4.7,
+                    "location": "-6.1791977,106.8780933",
+                    "user_ratings_total": 140,
+                    "routes_distance": "1.8 km",
+                    "printed": "Indonesia International Institute for Life-Sciences (i3L) - 4.7 - 140 review (1.8 km)"
+                },
+                {
+                    "nama": "Universitas Jakarta",
+                    "rating": 4.7,
+                    "location": "-6.179468099999999,106.8789403",
+                    "user_ratings_total": 197,
+                    "routes_distance": "3.5 km",
+                    "printed": "Universitas Jakarta - 4.7 - 197 review (3.5 km)"
+                },
+                {
+                    "nama": "PKBM Ristek Nusantara Jaya - Jakarta",
+                    "rating": 4.7,
+                    "location": "-6.190571299999999,106.8620041",
+                    "user_ratings_total": 391,
+                    "routes_distance": "1.5 km",
+                    "printed": "PKBM Ristek Nusantara Jaya - Jakarta - 4.7 - 391 review (1.5 km)"
+                },
+                {
+                    "nama": "Universitas Negeri Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.1943826,106.8791516",
+                    "user_ratings_total": 2749,
+                    "routes_distance": "2.8 km",
+                    "printed": "Universitas Negeri Jakarta - 4.6 - 2749 review (2.8 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Madrasah Aliyah Negeri 3 Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.1846348,106.8727566",
+                    "user_ratings_total": 105,
+                    "routes_distance": "219 m",
+                    "printed": "Madrasah Aliyah Negeri 3 Jakarta - 4.6 - 105 review (219 m)"
+                },
+                {
+                    "nama": "Indonesia International Institute for Life-Sciences (i3L)",
+                    "rating": 4.7,
+                    "location": "-6.1791977,106.8780933",
+                    "user_ratings_total": 140,
+                    "routes_distance": "1.8 km",
+                    "printed": "Indonesia International Institute for Life-Sciences (i3L) - 4.7 - 140 review (1.8 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Green Pramuka Square Mall",
+            "restaurants": [
+                {
+                    "nama": "ICHIBAN SUSHI GREEN PRAMUKA SQUARE",
+                    "rating": 4.3,
+                    "location": "-6.1895677,106.8742678",
+                    "user_ratings_total": 568,
+                    "printed": "ICHIBAN SUSHI GREEN PRAMUKA SQUARE - 4.3 - 568 review"
+                },
+                {
+                    "nama": "Ta Wan - Green Pramuka Square",
+                    "rating": 4.3,
+                    "location": "-6.189643799999999,106.8739993",
+                    "user_ratings_total": 566,
+                    "printed": "Ta Wan - Green Pramuka Square - 4.3 - 566 review"
+                },
+                {
+                    "nama": "Bebek Salero- Cempaka Putih",
+                    "rating": 4.3,
+                    "location": "-6.186018700000001,106.8722564",
+                    "user_ratings_total": 459,
+                    "printed": "Bebek Salero- Cempaka Putih - 4.3 - 459 review"
+                },
+                {
+                    "nama": "Pappajack Green Pramuka Square",
+                    "rating": 4.2,
+                    "location": "-6.1893917,106.8740404",
+                    "user_ratings_total": 264,
+                    "printed": "Pappajack Green Pramuka Square - 4.2 - 264 review"
+                },
+                {
+                    "nama": "Solaria - Green Pramuka Square Mall",
+                    "rating": 3,
+                    "location": "-6.189366700000001,106.8743633",
+                    "user_ratings_total": 148,
+                    "printed": "Solaria - Green Pramuka Square Mall - 3 - 148 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Coffee Cempaka Putih",
+                    "rating": 4.6,
+                    "location": "-6.1771588,106.8752658",
+                    "user_ratings_total": 1003,
+                    "printed": "Starbucks Coffee Cempaka Putih - 4.6 - 1003 review"
+                },
+                {
+                    "nama": "Starbucks Coffee",
+                    "rating": 4.5,
+                    "location": "-6.1888253,106.8744788",
+                    "user_ratings_total": 984,
+                    "printed": "Starbucks Coffee - 4.5 - 984 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "ACE Hardware Green Pramuka",
+                    "rating": 4.6,
+                    "location": "-6.1893671,106.8740279",
+                    "user_ratings_total": 526,
+                    "printed": "ACE Hardware Green Pramuka - 4.6 - 526 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": [
+                {
+                    "nama": "Apotek Guardian",
+                    "rating": 4.5,
+                    "location": "-6.1764797,106.8727469",
+                    "user_ratings_total": 129,
+                    "printed": "Apotek Guardian - 4.5 - 129 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's Pemuda",
+                    "rating": 4.6,
+                    "location": "-6.1925865,106.8816069",
+                    "user_ratings_total": 2914,
+                    "printed": "McDonald's Pemuda - 4.6 - 2914 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Kramat",
+                    "rating": 4.3,
+                    "location": "-6.1935616,106.8563387",
+                    "user_ratings_total": 313,
+                    "routes_distance": "2.5 km",
+                    "printed": "Kramat - 4.3 - 313 review (2.5 km)"
+                },
+                {
+                    "nama": "Gang Sentiong",
+                    "rating": 4.2,
+                    "location": "-6.186,106.85068",
+                    "user_ratings_total": 390,
+                    "routes_distance": "3.3 km",
+                    "printed": "Gang Sentiong - 4.2 - 390 review (3.3 km)"
+                },
+                {
+                    "nama": "Jatinegara",
+                    "rating": 4.4,
+                    "location": "-6.214923799999999,106.8702903",
+                    "user_ratings_total": 2480,
+                    "routes_distance": "4.0 km",
+                    "printed": "Jatinegara - 4.4 - 2480 review (4.0 km)"
+                },
+                {
+                    "nama": "Stasiun Pasar Senen",
+                    "rating": 4.4,
+                    "location": "-6.174700000000001,106.84435",
+                    "user_ratings_total": 8708,
+                    "routes_distance": "4.5 km",
+                    "printed": "Stasiun Pasar Senen - 4.4 - 8708 review (4.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "34.6 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "9.6 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "7.0 km"
+        }
+    ]
+}

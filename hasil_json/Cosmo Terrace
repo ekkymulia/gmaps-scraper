@@ -1,0 +1,796 @@
+{
+    "nama": "Cosmo Terrace",
+    "alamat": "Jl. K.H. Mas Mansyur No.1, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230, Indonesia",
+    "kecamatan": "Kecamatan Tanah Abang",
+    "kelurahan": "Kebon Melati",
+    "location": "-6.1943129,106.814747",
+    "permalink": "cosmo_terrace",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "RSUD Tanah Abang",
+                    "rating": 4.3,
+                    "location": "-6.190887,106.814577",
+                    "user_ratings_total": 235,
+                    "routes_distance": "2.0 km",
+                    "printed": "RSUD Tanah Abang - 4.3 - 235 review (2.0 km)"
+                },
+                {
+                    "nama": "Rumah Sakit Pelni",
+                    "rating": 3.9,
+                    "location": "-6.193155700000001,106.8036125",
+                    "user_ratings_total": 2170,
+                    "routes_distance": "3.3 km",
+                    "printed": "Rumah Sakit Pelni - 3.9 - 2170 review (3.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Thamrin City",
+                    "rating": 4.4,
+                    "location": "-6.193937399999999,106.8161005",
+                    "user_ratings_total": 30174,
+                    "routes_distance": "1.5 km",
+                    "printed": "Thamrin City - 4.4 - 30174 review (1.5 km)"
+                },
+                {
+                    "nama": "West Mall Grand Indonesia.",
+                    "rating": 4.7,
+                    "location": "-6.194603799999999,106.8193678",
+                    "user_ratings_total": 22274,
+                    "routes_distance": "1.5 km",
+                    "printed": "West Mall Grand Indonesia. - 4.7 - 22274 review (1.5 km)"
+                },
+                {
+                    "nama": "Tonni plastik",
+                    "rating": 4.4,
+                    "location": "-6.1876335,106.8140567",
+                    "user_ratings_total": 5957,
+                    "routes_distance": "2.6 km",
+                    "printed": "Tonni plastik - 4.4 - 5957 review (2.6 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Hypermart Thamrin City",
+                    "rating": 4.1,
+                    "location": "-6.194736799999998,106.8174727",
+                    "user_ratings_total": 734,
+                    "routes_distance": "1.4 km",
+                    "printed": "Hypermart Thamrin City - 4.1 - 734 review (1.4 km)"
+                },
+                {
+                    "nama": "The FoodHall - Grand Indonesia",
+                    "rating": 4.6,
+                    "location": "-6.195446399999999,106.8197669",
+                    "user_ratings_total": 1432,
+                    "routes_distance": "1.4 km",
+                    "printed": "The FoodHall - Grand Indonesia - 4.6 - 1432 review (1.4 km)"
+                },
+                {
+                    "nama": "Ranch Market Grand Indonesia",
+                    "rating": 4.6,
+                    "location": "-6.1951623,106.8214035",
+                    "user_ratings_total": 1480,
+                    "routes_distance": "1.7 km",
+                    "printed": "Ranch Market Grand Indonesia - 4.6 - 1480 review (1.7 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "LSPR Institute of Communication & Business",
+                    "rating": 4.6,
+                    "location": "-6.205181199999998,106.8179189",
+                    "user_ratings_total": 511,
+                    "routes_distance": "1.5 km",
+                    "printed": "LSPR Institute of Communication & Business - 4.6 - 511 review (1.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": []
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Thamrin City",
+            "restaurants": [
+                {
+                    "nama": "Tokyo Belly - Grand Indonesia",
+                    "rating": 4.2,
+                    "location": "-6.194802999999999,106.8195535",
+                    "user_ratings_total": 1316,
+                    "printed": "Tokyo Belly - Grand Indonesia - 4.2 - 1316 review"
+                },
+                {
+                    "nama": "Burger King Thamrin City",
+                    "rating": 4.5,
+                    "location": "-6.195508200000001,106.817697",
+                    "user_ratings_total": 925,
+                    "printed": "Burger King Thamrin City - 4.5 - 925 review"
+                },
+                {
+                    "nama": "D'Cost Seafood - Thamrin Terrace",
+                    "rating": 4.1,
+                    "location": "-6.194753,106.817529",
+                    "user_ratings_total": 776,
+                    "printed": "D'Cost Seafood - Thamrin Terrace - 4.1 - 776 review"
+                },
+                {
+                    "nama": "Bakso Sehat Bakso Atom Thamrin City",
+                    "rating": 4.2,
+                    "location": "-6.1935033,106.8159218",
+                    "user_ratings_total": 716,
+                    "printed": "Bakso Sehat Bakso Atom Thamrin City - 4.2 - 716 review"
+                },
+                {
+                    "nama": "Pepper Lunch Grand Indonesia",
+                    "rating": 4.6,
+                    "location": "-6.1950957,106.8196004",
+                    "user_ratings_total": 660,
+                    "printed": "Pepper Lunch Grand Indonesia - 4.6 - 660 review"
+                },
+                {
+                    "nama": "The People's Cafe Grand Indonesia",
+                    "rating": 4.2,
+                    "location": "-6.194843099999999,106.8195681",
+                    "user_ratings_total": 559,
+                    "printed": "The People's Cafe Grand Indonesia - 4.2 - 559 review"
+                },
+                {
+                    "nama": "Solaria - Thamrin City Mall",
+                    "rating": 4,
+                    "location": "-6.1951403,106.8175852",
+                    "user_ratings_total": 547,
+                    "printed": "Solaria - Thamrin City Mall - 4 - 547 review"
+                },
+                {
+                    "nama": "Es Teler 77 - Thamrin City",
+                    "rating": 4.2,
+                    "location": "-6.194732899999999,106.8174774",
+                    "user_ratings_total": 478,
+                    "printed": "Es Teler 77 - Thamrin City - 4.2 - 478 review"
+                },
+                {
+                    "nama": "KFC Grand Indonesia",
+                    "rating": 4.2,
+                    "location": "-6.195162499999999,106.8197749",
+                    "user_ratings_total": 446,
+                    "printed": "KFC Grand Indonesia - 4.2 - 446 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "West Mall Grand Indonesia.",
+            "restaurants": [
+                {
+                    "nama": "SKYE Bar & Restaurant",
+                    "rating": 4.6,
+                    "location": "-6.196727999999999,106.822582",
+                    "user_ratings_total": 4437,
+                    "printed": "SKYE Bar & Restaurant - 4.6 - 4437 review"
+                },
+                {
+                    "nama": "Shaburi Grand Indonesia",
+                    "rating": 4.9,
+                    "location": "-6.195041199999999,106.8199157",
+                    "user_ratings_total": 3345,
+                    "printed": "Shaburi Grand Indonesia - 4.9 - 3345 review"
+                },
+                {
+                    "nama": "Tokyo Belly - Grand Indonesia",
+                    "rating": 4.2,
+                    "location": "-6.194802999999999,106.8195535",
+                    "user_ratings_total": 1316,
+                    "printed": "Tokyo Belly - Grand Indonesia - 4.2 - 1316 review"
+                },
+                {
+                    "nama": "Ninety Nine Grand Indonesia",
+                    "rating": 4.4,
+                    "location": "-6.1950298,106.821442",
+                    "user_ratings_total": 952,
+                    "printed": "Ninety Nine Grand Indonesia - 4.4 - 952 review"
+                },
+                {
+                    "nama": "Cork & Screw",
+                    "rating": 4.6,
+                    "location": "-6.1941666,106.8223591",
+                    "user_ratings_total": 947,
+                    "printed": "Cork & Screw - 4.6 - 947 review"
+                },
+                {
+                    "nama": "D'Cost Seafood - Thamrin Terrace",
+                    "rating": 4.1,
+                    "location": "-6.194753,106.817529",
+                    "user_ratings_total": 776,
+                    "printed": "D'Cost Seafood - Thamrin Terrace - 4.1 - 776 review"
+                },
+                {
+                    "nama": "Pepper Lunch Grand Indonesia",
+                    "rating": 4.6,
+                    "location": "-6.1950957,106.8196004",
+                    "user_ratings_total": 660,
+                    "printed": "Pepper Lunch Grand Indonesia - 4.6 - 660 review"
+                },
+                {
+                    "nama": "The People's Cafe Grand Indonesia",
+                    "rating": 4.2,
+                    "location": "-6.194843099999999,106.8195681",
+                    "user_ratings_total": 559,
+                    "printed": "The People's Cafe Grand Indonesia - 4.2 - 559 review"
+                },
+                {
+                    "nama": "KFC Grand Indonesia",
+                    "rating": 4.2,
+                    "location": "-6.195162499999999,106.8197749",
+                    "user_ratings_total": 446,
+                    "printed": "KFC Grand Indonesia - 4.2 - 446 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Tonni plastik",
+            "restaurants": [
+                {
+                    "nama": "Warung Nasi Alam Sunda",
+                    "rating": 4.4,
+                    "location": "-6.188610400000001,106.8143078",
+                    "user_ratings_total": 3656,
+                    "printed": "Warung Nasi Alam Sunda - 4.4 - 3656 review"
+                },
+                {
+                    "nama": "Kwetiaw Sapi Aciap Wahid Hasyim Tanah abang",
+                    "rating": 4.4,
+                    "location": "-6.1868949,106.8179353",
+                    "user_ratings_total": 106,
+                    "printed": "Kwetiaw Sapi Aciap Wahid Hasyim Tanah abang - 4.4 - 106 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks",
+                    "rating": 4.6,
+                    "location": "-6.1867174,106.8234991",
+                    "user_ratings_total": 3716,
+                    "printed": "Starbucks - 4.6 - 3716 review"
+                },
+                {
+                    "nama": "Starbucks GI",
+                    "rating": 4.5,
+                    "location": "-6.194804299999999,106.8195816",
+                    "user_ratings_total": 2565,
+                    "printed": "Starbucks GI - 4.5 - 2565 review"
+                },
+                {
+                    "nama": "Starbucks",
+                    "rating": 4.6,
+                    "location": "-6.193983999999999,106.821738",
+                    "user_ratings_total": 668,
+                    "printed": "Starbucks - 4.6 - 668 review"
+                },
+                {
+                    "nama": "Starbucks Sabang",
+                    "rating": 4.7,
+                    "location": "-6.1833925,106.8248744",
+                    "user_ratings_total": 459,
+                    "printed": "Starbucks Sabang - 4.7 - 459 review"
+                },
+                {
+                    "nama": "Wisma BNI46 Starbucks lobby",
+                    "rating": 4.7,
+                    "location": "-6.2033141,106.81985",
+                    "user_ratings_total": 416,
+                    "printed": "Wisma BNI46 Starbucks lobby - 4.7 - 416 review"
+                },
+                {
+                    "nama": "Starbucks Community Store Tanah Abang",
+                    "rating": 4.8,
+                    "location": "-6.184877699999999,106.8143248",
+                    "user_ratings_total": 238,
+                    "printed": "Starbucks Community Store Tanah Abang - 4.8 - 238 review"
+                },
+                {
+                    "nama": "Starbucks UOB Plaza",
+                    "rating": 4.6,
+                    "location": "-6.1990731,106.8225181",
+                    "user_ratings_total": 164,
+                    "printed": "Starbucks UOB Plaza - 4.6 - 164 review"
+                },
+                {
+                    "nama": "Starbucks Tata Puri",
+                    "rating": 4.8,
+                    "location": "-6.200558900000001,106.8224104",
+                    "user_ratings_total": 158,
+                    "printed": "Starbucks Tata Puri - 4.8 - 158 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "ACE Hardware - Grand Indonesia",
+                    "rating": 4.5,
+                    "location": "-6.1949765,106.821388",
+                    "user_ratings_total": 543,
+                    "printed": "ACE Hardware - Grand Indonesia - 4.5 - 543 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": []
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "GoWork Plaza Indonesia - Coworking and Office Space",
+                    "rating": 4.8,
+                    "location": "-6.1925892,106.8218765",
+                    "routes_distance": "1.8 km",
+                    "user_ratings_total": 188,
+                    "printed": "GoWork Plaza Indonesia - Coworking and Office Space - 4.8 - 188 review"
+                },
+                {
+                    "nama": "GoWork Coworking and Office Space",
+                    "rating": 4.7,
+                    "location": "-6.199142999999999,106.8226416",
+                    "routes_distance": "2.1 km",
+                    "user_ratings_total": 306,
+                    "printed": "GoWork Coworking and Office Space - 4.7 - 306 review"
+                },
+                {
+                    "nama": "WU Hub Coworking Space Sabang",
+                    "rating": 0,
+                    "location": "-6.1860795,106.8252335",
+                    "routes_distance": "3.1 km",
+                    "user_ratings_total": 0,
+                    "printed": "WU Hub Coworking Space Sabang - 0 - 0 review"
+                },
+                {
+                    "nama": "Ierospace",
+                    "rating": 0,
+                    "location": "-6.199365999999999,106.822735",
+                    "routes_distance": "3.3 km",
+                    "user_ratings_total": 0,
+                    "printed": "Ierospace - 0 - 0 review"
+                },
+                {
+                    "nama": "JustCo at The Plaza Office Tower, Coworking Space & Hot Desking, Jakarta",
+                    "rating": 4.9,
+                    "location": "-6.192857099999999,106.8223212",
+                    "routes_distance": "4.1 km",
+                    "user_ratings_total": 31,
+                    "printed": "JustCo at The Plaza Office Tower, Coworking Space & Hot Desking, Jakarta - 4.9 - 31 review"
+                },
+                {
+                    "nama": "Cohive Uptown Gondangdia Menteng",
+                    "rating": 4.6,
+                    "location": "-6.1891341,106.8242854",
+                    "routes_distance": "5.2 km",
+                    "user_ratings_total": 155,
+                    "printed": "Cohive Uptown Gondangdia Menteng - 4.6 - 155 review"
+                },
+                {
+                    "nama": "Jakarta Creative Hub",
+                    "rating": 4.6,
+                    "location": "-6.197380099999999,106.8157679",
+                    "routes_distance": "677 m",
+                    "user_ratings_total": 713,
+                    "printed": "Jakarta Creative Hub - 4.6 - 713 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Halte PU Irigasi",
+                    "rating": 0,
+                    "location": "-6.2014873,106.8107727",
+                    "routes_distance": "1.4 km",
+                    "user_ratings_total": 0,
+                    "printed": "Halte PU Irigasi - 0 - 0 review"
+                },
+                {
+                    "nama": "Halte Daarul Aitam",
+                    "rating": 4.5,
+                    "location": "-6.1950286,106.8145214",
+                    "routes_distance": "116 m",
+                    "user_ratings_total": 4,
+                    "printed": "Halte Daarul Aitam - 4.5 - 4 review"
+                },
+                {
+                    "nama": "Jln. Kb. Kacang X",
+                    "rating": 0,
+                    "location": "-6.18713,106.8201",
+                    "routes_distance": "2.5 km",
+                    "user_ratings_total": 0,
+                    "printed": "Jln. Kb. Kacang X - 0 - 0 review"
+                },
+                {
+                    "nama": "Jak Lingko Tanah Abang",
+                    "rating": 3.4,
+                    "location": "-6.186039999999999,106.81111",
+                    "routes_distance": "2.6 km",
+                    "user_ratings_total": 23,
+                    "printed": "Jak Lingko Tanah Abang - 3.4 - 23 review"
+                },
+                {
+                    "nama": "HALTE : RS. PELNI",
+                    "rating": 4.5,
+                    "location": "-6.192608900000001,106.8056817",
+                    "routes_distance": "3.1 km",
+                    "user_ratings_total": 2,
+                    "printed": "HALTE : RS. PELNI - 4.5 - 2 review"
+                },
+                {
+                    "nama": "Tosari",
+                    "rating": 4.3,
+                    "location": "-6.196988999999999,106.823095",
+                    "routes_distance": "3.5 km",
+                    "user_ratings_total": 298,
+                    "printed": "Tosari - 4.3 - 298 review"
+                },
+                {
+                    "nama": "Halte Bus Petamburan",
+                    "rating": 5,
+                    "location": "-6.1951384,106.8051596",
+                    "routes_distance": "3.5 km",
+                    "user_ratings_total": 2,
+                    "printed": "Halte Bus Petamburan - 5 - 2 review"
+                },
+                {
+                    "nama": "Bundaran HI",
+                    "rating": 4.8,
+                    "location": "-6.19302,106.823",
+                    "routes_distance": "3.9 km",
+                    "user_ratings_total": 634,
+                    "printed": "Bundaran HI - 4.8 - 634 review"
+                },
+                {
+                    "nama": "Plaza Indonesia",
+                    "rating": 4.7,
+                    "location": "-6.19346,106.82281",
+                    "routes_distance": "3.9 km",
+                    "user_ratings_total": 17,
+                    "printed": "Plaza Indonesia - 4.7 - 17 review"
+                },
+                {
+                    "nama": "Tosari 3",
+                    "rating": 3,
+                    "location": "-6.19999,106.82334",
+                    "routes_distance": "4.1 km",
+                    "user_ratings_total": 5,
+                    "printed": "Tosari 3 - 3 - 5 review"
+                },
+                {
+                    "nama": "Tosari 1",
+                    "rating": 5,
+                    "location": "-6.19921,106.82333",
+                    "routes_distance": "4.1 km",
+                    "user_ratings_total": 7,
+                    "printed": "Tosari 1 - 5 - 7 review"
+                },
+                {
+                    "nama": "Halte Transjakarta Sarinah",
+                    "rating": 4.5,
+                    "location": "-6.188186,106.8229739",
+                    "routes_distance": "4.5 km",
+                    "user_ratings_total": 90,
+                    "printed": "Halte Transjakarta Sarinah - 4.5 - 90 review"
+                },
+                {
+                    "nama": "MH Thamrin",
+                    "rating": 4.7,
+                    "location": "-6.188149999999999,106.82299",
+                    "routes_distance": "4.5 km",
+                    "user_ratings_total": 3,
+                    "printed": "MH Thamrin - 4.7 - 3 review"
+                },
+                {
+                    "nama": "Halte Busway Bank Indonesia",
+                    "rating": 3.3,
+                    "location": "-6.1836692,106.821219",
+                    "routes_distance": "4.6 km",
+                    "user_ratings_total": 4,
+                    "printed": "Halte Busway Bank Indonesia - 3.3 - 4 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Lurah Bendungan Hilir",
+                    "rating": 4.2,
+                    "location": "-6.201669000000001,106.8082743",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kantor Lurah Bendungan Hilir - 4.2 - 29 review"
+                },
+                {
+                    "nama": "Kantor Lurah Mangga Dua Selatan - Jakarta Pusat",
+                    "rating": 4.3,
+                    "location": "-6.138090999999999,106.8267599",
+                    "routes_distance": "10.7 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kantor Lurah Mangga Dua Selatan - Jakarta Pusat - 4.3 - 29 review"
+                },
+                {
+                    "nama": "Kantor Lurah Sumur Batu Jakpus",
+                    "rating": 3.9,
+                    "location": "-6.164498999999999,106.871264",
+                    "routes_distance": "11.2 km",
+                    "user_ratings_total": 40,
+                    "printed": "Kantor Lurah Sumur Batu Jakpus - 3.9 - 40 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Srengseng",
+                    "rating": 3.6,
+                    "location": "-6.203473499999999,106.7567246",
+                    "routes_distance": "11.8 km",
+                    "user_ratings_total": 57,
+                    "printed": "Kantor Kelurahan Srengseng - 3.6 - 57 review"
+                },
+                {
+                    "nama": "Kantor Lurah Pekojan",
+                    "rating": 4,
+                    "location": "-6.139516899999999,106.8006989",
+                    "routes_distance": "11.9 km",
+                    "user_ratings_total": 33,
+                    "printed": "Kantor Lurah Pekojan - 4 - 33 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kampung Bali",
+                    "rating": 4.3,
+                    "location": "-6.1842932,106.8178366",
+                    "routes_distance": "2.8 km",
+                    "user_ratings_total": 12,
+                    "printed": "Kantor Kelurahan Kampung Bali - 4.3 - 12 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN SETIA BUDI",
+                    "rating": 5,
+                    "location": "-6.2082574,106.8240108",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 1,
+                    "printed": "KANTOR KELURAHAN SETIA BUDI - 5 - 1 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN GAMBIR",
+                    "rating": 4.2,
+                    "location": "-6.1800766,106.8200188",
+                    "routes_distance": "4.6 km",
+                    "user_ratings_total": 5,
+                    "printed": "KANTOR KELURAHAN GAMBIR - 4.2 - 5 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN PETOJO SELATAN",
+                    "rating": 4.8,
+                    "location": "-6.1703994,106.8166394",
+                    "routes_distance": "4.9 km",
+                    "user_ratings_total": 5,
+                    "printed": "KANTOR KELURAHAN PETOJO SELATAN - 4.8 - 5 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kuningan Timur",
+                    "rating": 4.3,
+                    "location": "-6.227610899999999,106.8306336",
+                    "routes_distance": "5.1 km",
+                    "user_ratings_total": 14,
+                    "printed": "Kantor Kelurahan Kuningan Timur - 4.3 - 14 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pegangsaan Jakarta Pusat",
+                    "rating": 4.3,
+                    "location": "-6.204030899999999,106.8502538",
+                    "routes_distance": "5.2 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Pegangsaan Jakarta Pusat - 4.3 - 21 review"
+                },
+                {
+                    "nama": "Kantor Lurah Gondangdia",
+                    "rating": 3.2,
+                    "location": "-6.190382199999999,106.8346434",
+                    "routes_distance": "5.4 km",
+                    "user_ratings_total": 11,
+                    "printed": "Kantor Lurah Gondangdia - 3.2 - 11 review"
+                },
+                {
+                    "nama": "Kantor Lurah Manggarai Selatan",
+                    "rating": 4.2,
+                    "location": "-6.2181169,106.8471166",
+                    "routes_distance": "5.7 km",
+                    "user_ratings_total": 18,
+                    "printed": "Kantor Lurah Manggarai Selatan - 4.2 - 18 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kebon Sirih",
+                    "rating": 3.1,
+                    "location": "-6.1841627,106.8293249",
+                    "routes_distance": "5.7 km",
+                    "user_ratings_total": 18,
+                    "printed": "Kantor Kelurahan Kebon Sirih - 3.1 - 18 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kemanggisan",
+                    "rating": 3.5,
+                    "location": "-6.1923996,106.7868096",
+                    "routes_distance": "6.1 km",
+                    "user_ratings_total": 31,
+                    "printed": "Kantor Kelurahan Kemanggisan - 3.5 - 31 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Lurah Bendungan Hilir",
+                    "rating": 4.2,
+                    "location": "-6.201669000000001,106.8082743",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kantor Lurah Bendungan Hilir - 4.2 - 29 review"
+                },
+                {
+                    "nama": "Kantor Lurah Kebon Melati",
+                    "rating": 4.1,
+                    "location": "-6.1912074,106.8126788",
+                    "routes_distance": "1.9 km",
+                    "user_ratings_total": 28,
+                    "printed": "Kantor Lurah Kebon Melati - 4.1 - 28 review"
+                },
+                {
+                    "nama": "Tanah Abang Camat",
+                    "rating": 0,
+                    "location": "-6.194778299999999,106.815117",
+                    "routes_distance": "152 m",
+                    "user_ratings_total": 0,
+                    "printed": "Tanah Abang Camat - 0 - 0 review"
+                },
+                {
+                    "nama": "Ketua Rw 08 Kelurahan Bendungan Hilir",
+                    "rating": 1,
+                    "location": "-6.2009363,106.8081983",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 2,
+                    "printed": "Ketua Rw 08 Kelurahan Bendungan Hilir - 1 - 2 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kampung Bali",
+                    "rating": 4.3,
+                    "location": "-6.1842932,106.8178366",
+                    "routes_distance": "2.8 km",
+                    "user_ratings_total": 12,
+                    "printed": "Kantor Kelurahan Kampung Bali - 4.3 - 12 review"
+                },
+                {
+                    "nama": "Kantor Lurah Petamburan",
+                    "rating": 3.7,
+                    "location": "-6.1931014,106.8079297",
+                    "routes_distance": "3.0 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Lurah Petamburan - 3.7 - 21 review"
+                },
+                {
+                    "nama": "Kantor Kecamatan Tanah Abang",
+                    "rating": 4.7,
+                    "location": "-6.199796,106.8142345",
+                    "routes_distance": "913 m",
+                    "user_ratings_total": 39,
+                    "printed": "Kantor Kecamatan Tanah Abang - 4.7 - 39 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Stadiun Karet",
+                    "rating": 4.1,
+                    "location": "-6.2008189,106.815776",
+                    "user_ratings_total": 616,
+                    "routes_distance": "788 m",
+                    "printed": "Stadiun Karet - 4.1 - 616 review (788 m)"
+                },
+                {
+                    "nama": "Stasiun Tanahabang",
+                    "rating": 4.2,
+                    "location": "-6.185702099999999,106.8108536",
+                    "user_ratings_total": 3182,
+                    "routes_distance": "2.6 km",
+                    "printed": "Stasiun Tanahabang - 4.2 - 3182 review (2.6 km)"
+                },
+                {
+                    "nama": "Stasiun Sudirman",
+                    "rating": 4.4,
+                    "location": "-6.202268399999999,106.8231961",
+                    "user_ratings_total": 2218,
+                    "routes_distance": "4.4 km",
+                    "printed": "Stasiun Sudirman - 4.4 - 2218 review (4.4 km)"
+                },
+                {
+                    "nama": "Stasiun Juanda",
+                    "rating": 4.5,
+                    "location": "-6.1667216,106.830473",
+                    "user_ratings_total": 1548,
+                    "routes_distance": "7.0 km",
+                    "printed": "Stasiun Juanda - 4.5 - 1548 review (7.0 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": [
+                {
+                    "nama": "Bundaran HI",
+                    "rating": 4.7,
+                    "location": "-6.191881299999999,106.8229554",
+                    "user_ratings_total": 1656,
+                    "routes_distance": "4.1 km",
+                    "printed": "Bundaran HI - 4.7 - 1656 review (4.1 km)"
+                },
+                {
+                    "nama": "Dukuh Atas BNI",
+                    "rating": 4.7,
+                    "location": "-6.200797199999999,106.8227961",
+                    "user_ratings_total": 578,
+                    "routes_distance": "2.2 km",
+                    "printed": "Dukuh Atas BNI - 4.7 - 578 review (2.2 km)"
+                }
+            ]
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "26.8 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "15.2 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "6.6 km"
+        }
+    ]
+}

@@ -1,0 +1,554 @@
+{
+    "nama": "Permata Hijau Suites",
+    "alamat": "Jl. Raya Kby. Lama No.55, Grogol Utara, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12210, Indonesia",
+    "kecamatan": "Kecamatan Kebayoran Lama",
+    "kelurahan": "Grogol Utara",
+    "location": "-6.212319,106.7840397",
+    "permalink": "permata_hijau_suites",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "RS Medika Permata Hijau",
+                    "rating": 3.3,
+                    "location": "-6.218158900000001,106.7779555",
+                    "user_ratings_total": 539,
+                    "routes_distance": "1.4 km",
+                    "printed": "RS Medika Permata Hijau - 3.3 - 539 review (1.4 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Grand ITC Permata Hijau.",
+                    "rating": 4.3,
+                    "location": "-6.220488500000001,106.7838475",
+                    "user_ratings_total": 15200,
+                    "routes_distance": "2.4 km",
+                    "printed": "Grand ITC Permata Hijau. - 4.3 - 15200 review (2.4 km)"
+                },
+                {
+                    "nama": "The Bellezza Shopping Arcade",
+                    "rating": 4.3,
+                    "location": "-6.221367399999999,106.7822074",
+                    "user_ratings_total": 4792,
+                    "routes_distance": "2.5 km",
+                    "printed": "The Bellezza Shopping Arcade - 4.3 - 4792 review (2.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Alfamidi kebayoran lama",
+                    "rating": 4,
+                    "location": "-6.210760499999999,106.7836664",
+                    "user_ratings_total": 147,
+                    "routes_distance": "385 m",
+                    "printed": "Alfamidi kebayoran lama - 4 - 147 review (385 m)"
+                },
+                {
+                    "nama": "Hero Permata Hijau",
+                    "rating": 4.3,
+                    "location": "-6.2213764,106.7877506",
+                    "user_ratings_total": 835,
+                    "routes_distance": "2.6 km",
+                    "printed": "Hero Permata Hijau - 4.3 - 835 review (2.6 km)"
+                },
+                {
+                    "nama": "Super Bandeng",
+                    "rating": 4.5,
+                    "location": "-6.2001242,106.7824158",
+                    "user_ratings_total": 336,
+                    "routes_distance": "1.4 km",
+                    "printed": "Super Bandeng - 4.5 - 336 review (1.4 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Kampus Widuri Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.208198200000001,106.7904173",
+                    "user_ratings_total": 136,
+                    "routes_distance": "1.6 km",
+                    "printed": "Kampus Widuri Jakarta - 4.6 - 136 review (1.6 km)"
+                },
+                {
+                    "nama": "STIE Bisnis Indonesia",
+                    "rating": 4.5,
+                    "location": "-6.2212074,106.7782635",
+                    "user_ratings_total": 144,
+                    "routes_distance": "1.8 km",
+                    "printed": "STIE Bisnis Indonesia - 4.5 - 144 review (1.8 km)"
+                },
+                {
+                    "nama": "Universitas Bina Nusantara, Kampus Anggrek",
+                    "rating": 4.5,
+                    "location": "-6.201758500000001,106.7822547",
+                    "user_ratings_total": 1463,
+                    "routes_distance": "1.3 km",
+                    "printed": "Universitas Bina Nusantara, Kampus Anggrek - 4.5 - 1463 review (1.3 km)"
+                },
+                {
+                    "nama": "Universitas Bina Nusantara - Kampus Syahdan",
+                    "rating": 4.6,
+                    "location": "-6.2003132,106.7854622",
+                    "user_ratings_total": 835,
+                    "routes_distance": "1.6 km",
+                    "printed": "Universitas Bina Nusantara - Kampus Syahdan - 4.6 - 835 review (1.6 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Universitas Bina Nusantara, Kampus Anggrek",
+                    "rating": 4.5,
+                    "location": "-6.201758500000001,106.7822547",
+                    "user_ratings_total": 1463,
+                    "routes_distance": "1.3 km",
+                    "printed": "Universitas Bina Nusantara, Kampus Anggrek - 4.5 - 1463 review (1.3 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Grand ITC Permata Hijau.",
+            "restaurants": [
+                {
+                    "nama": "HokBen - Grand ITC Permata Hijau",
+                    "rating": 4.7,
+                    "location": "-6.2206135,106.7831253",
+                    "user_ratings_total": 1024,
+                    "printed": "HokBen - Grand ITC Permata Hijau - 4.7 - 1024 review"
+                },
+                {
+                    "nama": "PHX Permata Hijau",
+                    "rating": 4.5,
+                    "location": "-6.2196709,106.7794854",
+                    "user_ratings_total": 577,
+                    "printed": "PHX Permata Hijau - 4.5 - 577 review"
+                },
+                {
+                    "nama": "KFC ITC Permata Hijau",
+                    "rating": 4.2,
+                    "location": "-6.221092000000001,106.783551",
+                    "user_ratings_total": 223,
+                    "printed": "KFC ITC Permata Hijau - 4.2 - 223 review"
+                },
+                {
+                    "nama": "Bakso Lapangan Tembak",
+                    "rating": 4.3,
+                    "location": "-6.220982999999999,106.783528",
+                    "user_ratings_total": 104,
+                    "printed": "Bakso Lapangan Tembak - 4.3 - 104 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "The Bellezza Shopping Arcade",
+            "restaurants": [
+                {
+                    "nama": "HokBen - Grand ITC Permata Hijau",
+                    "rating": 4.7,
+                    "location": "-6.2206135,106.7831253",
+                    "user_ratings_total": 1024,
+                    "printed": "HokBen - Grand ITC Permata Hijau - 4.7 - 1024 review"
+                },
+                {
+                    "nama": "PHX Permata Hijau",
+                    "rating": 4.5,
+                    "location": "-6.2196709,106.7794854",
+                    "user_ratings_total": 577,
+                    "printed": "PHX Permata Hijau - 4.5 - 577 review"
+                },
+                {
+                    "nama": "KFC ITC Permata Hijau",
+                    "rating": 4.2,
+                    "location": "-6.221092000000001,106.783551",
+                    "user_ratings_total": 223,
+                    "printed": "KFC ITC Permata Hijau - 4.2 - 223 review"
+                },
+                {
+                    "nama": "Bakso Lapangan Tembak",
+                    "rating": 4.3,
+                    "location": "-6.220982999999999,106.783528",
+                    "user_ratings_total": 104,
+                    "printed": "Bakso Lapangan Tembak - 4.3 - 104 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Bellezza Shopping Arcade",
+                    "rating": 4.5,
+                    "location": "-6.221273999999999,106.7821538",
+                    "user_ratings_total": 325,
+                    "printed": "Starbucks Bellezza Shopping Arcade - 4.5 - 325 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "ACE HARDWARE - GRAND ITC PERMATA HIJAU",
+                    "rating": 4.5,
+                    "location": "-6.2215522,106.7843442",
+                    "user_ratings_total": 501,
+                    "printed": "ACE HARDWARE - GRAND ITC PERMATA HIJAU - 4.5 - 501 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's Palmerah",
+                    "rating": 4.5,
+                    "location": "-6.2073133,106.7911399",
+                    "user_ratings_total": 4757,
+                    "printed": "McDonald's Palmerah - 4.5 - 4757 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "Ruang & Tempo",
+                    "rating": 4.7,
+                    "location": "-6.2081878,106.7898783",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 108,
+                    "printed": "Ruang & Tempo - 4.7 - 108 review"
+                },
+                {
+                    "nama": "vika Aulia",
+                    "rating": 5,
+                    "location": "-6.213460299999999,106.791549",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 1,
+                    "printed": "vika Aulia - 5 - 1 review"
+                },
+                {
+                    "nama": "Prime Space",
+                    "rating": 4.8,
+                    "location": "-6.2214583,106.78237",
+                    "routes_distance": "2.4 km",
+                    "user_ratings_total": 46,
+                    "printed": "Prime Space - 4.8 - 46 review"
+                },
+                {
+                    "nama": "Creative Tech Business Hub",
+                    "rating": 5,
+                    "location": "-6.2047705,106.7832796",
+                    "routes_distance": "879 m",
+                    "user_ratings_total": 1,
+                    "printed": "Creative Tech Business Hub - 5 - 1 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Halte Pos Pengumben",
+                    "rating": 4.2,
+                    "location": "-6.215427399999999,106.774425",
+                    "routes_distance": "1.2 km",
+                    "user_ratings_total": 6,
+                    "printed": "Halte Pos Pengumben - 4.2 - 6 review"
+                },
+                {
+                    "nama": "Permata Hijau RS Medika",
+                    "rating": 3.7,
+                    "location": "-6.2184,106.77761",
+                    "routes_distance": "1.4 km",
+                    "user_ratings_total": 25,
+                    "printed": "Permata Hijau RS Medika - 3.7 - 25 review"
+                },
+                {
+                    "nama": "Simpang Arteri Kebayoran Lama",
+                    "rating": 0,
+                    "location": "-6.21915,106.77902",
+                    "routes_distance": "1.5 km",
+                    "user_ratings_total": 0,
+                    "printed": "Simpang Arteri Kebayoran Lama - 0 - 0 review"
+                },
+                {
+                    "nama": "Jln. Kb. Nanas",
+                    "rating": 0,
+                    "location": "-6.220359999999999,106.78136",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 0,
+                    "printed": "Jln. Kb. Nanas - 0 - 0 review"
+                },
+                {
+                    "nama": "Permata Hijau",
+                    "rating": 4.3,
+                    "location": "-6.2214054,106.783265",
+                    "routes_distance": "2.0 km",
+                    "user_ratings_total": 70,
+                    "printed": "Permata Hijau - 4.3 - 70 review"
+                },
+                {
+                    "nama": "Senayan",
+                    "rating": 0,
+                    "location": "-6.215929999999999,106.794",
+                    "routes_distance": "5.3 km",
+                    "user_ratings_total": 0,
+                    "printed": "Senayan - 0 - 0 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Lurah Cikini",
+                    "rating": 4.4,
+                    "location": "-6.188789799999999,106.8390841",
+                    "routes_distance": "10.0 km",
+                    "user_ratings_total": 23,
+                    "printed": "Kantor Lurah Cikini - 4.4 - 23 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN KARANG ANYAR JAKARTA PUSAT",
+                    "rating": 4.1,
+                    "location": "-6.155683,106.8289173",
+                    "routes_distance": "11.4 km",
+                    "user_ratings_total": 21,
+                    "printed": "KANTOR KELURAHAN KARANG ANYAR JAKARTA PUSAT - 4.1 - 21 review"
+                },
+                {
+                    "nama": "Kantor Lurah Krukut",
+                    "rating": 3.9,
+                    "location": "-6.1550628,106.8175024",
+                    "routes_distance": "11.8 km",
+                    "user_ratings_total": 11,
+                    "printed": "Kantor Lurah Krukut - 3.9 - 11 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pondok Betung",
+                    "rating": 2.4,
+                    "location": "-6.260388499999999,106.7479461",
+                    "routes_distance": "13.0 km",
+                    "user_ratings_total": 39,
+                    "printed": "Kantor Kelurahan Pondok Betung - 2.4 - 39 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kemanggisan",
+                    "rating": 3.5,
+                    "location": "-6.1923996,106.7868096",
+                    "routes_distance": "2.9 km",
+                    "user_ratings_total": 31,
+                    "printed": "Kantor Kelurahan Kemanggisan - 3.5 - 31 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Srengseng",
+                    "rating": 3.6,
+                    "location": "-6.203473499999999,106.7567246",
+                    "routes_distance": "3.9 km",
+                    "user_ratings_total": 57,
+                    "printed": "Kantor Kelurahan Srengseng - 3.6 - 57 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat",
+                    "rating": 4.3,
+                    "location": "-6.1812238,106.7877018",
+                    "routes_distance": "4.0 km",
+                    "user_ratings_total": 36,
+                    "printed": "Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat - 4.3 - 36 review"
+                },
+                {
+                    "nama": "Kantor Lurah Bendungan Hilir",
+                    "rating": 4.2,
+                    "location": "-6.201669000000001,106.8082743",
+                    "routes_distance": "4.2 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kantor Lurah Bendungan Hilir - 4.2 - 29 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Tomang Grogol Petamburan",
+                    "rating": 4.3,
+                    "location": "-6.1718573,106.8001774",
+                    "routes_distance": "6.8 km",
+                    "user_ratings_total": 24,
+                    "printed": "Kantor Kelurahan Tomang Grogol Petamburan - 4.3 - 24 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kampung Bali",
+                    "rating": 4.3,
+                    "location": "-6.1842932,106.8178366",
+                    "routes_distance": "7.2 km",
+                    "user_ratings_total": 12,
+                    "printed": "Kantor Kelurahan Kampung Bali - 4.3 - 12 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN GAMBIR",
+                    "rating": 4.2,
+                    "location": "-6.1800766,106.8200188",
+                    "routes_distance": "7.3 km",
+                    "user_ratings_total": 5,
+                    "printed": "KANTOR KELURAHAN GAMBIR - 4.2 - 5 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN CIDENG",
+                    "rating": 4.1,
+                    "location": "-6.167923099999999,106.8092933",
+                    "routes_distance": "7.7 km",
+                    "user_ratings_total": 8,
+                    "printed": "KANTOR KELURAHAN CIDENG - 4.1 - 8 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kebon Sirih",
+                    "rating": 3.1,
+                    "location": "-6.1841627,106.8293249",
+                    "routes_distance": "8.4 km",
+                    "user_ratings_total": 18,
+                    "printed": "Kantor Kelurahan Kebon Sirih - 3.1 - 18 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN PETOJO SELATAN",
+                    "rating": 4.8,
+                    "location": "-6.1703994,106.8166394",
+                    "routes_distance": "8.4 km",
+                    "user_ratings_total": 5,
+                    "printed": "KANTOR KELURAHAN PETOJO SELATAN - 4.8 - 5 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Petogogan",
+                    "rating": 3.7,
+                    "location": "-6.244187399999999,106.8137346",
+                    "routes_distance": "8.6 km",
+                    "user_ratings_total": 27,
+                    "printed": "Kantor Kelurahan Petogogan - 3.7 - 27 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Sukabumi Utara Jakarta Barat",
+                    "rating": 3.4,
+                    "location": "-6.210061899999999,106.7776346",
+                    "routes_distance": "1.2 km",
+                    "user_ratings_total": 37,
+                    "printed": "Kantor Kelurahan Sukabumi Utara Jakarta Barat - 3.4 - 37 review"
+                },
+                {
+                    "nama": "Kantor Lurah Grogol Utara",
+                    "rating": 3.2,
+                    "location": "-6.210835899999999,106.7893552",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 45,
+                    "printed": "Kantor Lurah Grogol Utara - 3.2 - 45 review"
+                },
+                {
+                    "nama": "Sekretariat Dewan Kelurahan Grogol Utara",
+                    "rating": 5,
+                    "location": "-6.2104699,106.7896729",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 1,
+                    "printed": "Sekretariat Dewan Kelurahan Grogol Utara - 5 - 1 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Palmerah",
+                    "rating": 3.5,
+                    "location": "-6.202161800000001,106.7870335",
+                    "routes_distance": "2.0 km",
+                    "user_ratings_total": 49,
+                    "printed": "Kantor Kelurahan Palmerah - 3.5 - 49 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Stasiun Kebayoran",
+                    "rating": 4.4,
+                    "location": "-6.237247499999999,106.7825225",
+                    "user_ratings_total": 1294,
+                    "routes_distance": "3.7 km",
+                    "printed": "Stasiun Kebayoran - 4.4 - 1294 review (3.7 km)"
+                },
+                {
+                    "nama": "Stadiun Karet",
+                    "rating": 4.1,
+                    "location": "-6.2008189,106.815776",
+                    "user_ratings_total": 616,
+                    "routes_distance": "7.2 km",
+                    "printed": "Stadiun Karet - 4.1 - 616 review (7.2 km)"
+                },
+                {
+                    "nama": "Stasiun Tanahabang",
+                    "rating": 4.2,
+                    "location": "-6.185702099999999,106.8108536",
+                    "user_ratings_total": 3182,
+                    "routes_distance": "5.6 km",
+                    "printed": "Stasiun Tanahabang - 4.2 - 3182 review (5.6 km)"
+                },
+                {
+                    "nama": "Stasiun Sudirman",
+                    "rating": 4.4,
+                    "location": "-6.202268399999999,106.8231961",
+                    "user_ratings_total": 2218,
+                    "routes_distance": "9.1 km",
+                    "printed": "Stasiun Sudirman - 4.4 - 2218 review (9.1 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "26.6 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "16.0 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "9.4 km"
+        }
+    ]
+}

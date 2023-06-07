@@ -1,0 +1,189 @@
+Green Lake Sunter Tower 2
+
+green_lake_sunter_tower_2
+
+Kordinat: -6.1438384,106.8767031
+
+Apartemen Green Lake Sunter, Sunter Agung, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Royal Progress - 3.7 - 813 review (2.9 km)lokasi: -6.139351699999999,106.865519
+imuni - Vaksinasi di Rumah - 5 - 266 review (2.3 km)lokasi: -6.138455200000001,106.8703374
+
+
+shopping_mall:
+
+Metro Sunter Plaza - 4.5 - 1987 review (3.0 km)lokasi: -6.136948100000001,106.8731676
+
+
+supermarket:
+
+Carrefour Sunter - 4 - 1762 review (1.7 km)lokasi: -6.137920800000001,106.8776862
+Super Indo Metro Sunter - 4.2 - 1631 review (2.0 km)lokasi: -6.136800099999999,106.8733453
+FoodHall Sunter Mall - 4.6 - 1911 review (2.2 km)lokasi: -6.1379321,106.8710576
+
+
+university:
+
+
+
+school:
+
+SMA Negeri 80 Jakarta Utara - 4.7 - 152 review (2.5 km)lokasi: -6.139774999999998,106.870501
+
+
+===================
+
+Rasto di Mall Metro Sunter Plaza:
+
+Hawaii Restaurant | Seafood & Chinese Food - 4.5 - 1735 reviewlokasi: -6.1372835,106.8704696
+ALBEK ayam lele bebek sunter - 4.3 - 1042 reviewlokasi: -6.138809999999999,106.8714493
+HokBen - 4.3 - 778 reviewlokasi: -6.1370323,106.8732689
+Sate Taichan Bang Maman - 4.4 - 648 reviewlokasi: -6.1376062,106.8726851
+Kentucky Fried Chiken Danau Sunter Utara - 4.2 - 412 reviewlokasi: -6.1379453,106.8709985
+Ayam Presto Ny. Nita Sunter - 4.5 - 313 reviewlokasi: -6.1373375,106.8706094
+Sate Kambing Batibul Tegal Laka-Laka - 4.4 - 264 reviewlokasi: -6.137108899999999,106.872816
+Chatime Metro Sunter - 3.6 - 135 reviewlokasi: -6.137022599999999,106.8730507
+
+
+===================
+
+Keyword Data Starbucks:
+
+
+
+Starbucks Sunter Green Lake - 4.7 - 810 reviewlokasi: -6.1451882,106.8770247
+Starbucks Sunter Mall - 4.7 - 692 reviewlokasi: -6.1380333,106.8714099
+
+
+===================
+
+Keyword Data Ace Hardware:
+
+
+
+Ace Hardware Metro Sunter - 4.4 - 450 reviewlokasi: -6.1371036,106.8731557
+
+
+===================
+
+Keyword Data Guardian:
+
+
+
+
+
+===================
+
+Keyword Data Century:
+
+
+
+
+
+===================
+
+Keyword Data Mc Donald's:
+
+
+
+McDonald's Sunter - 4.5 - 9983 reviewlokasi: -6.140882,106.8839915
+
+
+===================
+
+Keyword Data Electronic City:
+
+
+
+
+
+===================
+
+Keyword Data Co Working Space:
+
+Creative Space, Co Working 308, 
+
+Creative Space - 4.8 - 16 review - 1.3 kmlokasi: -6.1438602,106.8798118
+Co Working 308 - 5 - 1 review - 2.7 kmlokasi: -6.149845099999999,106.8878971
+
+
+===================
+
+Keyword Data Halte Transjakarta:
+
+Halte Bus Pelayaran, Halte Metro Sunter, Jln. Danau Sunter Utara 1, Sunter Karya, Kali Sunter, 
+
+Halte Bus Pelayaran - 0 - 0 review - 1.5 kmlokasi: -6.138855299999999,106.8775772
+Halte Metro Sunter - 5 - 1 review - 1.9 kmlokasi: -6.1374973,106.8737627
+Jln. Danau Sunter Utara 1 - 0 - 0 review - 2.0 kmlokasi: -6.13751,106.87303
+Sunter Karya - 4.3 - 59 review - 2.2 kmlokasi: -6.1376119,106.8708141
+Kali Sunter - 3.9 - 7 review - 5.5 kmlokasi: -6.152940000000001,106.88736
+
+
+===================
+
+Keyword Data Kantor Kelurahan:
+
+Kantor Lurah Krukut, Kantor Lurah Rawamangun Jakarta Timur, Kantor Lurah Cikini, KANTOR KELURAHAN PETOJO SELATAN, Kantor Kelurahan Petojo Selatan Jakarta Pusat, Kantor Lurah Gondangdia, Kantor Kelurahan Paseban, KANTOR KELURAHAN GAMBIR, Kantor Kelurahan Pegangsaan Jakarta Pusat, Kantor Kelurahan Kampung Bali, Kantor Kelurahan Kebon Sirih, kantor kelurahan penggilingan, Kantor Lurah Sumur Batu Jakpus, Kantor Kelurahan Kelapa Gading Barat, Kantor Kelurahan Pegangsaan Dua, 
+
+Kantor Lurah Krukut - 3.9 - 11 review - 10.3 kmlokasi: -6.1550628,106.8175024
+Kantor Lurah Rawamangun Jakarta Timur - 3.8 - 39 review - 10.4 kmlokasi: -6.1988993,106.8807951
+Kantor Lurah Cikini - 4.4 - 23 review - 10.7 kmlokasi: -6.188789799999999,106.8390841
+KANTOR KELURAHAN PETOJO SELATAN - 4.8 - 5 review - 10.8 kmlokasi: -6.1703994,106.8166394
+Kantor Kelurahan Petojo Selatan Jakarta Pusat - 4.1 - 13 review - 10.9 kmlokasi: -6.171866199999999,106.816787
+Kantor Lurah Gondangdia - 3.2 - 11 review - 11.0 kmlokasi: -6.190382199999999,106.8346434
+Kantor Kelurahan Paseban - 4 - 29 review - 11.4 kmlokasi: -6.1916663,106.8539021
+KANTOR KELURAHAN GAMBIR - 4.2 - 5 review - 11.8 kmlokasi: -6.1800766,106.8200188
+Kantor Kelurahan Pegangsaan Jakarta Pusat - 4.3 - 21 review - 12.2 kmlokasi: -6.204030899999999,106.8502538
+Kantor Kelurahan Kampung Bali - 4.3 - 12 review - 12.2 kmlokasi: -6.1842932,106.8178366
+Kantor Kelurahan Kebon Sirih - 3.1 - 18 review - 12.5 kmlokasi: -6.1841627,106.8293249
+kantor kelurahan penggilingan - 3 - 55 review - 12.9 kmlokasi: -6.2027886,106.9309329
+Kantor Lurah Sumur Batu Jakpus - 3.9 - 40 review - 4.4 kmlokasi: -6.164498999999999,106.871264
+Kantor Kelurahan Kelapa Gading Barat - 2.9 - 44 review - 5.6 kmlokasi: -6.1628169,106.8847592
+Kantor Kelurahan Pegangsaan Dua - 3.3 - 33 review - 5.7 kmlokasi: -6.1544676,106.9107808
+
+
+===================
+
+Keyword Data Kantor Kecamatan:
+
+Kantor Kelurahan Sunter Agung Jakarta Utara, 
+
+Kantor Kelurahan Sunter Agung Jakarta Utara - 3.5 - 79 review - 2.6 kmlokasi: -6.1393469,106.8712955
+
+
+===================
+
+Dynamic Transport:
+
+train_stationTanjung Priuk - 4.5 - 862 review (7.2 km)lokasi: -6.110993199999999,106.8810757
+train_stationStasiun Kemayoran - 4.1 - 758 review (8.0 km)lokasi: -6.161733799999999,106.8413931
+train_stationStasiun Pasar Senen - 4.4 - 8749 review (8.1 km)lokasi: -6.174700000000001,106.84435
+train_stationGang Sentiong - 4.2 - 392 review (8.3 km)lokasi: -6.186,106.85068
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 30.8 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 17.5 km
+
+
+Stasiun Gambirroute distance: 10.7 km
+
+

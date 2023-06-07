@@ -1,0 +1,430 @@
+{
+    "nama": "Bintaro park view",
+    "alamat": "5, Jl. Bintaro Permai No.5, RW.3, Pesanggrahan, Kec. Pesanggrahan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12320, Indonesia",
+    "kecamatan": "Kecamatan Pesanggrahan",
+    "kelurahan": "Pesanggrahan",
+    "location": "-6.258464999999999,106.7596923",
+    "permalink": "bintaro_park_view",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "RSUD Pesanggrahan",
+                    "rating": 3.7,
+                    "location": "-6.258125,106.756838",
+                    "user_ratings_total": 532,
+                    "routes_distance": "950 m",
+                    "printed": "RSUD Pesanggrahan - 3.7 - 532 review (950 m)"
+                },
+                {
+                    "nama": "Rumah Sakit Dr. Suyoto",
+                    "rating": 3.3,
+                    "location": "-6.267505700000001,106.7663173",
+                    "user_ratings_total": 482,
+                    "routes_distance": "2.3 km",
+                    "printed": "Rumah Sakit Dr. Suyoto - 3.3 - 482 review (2.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": []
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Indomaret Depsos Raya",
+                    "rating": 4.3,
+                    "location": "-6.2635584,106.7637034",
+                    "user_ratings_total": 295,
+                    "routes_distance": "2.1 km",
+                    "printed": "Indomaret Depsos Raya - 4.3 - 295 review (2.1 km)"
+                },
+                {
+                    "nama": "Alfamart Pesanggrahan",
+                    "rating": 4.4,
+                    "location": "-6.249823399999999,106.7567628",
+                    "user_ratings_total": 227,
+                    "routes_distance": "1.6 km",
+                    "printed": "Alfamart Pesanggrahan - 4.4 - 227 review (1.6 km)"
+                },
+                {
+                    "nama": "Indomaret Damai Pesanggrahan",
+                    "rating": 4.4,
+                    "location": "-6.2486953,106.7541725",
+                    "user_ratings_total": 105,
+                    "routes_distance": "2.1 km",
+                    "printed": "Indomaret Damai Pesanggrahan - 4.4 - 105 review (2.1 km)"
+                },
+                {
+                    "nama": "Indomaret Ulujami 2",
+                    "rating": 4.2,
+                    "location": "-6.247576,106.7632895",
+                    "user_ratings_total": 108,
+                    "routes_distance": "2.1 km",
+                    "printed": "Indomaret Ulujami 2 - 4.2 - 108 review (2.1 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Institut Pariwisata Trisakti / STP Trisakti",
+                    "rating": 4.7,
+                    "location": "-6.2604913,106.7688986",
+                    "user_ratings_total": 353,
+                    "routes_distance": "1.6 km",
+                    "printed": "Institut Pariwisata Trisakti / STP Trisakti - 4.7 - 353 review (1.6 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Pondok Pesantren Darunnajah",
+                    "rating": 4.5,
+                    "location": "-6.247017,106.7617053",
+                    "user_ratings_total": 619,
+                    "routes_distance": "2.3 km",
+                    "printed": "Pondok Pesantren Darunnajah - 4.5 - 619 review (2.3 km)"
+                },
+                {
+                    "nama": "SMA NEGERI 108 Jakarta",
+                    "rating": 4.4,
+                    "location": "-6.252734999999999,106.7621407",
+                    "user_ratings_total": 111,
+                    "routes_distance": "1.2 km",
+                    "printed": "SMA NEGERI 108 Jakarta - 4.4 - 111 review (1.2 km)"
+                },
+                {
+                    "nama": "Institut Pariwisata Trisakti / STP Trisakti",
+                    "rating": 4.7,
+                    "location": "-6.2604913,106.7688986",
+                    "user_ratings_total": 353,
+                    "routes_distance": "1.6 km",
+                    "printed": "Institut Pariwisata Trisakti / STP Trisakti - 4.7 - 353 review (1.6 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Coffee",
+                    "rating": 4.6,
+                    "location": "-6.2653729,106.7663215",
+                    "user_ratings_total": 895,
+                    "printed": "Starbucks Coffee - 4.6 - 895 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "Ace Express Veteran Bintaro",
+                    "rating": 4.5,
+                    "location": "-6.2647756,106.7663073",
+                    "user_ratings_total": 336,
+                    "printed": "Ace Express Veteran Bintaro - 4.5 - 336 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": []
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "Bismerah",
+                    "rating": 4.8,
+                    "location": "-6.2587765,106.7680728",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 26,
+                    "printed": "Bismerah - 4.8 - 26 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Lapangan Hankam",
+                    "rating": 4,
+                    "location": "-6.25814,106.76796",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 1,
+                    "printed": "Lapangan Hankam - 4 - 1 review"
+                },
+                {
+                    "nama": "Jalan IKPN Bintaro",
+                    "rating": 0,
+                    "location": "-6.259989999999999,106.76788",
+                    "routes_distance": "1.4 km",
+                    "user_ratings_total": 0,
+                    "printed": "Jalan IKPN Bintaro - 0 - 0 review"
+                },
+                {
+                    "nama": "Halte Jak 49 (Lebak Bulus - Cipulir)",
+                    "rating": 4,
+                    "location": "-6.2494045,106.7635837",
+                    "routes_distance": "1.9 km",
+                    "user_ratings_total": 6,
+                    "printed": "Halte Jak 49 (Lebak Bulus - Cipulir) - 4 - 6 review"
+                },
+                {
+                    "nama": "Seberang Kodam Bintaro",
+                    "rating": 5,
+                    "location": "-6.259595399999999,106.7585531",
+                    "routes_distance": "210 m",
+                    "user_ratings_total": 1,
+                    "printed": "Seberang Kodam Bintaro - 5 - 1 review"
+                },
+                {
+                    "nama": "Jalan Haji Gari",
+                    "rating": 0,
+                    "location": "-6.25606,106.75964",
+                    "routes_distance": "264 m",
+                    "user_ratings_total": 0,
+                    "printed": "Jalan Haji Gari - 0 - 0 review"
+                },
+                {
+                    "nama": "HALTE BUSWAY PESANGGRAHAN",
+                    "rating": 4.3,
+                    "location": "-6.257151899999999,106.757183",
+                    "routes_distance": "880 m",
+                    "user_ratings_total": 6,
+                    "printed": "HALTE BUSWAY PESANGGRAHAN - 4.3 - 6 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Pondok Betung",
+                    "rating": 2.4,
+                    "location": "-6.260388499999999,106.7479461",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 39,
+                    "printed": "Kantor Kelurahan Pondok Betung - 2.4 - 39 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Ulujami",
+                    "rating": 3.7,
+                    "location": "-6.2454593,106.7621698",
+                    "routes_distance": "2.4 km",
+                    "user_ratings_total": 6,
+                    "printed": "Kantor Kelurahan Ulujami - 3.7 - 6 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Petukangan Selatan",
+                    "rating": 3.9,
+                    "location": "-6.249477,106.7528702",
+                    "routes_distance": "2.7 km",
+                    "user_ratings_total": 38,
+                    "printed": "Kantor Kelurahan Petukangan Selatan - 3.9 - 38 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pondok Karya",
+                    "rating": 3.5,
+                    "location": "-6.267391,106.7413329",
+                    "routes_distance": "2.9 km",
+                    "user_ratings_total": 16,
+                    "printed": "Kantor Kelurahan Pondok Karya - 3.5 - 16 review"
+                },
+                {
+                    "nama": "Kantor Lurah Bintaro",
+                    "rating": 3.6,
+                    "location": "-6.2729025,106.764275",
+                    "routes_distance": "2.9 km",
+                    "user_ratings_total": 47,
+                    "printed": "Kantor Lurah Bintaro - 3.6 - 47 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pesanggrahan Jakarta Selatan",
+                    "rating": 0,
+                    "location": "-6.2364171,106.7548223",
+                    "routes_distance": "3.4 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor Kelurahan Pesanggrahan Jakarta Selatan - 0 - 0 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Blambangan Umpu",
+                    "rating": 0,
+                    "location": "-6.2348304,106.7534078",
+                    "routes_distance": "3.6 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor Kelurahan Blambangan Umpu - 0 - 0 review"
+                },
+                {
+                    "nama": "Kantor Lurah Pondok Pinang",
+                    "rating": 4.2,
+                    "location": "-6.2697994,106.775948",
+                    "routes_distance": "3.6 km",
+                    "user_ratings_total": 6,
+                    "printed": "Kantor Lurah Pondok Pinang - 4.2 - 6 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pondok Pinang",
+                    "rating": 4.3,
+                    "location": "-6.2698507,106.7759066",
+                    "routes_distance": "3.6 km",
+                    "user_ratings_total": 40,
+                    "printed": "Kantor Kelurahan Pondok Pinang - 4.3 - 40 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Rengas",
+                    "rating": 4.6,
+                    "location": "-6.2827347,106.7534678",
+                    "routes_distance": "3.8 km",
+                    "user_ratings_total": 20,
+                    "printed": "Kantor Kelurahan Rengas - 4.6 - 20 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kreo Selatan",
+                    "rating": 3.9,
+                    "location": "-6.2442137,106.7405417",
+                    "routes_distance": "4.3 km",
+                    "user_ratings_total": 24,
+                    "printed": "Kantor Kelurahan Kreo Selatan - 3.9 - 24 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kebayoran Lama Utara",
+                    "rating": 4,
+                    "location": "-6.2418179,106.781065",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 40,
+                    "printed": "Kantor Kelurahan Kebayoran Lama Utara - 4 - 40 review"
+                },
+                {
+                    "nama": "Kelurahan Cipadu Jaya",
+                    "rating": 4.4,
+                    "location": "-6.249771099999999,106.7332826",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 12,
+                    "printed": "Kelurahan Cipadu Jaya - 4.4 - 12 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kebayoran Lama Selatan",
+                    "rating": 3.5,
+                    "location": "-6.248372499999999,106.7829424",
+                    "routes_distance": "4.7 km",
+                    "user_ratings_total": 35,
+                    "printed": "Kantor Kelurahan Kebayoran Lama Selatan - 3.5 - 35 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Cipulir",
+                    "rating": 4.1,
+                    "location": "-6.239307999999999,106.776328",
+                    "routes_distance": "5.3 km",
+                    "user_ratings_total": 30,
+                    "printed": "Kantor Kelurahan Cipulir - 4.1 - 30 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Petukangan Selatan",
+                    "rating": 3.9,
+                    "location": "-6.249477,106.7528702",
+                    "routes_distance": "2.7 km",
+                    "user_ratings_total": 38,
+                    "printed": "Kantor Kelurahan Petukangan Selatan - 3.9 - 38 review"
+                },
+                {
+                    "nama": "Kantor Kecamatan Pesanggrahan",
+                    "rating": 4.2,
+                    "location": "-6.2571691,106.7567508",
+                    "routes_distance": "823 m",
+                    "user_ratings_total": 72,
+                    "printed": "Kantor Kecamatan Pesanggrahan - 4.2 - 72 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pesanggrahan",
+                    "rating": 4,
+                    "location": "-6.2573061,106.7571524",
+                    "routes_distance": "856 m",
+                    "user_ratings_total": 22,
+                    "printed": "Kantor Kelurahan Pesanggrahan - 4 - 22 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Pondok Ranji",
+                    "rating": 4.1,
+                    "location": "-6.2763674,106.744919",
+                    "user_ratings_total": 1075,
+                    "routes_distance": "3.7 km",
+                    "printed": "Pondok Ranji - 4.1 - 1075 review (3.7 km)"
+                },
+                {
+                    "nama": "Stasiun Kebayoran",
+                    "rating": 4.4,
+                    "location": "-6.237247499999999,106.7825225",
+                    "user_ratings_total": 1294,
+                    "routes_distance": "5.0 km",
+                    "printed": "Stasiun Kebayoran - 4.4 - 1294 review (5.0 km)"
+                },
+                {
+                    "nama": "Jurang Mangu",
+                    "rating": 4.3,
+                    "location": "-6.28877,106.72911",
+                    "user_ratings_total": 938,
+                    "routes_distance": "7.3 km",
+                    "printed": "Jurang Mangu - 4.3 - 938 review (7.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "27.7 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "26.3 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "16.4 km"
+        }
+    ]
+}

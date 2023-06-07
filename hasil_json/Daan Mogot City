@@ -1,0 +1,462 @@
+{
+    "nama": "Daan Mogot City",
+    "alamat": "Jl. Raya Daan Mogot No.KM 16, RW.6, Semanan, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11850, Indonesia",
+    "kecamatan": "Kecamatan Kalideres",
+    "kelurahan": "Semanan",
+    "location": "-6.156445799999999,106.7115038",
+    "permalink": "daan_mogot_city",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Hermina Daan Mogot",
+                    "rating": 4.5,
+                    "location": "-6.152855199999999,106.7122236",
+                    "user_ratings_total": 3838,
+                    "routes_distance": "2.0 km",
+                    "printed": "Rumah Sakit Hermina Daan Mogot - 4.5 - 3838 review (2.0 km)"
+                },
+                {
+                    "nama": "Mitra Keluarga Kalideres",
+                    "rating": 4.3,
+                    "location": "-6.149509699999999,106.7021832",
+                    "user_ratings_total": 2540,
+                    "routes_distance": "2.5 km",
+                    "printed": "Mitra Keluarga Kalideres - 4.3 - 2540 review (2.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Mall Matahari Daan Mogot",
+                    "rating": 4.3,
+                    "location": "-6.150739199999999,106.7141432",
+                    "user_ratings_total": 13409,
+                    "routes_distance": "2.3 km",
+                    "printed": "Mall Matahari Daan Mogot - 4.3 - 13409 review (2.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Hari Hari Pasar Swalayan",
+                    "rating": 4.5,
+                    "location": "-6.1481585,106.7029405",
+                    "user_ratings_total": 8546,
+                    "routes_distance": "2.5 km",
+                    "printed": "Hari Hari Pasar Swalayan - 4.5 - 8546 review (2.5 km)"
+                },
+                {
+                    "nama": "Super Indo Kosambi",
+                    "rating": 4.3,
+                    "location": "-6.167085800000001,106.724574",
+                    "user_ratings_total": 1895,
+                    "routes_distance": "4.8 km",
+                    "printed": "Super Indo Kosambi - 4.3 - 1895 review (4.8 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Universitas Bina Sarana Informatika Kampus Cengkareng (UBSI Cengkareng)",
+                    "rating": 4.6,
+                    "location": "-6.1480208,106.7273266",
+                    "user_ratings_total": 178,
+                    "routes_distance": "3.7 km",
+                    "printed": "Universitas Bina Sarana Informatika Kampus Cengkareng (UBSI Cengkareng) - 4.6 - 178 review (3.7 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": []
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Mall Matahari Daan Mogot",
+            "restaurants": [
+                {
+                    "nama": "Bebek Kaleyo Daan Mogot",
+                    "rating": 4.5,
+                    "location": "-6.152817199999999,106.7132991",
+                    "user_ratings_total": 4967,
+                    "printed": "Bebek Kaleyo Daan Mogot - 4.5 - 4967 review"
+                },
+                {
+                    "nama": "Richeese Factory Daan Mogot",
+                    "rating": 4.4,
+                    "location": "-6.153372,106.7137154",
+                    "user_ratings_total": 3287,
+                    "printed": "Richeese Factory Daan Mogot - 4.4 - 3287 review"
+                },
+                {
+                    "nama": "HokBen Daan Mogot",
+                    "rating": 4.7,
+                    "location": "-6.1509163,106.7141739",
+                    "user_ratings_total": 1274,
+                    "printed": "HokBen Daan Mogot - 4.7 - 1274 review"
+                },
+                {
+                    "nama": "Warung Tekko Daan Mogot",
+                    "rating": 4.2,
+                    "location": "-6.152579999999999,106.7132413",
+                    "user_ratings_total": 961,
+                    "printed": "Warung Tekko Daan Mogot - 4.2 - 961 review"
+                },
+                {
+                    "nama": "Mcdonald's Daan Mogot",
+                    "rating": 4.4,
+                    "location": "-6.1514036,106.7145228",
+                    "user_ratings_total": 923,
+                    "printed": "Mcdonald's Daan Mogot - 4.4 - 923 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Daan Mogot",
+                    "rating": 4.6,
+                    "location": "-6.1530494,106.7139186",
+                    "user_ratings_total": 1601,
+                    "printed": "Starbucks Daan Mogot - 4.6 - 1601 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "ACE Hardware",
+                    "rating": 4.6,
+                    "location": "-6.1504693,106.7145588",
+                    "user_ratings_total": 569,
+                    "printed": "ACE Hardware - 4.6 - 569 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's Citra Garden 7",
+                    "rating": 4.6,
+                    "location": "-6.1469098,106.7007458",
+                    "user_ratings_total": 1942,
+                    "printed": "McDonald's Citra Garden 7 - 4.6 - 1942 review"
+                },
+                {
+                    "nama": "Mcdonald's Daan Mogot",
+                    "rating": 4.4,
+                    "location": "-6.1514036,106.7145228",
+                    "user_ratings_total": 923,
+                    "printed": "Mcdonald's Daan Mogot - 4.4 - 923 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "Daan Mogot Service Office",
+                    "rating": 0,
+                    "location": "-6.1531289,106.7175283",
+                    "routes_distance": "2.0 km",
+                    "user_ratings_total": 0,
+                    "printed": "Daan Mogot Service Office - 0 - 0 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Halte Busway Kalideres",
+                    "rating": 4.2,
+                    "location": "-6.1546059,106.7058526",
+                    "routes_distance": "1.0 km",
+                    "user_ratings_total": 12,
+                    "printed": "Halte Busway Kalideres - 4.2 - 12 review"
+                },
+                {
+                    "nama": "Seberang Jalan Swadaya Utama Kalideres",
+                    "rating": 0,
+                    "location": "-6.15729,106.70331",
+                    "routes_distance": "1.1 km",
+                    "user_ratings_total": 0,
+                    "printed": "Seberang Jalan Swadaya Utama Kalideres - 0 - 0 review"
+                },
+                {
+                    "nama": "Pesakih",
+                    "rating": 4.4,
+                    "location": "-6.154935699999999,106.7150123",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 5,
+                    "printed": "Pesakih - 4.4 - 5 review"
+                },
+                {
+                    "nama": "Sumur Bor 2",
+                    "rating": 5,
+                    "location": "-6.1531204,106.7184012",
+                    "routes_distance": "2.1 km",
+                    "user_ratings_total": 1,
+                    "printed": "Sumur Bor 2 - 5 - 1 review"
+                },
+                {
+                    "nama": "Pesakih 2",
+                    "rating": 5,
+                    "location": "-6.154960000000001,106.71529",
+                    "routes_distance": "2.1 km",
+                    "user_ratings_total": 1,
+                    "printed": "Pesakih 2 - 5 - 1 review"
+                },
+                {
+                    "nama": "Sumur Bor",
+                    "rating": 4.1,
+                    "location": "-6.153031299999999,106.71938",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 94,
+                    "printed": "Sumur Bor - 4.1 - 94 review"
+                },
+                {
+                    "nama": "Sumur Bor 1",
+                    "rating": 5,
+                    "location": "-6.15333,106.71854",
+                    "routes_distance": "2.6 km",
+                    "user_ratings_total": 2,
+                    "printed": "Sumur Bor 1 - 5 - 2 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Semanan Jakarta Barat",
+                    "rating": 4,
+                    "location": "-6.1600579,106.7052819",
+                    "routes_distance": "1.1 km",
+                    "user_ratings_total": 52,
+                    "printed": "Kantor Kelurahan Semanan Jakarta Barat - 4 - 52 review"
+                },
+                {
+                    "nama": "KANTOR PPS KELURAHAN SEMANAN",
+                    "rating": 4,
+                    "location": "-6.160136199999999,106.7054759",
+                    "routes_distance": "1.1 km",
+                    "user_ratings_total": 1,
+                    "printed": "KANTOR PPS KELURAHAN SEMANAN - 4 - 1 review"
+                },
+                {
+                    "nama": "Pos damkar kelurahan Semanan",
+                    "rating": 5,
+                    "location": "-6.160112499999999,106.7051035",
+                    "routes_distance": "1.1 km",
+                    "user_ratings_total": 1,
+                    "printed": "Pos damkar kelurahan Semanan - 5 - 1 review"
+                },
+                {
+                    "nama": "Kelurahan Cengkareng Barat",
+                    "rating": 3.7,
+                    "location": "-6.1495169,106.7218752",
+                    "routes_distance": "3.3 km",
+                    "user_ratings_total": 52,
+                    "printed": "Kelurahan Cengkareng Barat - 3.7 - 52 review"
+                },
+                {
+                    "nama": "Pos Indonesia (Kelurahan)",
+                    "rating": 3.3,
+                    "location": "-6.1495054,106.7218765",
+                    "routes_distance": "3.3 km",
+                    "user_ratings_total": 3,
+                    "printed": "Pos Indonesia (Kelurahan) - 3.3 - 3 review"
+                },
+                {
+                    "nama": "Kantor Kecamatan Kalideres",
+                    "rating": 4,
+                    "location": "-6.1421302,106.7023944",
+                    "routes_distance": "3.7 km",
+                    "user_ratings_total": 66,
+                    "printed": "Kantor Kecamatan Kalideres - 4 - 66 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Ketapang",
+                    "rating": 4.3,
+                    "location": "-6.1815259,106.7033545",
+                    "routes_distance": "4.3 km",
+                    "user_ratings_total": 7,
+                    "printed": "Kantor Kelurahan Ketapang - 4.3 - 7 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kalideres Kecamatan Kalideres",
+                    "rating": 4.3,
+                    "location": "-6.1433176,106.6924829",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 79,
+                    "printed": "Kantor Kelurahan Kalideres Kecamatan Kalideres - 4.3 - 79 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Cengkareng Timur",
+                    "rating": 3.6,
+                    "location": "-6.1451837,106.7331986",
+                    "routes_distance": "4.9 km",
+                    "user_ratings_total": 58,
+                    "printed": "Kantor Kelurahan Cengkareng Timur - 3.6 - 58 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Poris Gaga",
+                    "rating": 4.1,
+                    "location": "-6.170942699999999,106.6822209",
+                    "routes_distance": "5.0 km",
+                    "user_ratings_total": 19,
+                    "printed": "Kantor Kelurahan Poris Gaga - 4.1 - 19 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Duri Kosambi Jakarta Barat",
+                    "rating": 3.7,
+                    "location": "-6.1701047,106.7223877",
+                    "routes_distance": "5.1 km",
+                    "user_ratings_total": 93,
+                    "printed": "Kantor Kelurahan Duri Kosambi Jakarta Barat - 3.7 - 93 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Rawa Buaya Jakarta Barat",
+                    "rating": 3,
+                    "location": "-6.169733400000001,106.7344024",
+                    "routes_distance": "5.9 km",
+                    "user_ratings_total": 44,
+                    "printed": "Kantor Kelurahan Rawa Buaya Jakarta Barat - 3 - 44 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pegadungan",
+                    "rating": 3.6,
+                    "location": "-6.1301101,106.7106222",
+                    "routes_distance": "6.0 km",
+                    "user_ratings_total": 42,
+                    "printed": "Kantor Kelurahan Pegadungan - 3.6 - 42 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Cipondoh Indah",
+                    "rating": 2.5,
+                    "location": "-6.1769411,106.6876739",
+                    "routes_distance": "6.2 km",
+                    "user_ratings_total": 15,
+                    "printed": "Kantor Kelurahan Cipondoh Indah - 2.5 - 15 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kembangan Utara Jakarta Barat",
+                    "rating": 4,
+                    "location": "-6.1791164,106.7354114",
+                    "routes_distance": "6.6 km",
+                    "user_ratings_total": 43,
+                    "printed": "Kantor Kelurahan Kembangan Utara Jakarta Barat - 4 - 43 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Semanan Jakarta Barat",
+                    "rating": 4,
+                    "location": "-6.1600579,106.7052819",
+                    "routes_distance": "1.1 km",
+                    "user_ratings_total": 52,
+                    "printed": "Kantor Kelurahan Semanan Jakarta Barat - 4 - 52 review"
+                },
+                {
+                    "nama": "Kelurahan Cengkareng Barat",
+                    "rating": 3.7,
+                    "location": "-6.1495169,106.7218752",
+                    "routes_distance": "3.3 km",
+                    "user_ratings_total": 52,
+                    "printed": "Kelurahan Cengkareng Barat - 3.7 - 52 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Stasiun Kali Deres",
+                    "rating": 4.2,
+                    "location": "-6.1660731,106.7038006",
+                    "user_ratings_total": 487,
+                    "routes_distance": "1.8 km",
+                    "printed": "Stasiun Kali Deres - 4.2 - 487 review (1.8 km)"
+                },
+                {
+                    "nama": "Stasiun Rawa Buaya",
+                    "rating": 4.4,
+                    "location": "-6.1627629,106.7236115",
+                    "user_ratings_total": 715,
+                    "routes_distance": "2.5 km",
+                    "printed": "Stasiun Rawa Buaya - 4.4 - 715 review (2.5 km)"
+                },
+                {
+                    "nama": "Poris",
+                    "rating": 4.3,
+                    "location": "-6.1699387,106.6800057",
+                    "user_ratings_total": 727,
+                    "routes_distance": "4.6 km",
+                    "printed": "Poris - 4.3 - 727 review (4.6 km)"
+                },
+                {
+                    "nama": "Batu Ceper",
+                    "rating": 4.3,
+                    "location": "-6.171682799999999,106.6652937",
+                    "user_ratings_total": 483,
+                    "routes_distance": "8.0 km",
+                    "printed": "Batu Ceper - 4.3 - 483 review (8.0 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "16.1 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "30.0 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "20.9 km"
+        }
+    ]
+}

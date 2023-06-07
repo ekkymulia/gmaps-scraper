@@ -1,0 +1,465 @@
+{
+    "nama": "The Mansion at Dukuh Golf Kemayoran",
+    "alamat": "Citra Towers Kemayoran, 3rd floor, CREO #E3, RT.13/RW.6, Kb. Kosong, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10630, Indonesia",
+    "kecamatan": "Kecamatan Kemayoran",
+    "kelurahan": "Kebon Kosong",
+    "location": "-6.1584598,106.8522151",
+    "permalink": "the_mansion_at_dukuh_golf_kemayoran",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Mitra Keluarga Kemayoran",
+                    "rating": 4,
+                    "location": "-6.1519598,106.8584997",
+                    "user_ratings_total": 1111,
+                    "routes_distance": "2.0 km",
+                    "printed": "Rumah Sakit Mitra Keluarga Kemayoran - 4 - 1111 review (2.0 km)"
+                },
+                {
+                    "nama": "RSUD Kemayoran",
+                    "rating": 3,
+                    "location": "-6.156671500000001,106.8637431",
+                    "user_ratings_total": 414,
+                    "routes_distance": "3.0 km",
+                    "printed": "RSUD Kemayoran - 3 - 414 review (3.0 km)"
+                },
+                {
+                    "nama": "RSU Hermina Kemayoran",
+                    "rating": 4.2,
+                    "location": "-6.1545808,106.8458593",
+                    "user_ratings_total": 1747,
+                    "routes_distance": "2.0 km",
+                    "printed": "RSU Hermina Kemayoran - 4.2 - 1747 review (2.0 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "AUDERPRO - Lux Audio Sound System",
+                    "rating": 5,
+                    "location": "-6.155307400000001,106.8495039",
+                    "user_ratings_total": 429,
+                    "routes_distance": "1.6 km",
+                    "printed": "AUDERPRO - Lux Audio Sound System - 5 - 429 review (1.6 km)"
+                },
+                {
+                    "nama": "Centra Jeep4WD",
+                    "rating": 4.2,
+                    "location": "-6.1545563,106.8488111",
+                    "user_ratings_total": 8217,
+                    "routes_distance": "1.8 km",
+                    "printed": "Centra Jeep4WD - 4.2 - 8217 review (1.8 km)"
+                },
+                {
+                    "nama": "Apartemen Maple Park",
+                    "rating": 4,
+                    "location": "-6.149470099999999,106.8569159",
+                    "user_ratings_total": 170,
+                    "routes_distance": "1.7 km",
+                    "printed": "Apartemen Maple Park - 4 - 170 review (1.7 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Alfamart Kran Kemayoran",
+                    "rating": 4.2,
+                    "location": "-6.157699999999998,106.84557",
+                    "user_ratings_total": 107,
+                    "routes_distance": "2.0 km",
+                    "printed": "Alfamart Kran Kemayoran - 4.2 - 107 review (2.0 km)"
+                },
+                {
+                    "nama": "Alfamart Kepu Timur",
+                    "rating": 4.2,
+                    "location": "-6.166173,106.8454163",
+                    "user_ratings_total": 177,
+                    "routes_distance": "2.5 km",
+                    "printed": "Alfamart Kepu Timur - 4.2 - 177 review (2.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": []
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Sekolah Kristen Kanaan",
+                    "rating": 4.7,
+                    "location": "-6.1597036,106.8464579",
+                    "user_ratings_total": 103,
+                    "routes_distance": "2.3 km",
+                    "printed": "Sekolah Kristen Kanaan - 4.7 - 103 review (2.3 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "AUDERPRO - Lux Audio Sound System",
+            "restaurants": [
+                {
+                    "nama": "BANDS CAFE BY STEAK GUNTING KEMAYORAN",
+                    "rating": 4.6,
+                    "location": "-6.155866100000001,106.849384",
+                    "user_ratings_total": 714,
+                    "printed": "BANDS CAFE BY STEAK GUNTING KEMAYORAN - 4.6 - 714 review"
+                },
+                {
+                    "nama": "Domino's Pizza",
+                    "rating": 4.3,
+                    "location": "-6.1545714,106.8522573",
+                    "user_ratings_total": 426,
+                    "printed": "Domino's Pizza - 4.3 - 426 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Centra Jeep4WD",
+            "restaurants": [
+                {
+                    "nama": "Nam Centre",
+                    "rating": 4.1,
+                    "location": "-6.154827099999999,106.8464678",
+                    "user_ratings_total": 1590,
+                    "printed": "Nam Centre - 4.1 - 1590 review"
+                },
+                {
+                    "nama": "Domino's Pizza",
+                    "rating": 4.3,
+                    "location": "-6.1545714,106.8522573",
+                    "user_ratings_total": 426,
+                    "printed": "Domino's Pizza - 4.3 - 426 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Apartemen Maple Park",
+            "restaurants": [
+                {
+                    "nama": "Sate Kemayoran",
+                    "rating": 4.3,
+                    "location": "-6.1521804,106.8542279",
+                    "user_ratings_total": 352,
+                    "printed": "Sate Kemayoran - 4.3 - 352 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": []
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": []
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": []
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "ERKADE Group",
+                    "rating": 0,
+                    "location": "-6.1483962,106.8545867",
+                    "routes_distance": "2.0 km",
+                    "user_ratings_total": 0,
+                    "printed": "ERKADE Group - 0 - 0 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Kemayoran Landas Pacu Timur",
+                    "rating": 4.5,
+                    "location": "-6.15218,106.85424",
+                    "routes_distance": "2.0 km",
+                    "user_ratings_total": 63,
+                    "printed": "Kemayoran Landas Pacu Timur - 4.5 - 63 review"
+                },
+                {
+                    "nama": "Halte Kran",
+                    "rating": 0,
+                    "location": "-6.1571321,106.844931",
+                    "routes_distance": "2.0 km",
+                    "user_ratings_total": 0,
+                    "printed": "Halte Kran - 0 - 0 review"
+                },
+                {
+                    "nama": "Halte Angkasa",
+                    "rating": 3.7,
+                    "location": "-6.1567814,106.8449451",
+                    "routes_distance": "2.7 km",
+                    "user_ratings_total": 3,
+                    "printed": "Halte Angkasa - 3.7 - 3 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Kebon Kosong Jakarta Pusat",
+                    "rating": 4.1,
+                    "location": "-6.1534565,106.8584072",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Kebon Kosong Jakarta Pusat - 4.1 - 21 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN BUNGUR JAKARTA PUSAT",
+                    "rating": 3.8,
+                    "location": "-6.1688408,106.8462769",
+                    "routes_distance": "2.3 km",
+                    "user_ratings_total": 14,
+                    "printed": "KANTOR KELURAHAN BUNGUR JAKARTA PUSAT - 3.8 - 14 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN KEMAYORAN JAKARTA PUSAT",
+                    "rating": 4.1,
+                    "location": "-6.167754599999999,106.84378",
+                    "routes_distance": "2.5 km",
+                    "user_ratings_total": 21,
+                    "printed": "KANTOR KELURAHAN KEMAYORAN JAKARTA PUSAT - 4.1 - 21 review"
+                },
+                {
+                    "nama": "Kantor Lurah Sumur Batu Jakpus",
+                    "rating": 3.9,
+                    "location": "-6.164498999999999,106.871264",
+                    "routes_distance": "2.8 km",
+                    "user_ratings_total": 40,
+                    "printed": "Kantor Lurah Sumur Batu Jakpus - 3.9 - 40 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Galur",
+                    "rating": 4.7,
+                    "location": "-6.175604000000001,106.8545852",
+                    "routes_distance": "3.0 km",
+                    "user_ratings_total": 19,
+                    "printed": "Kantor Kelurahan Galur - 4.7 - 19 review"
+                },
+                {
+                    "nama": "Kantor Lurah Tanah Tinggi",
+                    "rating": 5,
+                    "location": "-6.183339,106.8489904",
+                    "routes_distance": "3.4 km",
+                    "user_ratings_total": 2,
+                    "printed": "Kantor Lurah Tanah Tinggi - 5 - 2 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Senen Jakarta Pusat",
+                    "rating": 4,
+                    "location": "-6.172561,106.8424568",
+                    "routes_distance": "3.7 km",
+                    "user_ratings_total": 7,
+                    "printed": "Kantor Kelurahan Senen Jakarta Pusat - 4 - 7 review"
+                },
+                {
+                    "nama": "Kantor Lurah Pasar Baru - Jakarta Pusat",
+                    "rating": 4.2,
+                    "location": "-6.1612019,106.8301116",
+                    "routes_distance": "3.9 km",
+                    "user_ratings_total": 48,
+                    "printed": "Kantor Lurah Pasar Baru - Jakarta Pusat - 4.2 - 48 review"
+                },
+                {
+                    "nama": "Kantor Lurah Johar Baru",
+                    "rating": 3.9,
+                    "location": "-6.1833182,106.8565734",
+                    "routes_distance": "4.0 km",
+                    "user_ratings_total": 33,
+                    "printed": "Kantor Lurah Johar Baru - 3.9 - 33 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kramat Jakarta Pusat",
+                    "rating": 3.9,
+                    "location": "-6.185167700000001,106.8476977",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 42,
+                    "printed": "Kantor Kelurahan Kramat Jakarta Pusat - 3.9 - 42 review"
+                },
+                {
+                    "nama": "Kantor Lurah Kebon Kelapa",
+                    "rating": 3.6,
+                    "location": "-6.1645809,106.8250272",
+                    "routes_distance": "4.6 km",
+                    "user_ratings_total": 16,
+                    "printed": "Kantor Lurah Kebon Kelapa - 3.6 - 16 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN KARTINI JAKARTA PUSAT",
+                    "rating": 3,
+                    "location": "-6.1532614,106.8317922",
+                    "routes_distance": "4.7 km",
+                    "user_ratings_total": 2,
+                    "printed": "KANTOR KELURAHAN KARTINI JAKARTA PUSAT - 3 - 2 review"
+                },
+                {
+                    "nama": "Kantor RW.09 Kelurahan Cempaka Putih Barat",
+                    "rating": 0,
+                    "location": "-6.1807756,106.8607368",
+                    "routes_distance": "5.1 km",
+                    "user_ratings_total": 0,
+                    "printed": "Kantor RW.09 Kelurahan Cempaka Putih Barat - 0 - 0 review"
+                },
+                {
+                    "nama": "Kantor Lurah Kampung Rawa",
+                    "rating": 4.1,
+                    "location": "-6.180514199999999,106.8590009",
+                    "routes_distance": "5.3 km",
+                    "user_ratings_total": 22,
+                    "printed": "Kantor Lurah Kampung Rawa - 4.1 - 22 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN KARANG ANYAR JAKARTA PUSAT",
+                    "rating": 4.1,
+                    "location": "-6.155683,106.8289173",
+                    "routes_distance": "5.9 km",
+                    "user_ratings_total": 21,
+                    "printed": "KANTOR KELURAHAN KARANG ANYAR JAKARTA PUSAT - 4.1 - 21 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Lurah Harapan Mulia",
+                    "rating": 4.2,
+                    "location": "-6.167249,106.8571769",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Lurah Harapan Mulia - 4.2 - 21 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kebon Kosong Jakarta Pusat",
+                    "rating": 4.1,
+                    "location": "-6.1534565,106.8584072",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Kebon Kosong Jakarta Pusat - 4.1 - 21 review"
+                },
+                {
+                    "nama": "Kantor Lurah Gunung Sahari Selatan",
+                    "rating": 4.4,
+                    "location": "-6.1608146,106.8458618",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 17,
+                    "printed": "Kantor Lurah Gunung Sahari Selatan - 4.4 - 17 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Gunung Sahari Selatan",
+                    "rating": 5,
+                    "location": "-6.1579373,106.8443935",
+                    "routes_distance": "2.1 km",
+                    "user_ratings_total": 1,
+                    "printed": "Kantor Kelurahan Gunung Sahari Selatan - 5 - 1 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN KEMAYORAN JAKARTA PUSAT",
+                    "rating": 4.1,
+                    "location": "-6.167754599999999,106.84378",
+                    "routes_distance": "2.5 km",
+                    "user_ratings_total": 21,
+                    "printed": "KANTOR KELURAHAN KEMAYORAN JAKARTA PUSAT - 4.1 - 21 review"
+                },
+                {
+                    "nama": "Kantor Lurah Utan Panjang",
+                    "rating": 4.1,
+                    "location": "-6.162576899999999,106.8549475",
+                    "routes_distance": "898 m",
+                    "user_ratings_total": 26,
+                    "printed": "Kantor Lurah Utan Panjang - 4.1 - 26 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Stasiun Kemayoran",
+                    "rating": 4.1,
+                    "location": "-6.161733799999999,106.8413931",
+                    "user_ratings_total": 757,
+                    "routes_distance": "4.4 km",
+                    "printed": "Stasiun Kemayoran - 4.1 - 757 review (4.4 km)"
+                },
+                {
+                    "nama": "Stasiun Pasar Senen",
+                    "rating": 4.4,
+                    "location": "-6.174700000000001,106.84435",
+                    "user_ratings_total": 8716,
+                    "routes_distance": "3.4 km",
+                    "printed": "Stasiun Pasar Senen - 4.4 - 8716 review (3.4 km)"
+                },
+                {
+                    "nama": "Stasiun Juanda",
+                    "rating": 4.5,
+                    "location": "-6.1667216,106.830473",
+                    "user_ratings_total": 1544,
+                    "routes_distance": "4.4 km",
+                    "printed": "Stasiun Juanda - 4.5 - 1544 review (4.4 km)"
+                },
+                {
+                    "nama": "Gang Sentiong",
+                    "rating": 4.2,
+                    "location": "-6.186,106.85068",
+                    "user_ratings_total": 391,
+                    "routes_distance": "3.6 km",
+                    "printed": "Gang Sentiong - 4.2 - 391 review (3.6 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "26.5 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "17.2 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "6.0 km"
+        }
+    ]
+}

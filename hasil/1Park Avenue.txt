@@ -1,0 +1,227 @@
+1Park Avenue
+
+1park_avenue
+
+Kordinat: -6.2462696,106.7869091
+
+2, Jl. Jatayu No.36, RT.8/RW.5, Kby. Lama Utara, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Pusat Pertamina - 4.1 - 909 review (1.2 km)lokasi: -6.2399349,106.7932011
+RS Muhammadiyah Taman Puring - 3.8 - 398 review (706 m)lokasi: -6.2417177,106.7875121
+Rumah Sakit Gandaria - 3.4 - 201 review (531 m)lokasi: -6.2440131,106.790662
+Klinik Gigi Get Dentist Jakarta - 4.7 - 109 review (331 m)lokasi: -6.245057399999999,106.7891565
+RSUD Kebayoran Lama - 4.7 - 686 review (551 m)lokasi: -6.248721899999999,106.7856259
+
+
+shopping_mall:
+
+Gandaria City Mall - 4.6 - 69036 review (1.2 km)lokasi: -6.244179199999999,106.783529
+Pasar Mayestik - 4.5 - 32634 review (1.5 km)lokasi: -6.2408434,106.7910143
+
+
+supermarket:
+
+LOTTE Mart Gandaria City - 4.6 - 5602 review (968 m)lokasi: -6.2451291,106.7834073
+
+
+university:
+
+Universitas Muhammadiyah Prof. Dr. HAMKA - 4.5 - 534 review (685 m)lokasi: -6.247762799999999,106.7910386
+Politeknik Kesehatan Kemenkes Jakarta II - 4.7 - 339 review (1.6 km)lokasi: -6.2384462,106.7938406
+Universitas Satya Negara Indonesia - 4.6 - 280 review (1.8 km)lokasi: -6.2420463,106.783709
+
+
+school:
+
+Sekolah Menengah Pertama Negeri 19 Jakarta Selatan - 4.2 - 139 review (2.0 km)lokasi: -6.2398368,106.7895905
+SMA Negeri 70 Jakarta - 4.6 - 319 review (1.7 km)lokasi: -6.241651699999999,106.7968122
+SMA Negeri 74 Jakarta Selatan - 4.5 - 131 review (981 m)lokasi: -6.250319,106.7860261
+
+
+===================
+
+Rasto di Mall Gandaria City Mall:
+
+Steak Hotel by Holycow! - 4.3 - 1318 reviewlokasi: -6.2441985,106.7839644
+Solaria - Gandaria City Mall - 4.3 - 680 reviewlokasi: -6.2441741,106.7835446
+KFC - Gandaria City Mall - 4.3 - 609 reviewlokasi: -6.244480999999999,106.7840379
+Pizza ė Birra Sports Bar Gandaria City - 4.4 - 572 reviewlokasi: -6.2442837,106.7840516
+Kafe Betawi - Gandaria City Mall - 4.3 - 421 reviewlokasi: -6.2434547,106.7841196
+
+
+Rasto di Mall Pasar Mayestik:
+
+Blenger Burger - 4.6 - 7513 reviewlokasi: -6.2411558,106.7900747
+Lewis & Carroll - 4.5 - 1413 reviewlokasi: -6.2367895,106.7898455
+Cafe Safari - 4.4 - 1109 reviewlokasi: -6.2439375,106.7919222
+Blue Jasmine - 4.6 - 920 reviewlokasi: -6.240766899999999,106.7892173
+Beranda Kitchen - 4.4 - 886 reviewlokasi: -6.2451338,106.7919559
+
+
+===================
+
+Keyword Data Starbucks:
+
+
+
+Starbucks Coffee - Gandaria City Mall - 4.6 - 1675 reviewlokasi: -6.243725599999999,106.7839798
+Starbucks Arteri Pondok Indah - 4.7 - 1266 reviewlokasi: -6.2546753,106.7819351
+Starbucks La Maison Barito - 4.7 - 272 reviewlokasi: -6.2462725,106.7941589
+Starbucks - Blok M Plaza - 4.6 - 243 reviewlokasi: -6.2449134,106.7978802
+Starbucks - 4.5 - 242 reviewlokasi: -6.245709,106.7884374
+
+
+===================
+
+Keyword Data Ace Hardware:
+
+
+
+Ace Home Center - Gandaria City Mall - 4.6 - 1418 reviewlokasi: -6.244662900000001,106.7830649
+Ace Hardware Panglima Polim - 4.4 - 1373 reviewlokasi: -6.250750099999999,106.7976074
+Ace Hardware Radio Dalam - 4.5 - 1204 reviewlokasi: -6.251556900000001,106.7916272
+
+
+===================
+
+Keyword Data Guardian:
+
+
+
+GUARDIAN - Gandaria City - 4.4 - 141 reviewlokasi: -6.2444275,106.7839782
+
+
+===================
+
+Keyword Data Century:
+
+
+
+
+
+===================
+
+Keyword Data Mc Donald's:
+
+
+
+
+
+===================
+
+Keyword Data Electronic City:
+
+
+
+
+
+===================
+
+Keyword Data Co Working Space:
+
+SouthHub Co-working Space, Chief Creative Complex, Mantra Space, WorkOUT Coworking Space, Enablerspace.id, Huddle Hub Co-Working Space, Dekhad Gandaria, 
+
+SouthHub Co-working Space - 0 - 0 review - 1.1 kmlokasi: -6.2427252,106.7830773
+Chief Creative Complex - 4.8 - 38 review - 1.6 kmlokasi: -6.255237699999999,106.7900476
+Mantra Space - 4.8 - 46 review - 1.9 kmlokasi: -6.2395976,106.7820323
+WorkOUT Coworking Space - 4.7 - 26 review - 2.2 kmlokasi: -6.2544935,106.797458
+Enablerspace.id - 4.5 - 40 review - 4.4 kmlokasi: -6.2531941,106.7764818
+Huddle Hub Co-Working Space - 4.8 - 13 review - 512 mlokasi: -6.2458684,106.7884173
+Dekhad Gandaria - 4.5 - 94 review - 777 mlokasi: -6.247132199999999,106.792145
+
+
+===================
+
+Keyword Data Halte Transjakarta:
+
+Simpang Gandaria Kyai Maja, Velbak, Kebayoran Baru Velbak 1, Gandaria City, Halte: Sultan Iskandar Muda, Halte Busway 8-6 Kebayoran LamaBungur, Halte Busway Bungur, Universitas Satya Negara, Pasar Kebayoran Lama, Halte Busway Pasar Kebayoran Lama, Iskandar Muda, Mayestik, Halte busway kyai maja 1, St. Kebayoran, 
+
+Simpang Gandaria Kyai Maja - 5 - 1 review - 1.0 kmlokasi: -6.24186,106.79
+Velbak - 4.4 - 28 review - 1.1 kmlokasi: -6.23943,106.78552
+Kebayoran Baru Velbak 1 - 5 - 2 review - 1.1 kmlokasi: -6.23949,106.78555
+Gandaria City - 4.8 - 202 review - 1.2 kmlokasi: -6.24411,106.78234
+Halte: Sultan Iskandar Muda - 0 - 0 review - 1.3 kmlokasi: -6.252146499999999,106.7817219
+Halte Busway 8-6 Kebayoran LamaBungur - 5 - 1 review - 1.3 kmlokasi: -6.252655,106.7816615
+Halte Busway Bungur - 4.5 - 4 review - 1.6 kmlokasi: -6.2547555,106.7819483
+Universitas Satya Negara - 5 - 1 review - 1.6 kmlokasi: -6.241849999999999,106.78288
+Pasar Kebayoran Lama - 4.2 - 241 review - 1.8 kmlokasi: -6.2384052,106.7832192
+Halte Busway Pasar Kebayoran Lama - 4.1 - 15 review - 1.8 kmlokasi: -6.238461999999999,106.7831987
+Iskandar Muda - 5 - 3 review - 1.9 kmlokasi: -6.244300000000001,106.78249
+Mayestik - 4.3 - 15 review - 2.2 kmlokasi: -6.241818299999999,106.7907878
+Halte busway kyai maja 1 - 0 - 0 review - 2.2 kmlokasi: -6.2399432,106.7967378
+St. Kebayoran - 3.3 - 3 review - 2.5 kmlokasi: -6.239,106.78198
+
+
+===================
+
+Keyword Data Kantor Kelurahan:
+
+Kantor Kelurahan Kebayoran Lama Selatan, Kantor Kelurahan Kebayoran Lama Utara, Kantor Lurah Gunung, Kantor Lurah Gandaria Utara, Kantor Lurah Melawai, Kantor Kelurahan Cipulir, Kantor Lurah Pulo, Kantor Kelurahan Pela Mampang, Kantor Lurah Grogol Selatan, Kantor Lurah Pondok Pinang, Kantor Kelurahan Pondok Pinang, Kantor Kelurahan Petogogan, Kantor PTSP Kelurahan Petogogan, Kantor Lurah Gandaria Selatan, Kantor Sementara Kelurahan Selong, 
+
+Kantor Kelurahan Kebayoran Lama Selatan - 3.5 - 35 review - 1.0 kmlokasi: -6.248372499999999,106.7829424
+Kantor Kelurahan Kebayoran Lama Utara - 4 - 40 review - 1.6 kmlokasi: -6.2418179,106.781065
+Kantor Lurah Gunung - 0 - 0 review - 1.7 kmlokasi: -6.234747100000001,106.7884734
+Kantor Lurah Gandaria Utara - 4.8 - 4 review - 2.0 kmlokasi: -6.257143399999999,106.7880282
+Kantor Lurah Melawai - 4.6 - 5 review - 2.1 kmlokasi: -6.248446,106.8027199
+Kantor Kelurahan Cipulir - 4.1 - 30 review - 2.2 kmlokasi: -6.239307999999999,106.776328
+Kantor Lurah Pulo - 4.4 - 23 review - 3.1 kmlokasi: -6.2507457,106.8099297
+Kantor Kelurahan Pela Mampang - 4.5 - 53 review - 3.5 kmlokasi: -6.252773599999999,106.811327
+Kantor Lurah Grogol Selatan - 3.6 - 89 review - 3.5 kmlokasi: -6.2303432,106.7834106
+Kantor Lurah Pondok Pinang - 4.2 - 6 review - 4.3 kmlokasi: -6.2697994,106.775948
+Kantor Kelurahan Pondok Pinang - 4.3 - 40 review - 4.3 kmlokasi: -6.2698507,106.7759066
+Kantor Kelurahan Petogogan - 3.7 - 27 review - 4.4 kmlokasi: -6.244187399999999,106.8137346
+Kantor PTSP Kelurahan Petogogan - 0 - 0 review - 4.4 kmlokasi: -6.244352999999999,106.8135912
+Kantor Lurah Gandaria Selatan - 3.6 - 31 review - 4.5 kmlokasi: -6.270574799999999,106.7939046
+Kantor Sementara Kelurahan Selong - 0 - 0 review - 4.5 kmlokasi: -6.2304764,106.8122918
+
+
+===================
+
+Keyword Data Kantor Kecamatan:
+
+Kantor Kelurahan Kebayoran Lama Selatan, Kantor Kelurahan Kebayoran Lama Utara, Kantor Kecamatan Kebayoran Baru, Kantor Kecamatan Kebayoran Lama, Rumah Dinas Kecamatan Kebayoran Lama, Kantor Lurah Kramat Pela, 
+
+Kantor Kelurahan Kebayoran Lama Selatan - 3.5 - 35 review - 1.0 kmlokasi: -6.248372499999999,106.7829424
+Kantor Kelurahan Kebayoran Lama Utara - 4 - 40 review - 1.6 kmlokasi: -6.2418179,106.781065
+Kantor Kecamatan Kebayoran Baru - 3.9 - 36 review - 2.1 kmlokasi: -6.2400081,106.7886233
+Kantor Kecamatan Kebayoran Lama - 4.2 - 82 review - 4.9 kmlokasi: -6.249403999999999,106.7785204
+Rumah Dinas Kecamatan Kebayoran Lama - 4.3 - 106 review - 5.2 kmlokasi: -6.249491,106.7788084
+Kantor Lurah Kramat Pela - 4.2 - 20 review - 533 mlokasi: -6.2449185,106.7905902
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kebayoran - 4.4 - 1294 review (2.8 km)lokasi: -6.237247499999999,106.7825225
+train_stationPondok Ranji - 4.1 - 1075 review (9.8 km)lokasi: -6.2763674,106.744919
+train_stationStadiun Karet - 4.1 - 615 review (11.4 km)lokasi: -6.2008189,106.815776
+train_stationPalmerah - 4.6 - 1396 review (6.4 km)lokasi: -6.20753,106.79738
+
+
+Dynamic Transport:
+
+subway_stationBlok M BCA - 4.8 - 607 review (1.6 km)lokasi: -6.244470000000001,106.7981
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 30.8 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 15.7 km
+
+
+Stasiun Gambirroute distance: 11.6 km
+
+

@@ -1,0 +1,187 @@
+The H Residence
+
+the_h_residence
+
+Kordinat: -6.244879300000001,106.8721739
+
+12, Jl. Cawang Baru Tengah No.83, RW.11, Cipinang Cempedak, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13340, Indonesia
+
+===================
+
+hospital:
+
+Poli IGD - RSU UKI - 4.3 - 116 review (3.0 km)lokasi: -6.2513383,106.8723843
+Rumah Sakit Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono Jakarta - 4.1 - 1042 review (2.2 km)lokasi: -6.2460173,106.8704704
+
+
+shopping_mall:
+
+Transmart MT. Haryono - 4.2 - 3959 review (2.2 km)lokasi: -6.2447373,106.8612593
+Pasar Cawang Kavling Perumda Pasar Jaya - 4.5 - 194 review (450 m)lokasi: -6.241848,106.8736882
+
+
+supermarket:
+
+Alfamart Cawang Baru - 4.1 - 387 review (262 m)lokasi: -6.2430641,106.872941
+Frestive Otista - Supermarket - 4.5 - 1552 review (776 m)lokasi: -6.2431714,106.8692121
+Indomaret jaani nasir - 4.5 - 128 review (2.8 km)lokasi: -6.250333899999999,106.86767
+Alfa Midi - 4.5 - 672 review (1.6 km)lokasi: -6.2498705,106.8659572
+Toko Asba7 - 4.5 - 365 review (1.3 km)lokasi: -6.2373428,106.8690593
+Alfamart - 4.4 - 115 review (2.8 km)lokasi: -6.256281199999999,106.8681634
+Transmart MT. Haryono - 4.2 - 3959 review (2.2 km)lokasi: -6.2447373,106.8612593
+
+
+university:
+
+Universitas Kristen Indonesia - 4.5 - 1580 review (3.5 km)lokasi: -6.2483483,106.8720918
+Kantin my wife - 4.3 - 168 review (1.6 km)lokasi: -6.237271,106.8767821
+Universitas Bina Sarana Informatika Kampus Dewi Sartika B (UBSI Dewi Sartika 289) - 4.3 - 148 review (2.1 km)lokasi: -6.2535963,106.8646736
+Sekolah Tinggi Bahasa Asing LIA - 4.7 - 151 review (2.7 km)lokasi: -6.2479341,106.8601669
+Sekolah Tinggi Teknologi Sapta Taruna - 4.4 - 149 review (951 m)lokasi: -6.240910599999999,106.8770097
+
+
+school:
+
+SMA Angkasa 1 Halim PK, Jakarta - 4.7 - 101 review (2.8 km)lokasi: -6.2488176,106.8823818
+
+
+===================
+
+Rasto di Mall Transmart MT. Haryono:
+
+KFC Transmart MT Haryono - 4.4 - 316 reviewlokasi: -6.2444649,106.8615977
+A&W Restoran - Transmart MT Haryono - 4.3 - 276 reviewlokasi: -6.2444582,106.8617579
+Soto Lamongan Menara Saidah - 4.4 - 241 reviewlokasi: -6.244473500000001,106.8594389
+Angkringan "Pak Gendut" - 4.7 - 118 reviewlokasi: -6.244939200000001,106.8593862
+
+
+Rasto di Mall Pasar Cawang Kavling Perumda Pasar Jaya:
+
+TERRACE CAFE - 4.3 - 122 reviewlokasi: -6.244210199999999,106.8755906
+
+
+===================
+
+Keyword Data Starbucks:
+
+Starbucks Tamansari The Hive - 4.3 - 391 reviewlokasi: -6.2450965,106.8754157
+
+
+===================
+
+Keyword Data Ace Hardware:
+
+Ace Hardware Cawang - 4.4 - 1316 reviewlokasi: -6.254518099999999,106.8635677
+
+
+===================
+
+Keyword Data Guardian:
+
+
+
+===================
+
+Keyword Data Century:
+
+
+
+===================
+
+Keyword Data Mc Donald's:
+
+McDonald's Otista Raya - 4.4 - 11017 reviewlokasi: -6.236914,106.8691091
+
+
+===================
+
+Keyword Data Electronic City:
+
+
+
+===================
+
+Keyword Data Co Working Space:
+
+
+
+===================
+
+Keyword Data Halte Transjakarta:
+
+BNN 2, Cawang Otista 1, Jl Cipinang Cempedak 1, Cawang Ciliwung Arah Barat, Halte Transjakarta BNN arah Grogol, Halte Transjakarta Tebet Bkpm, Parkiran Motor Halte BusWay Cawang UKI, Cawang UKI, Gelanggang Remaja, Transjakarta Pintu 1, Pool Transjakarta Busway, BNN, Cawang Uki 2, Cawang Soetoyo, Penas Kalimalang, BNN 2 - 4.3 - 3 review - 1.2 kmlokasi: -6.24571,106.87108
+Cawang Otista 1 - 5 - 4 review - 1.2 kmlokasi: -6.24348,106.86867
+Jl Cipinang Cempedak 1 - 0 - 0 review - 1.4 kmlokasi: -6.236829999999999,106.87747
+Cawang Ciliwung Arah Barat - 4.4 - 24 review - 1.6 kmlokasi: -6.24329,106.86359
+Halte Transjakarta BNN arah Grogol - 4.1 - 16 review - 1.8 kmlokasi: -6.2467372,106.8735493
+Halte Transjakarta Tebet Bkpm - 4 - 2 review - 2.1 kmlokasi: -6.24646,106.862781
+Parkiran Motor Halte BusWay Cawang UKI - 4.4 - 7 review - 2.2 kmlokasi: -6.2504081,106.8738888
+Cawang UKI - 4.3 - 401 review - 2.2 kmlokasi: -6.250311300000001,106.8736161
+Gelanggang Remaja - 4.2 - 30 review - 2.3 kmlokasi: -6.235376599999999,106.8679335
+Transjakarta Pintu 1 - 5 - 2 review - 2.4 kmlokasi: -6.25268,106.87358
+Pool Transjakarta Busway - 4.3 - 34 review - 2.6 kmlokasi: -6.252497,106.874993
+BNN - 4.7 - 13 review - 2.9 kmlokasi: -6.24646,106.87334
+Cawang Uki 2 - 4.2 - 75 review - 3.2 kmlokasi: -6.250041299999999,106.8735114
+Cawang Soetoyo - 4.1 - 43 review - 3.8 kmlokasi: -6.24477,106.87598
+Penas Kalimalang - 4.1 - 63 review - 8.1 kmlokasi: -6.23907,106.878
+
+
+===================
+
+Keyword Data Kantor Kelurahan:
+
+Kantor Kelurahan Cipinang Besar Selatan, Kantor Kelurahan Cikoko, Kantor Kelurahan Pengadegan, Kantor Lurah Rawajati, Kantor Kelurahan Tebet Timur, Kantor Lurah Cililitan, Kantor Kelurahan Palmeriam, Kantor Kelurahan Halim Perdana Kusuma, Kantor Kelurahan Cipinang Muara, Kantor Kelurahan Cipinang Besar Utara, Kantor Lurah Tegal Parang, Kantor Kelurahan Pegangsaan Jakarta Pusat, Kantor Lurah Cipinang Jakarta Timur, Kantor Lurah Manggarai Selatan, Kantor Kelurahan Menteng Jakarta Pusat, Kantor Kelurahan Cipinang Besar Selatan - 4.7 - 47 review - 2.4 kmlokasi: -6.231973099999999,106.8810443
+Kantor Kelurahan Cikoko - 4.3 - 15 review - 3.1 kmlokasi: -6.2462721,106.852775
+Kantor Kelurahan Pengadegan - 4.3 - 24 review - 3.2 kmlokasi: -6.250934000000001,106.8611774
+Kantor Lurah Rawajati - 4.5 - 27 review - 4.2 kmlokasi: -6.2602403,106.8525579
+Kantor Kelurahan Tebet Timur - 4.1 - 21 review - 4.9 kmlokasi: -6.2286079,106.8580033
+Kantor Lurah Cililitan - 4.8 - 17 review - 4.9 kmlokasi: -6.2602553,106.8699671
+Kantor Kelurahan Palmeriam - 3.9 - 32 review - 5.1 kmlokasi: -6.2070666,106.8614112
+Kantor Kelurahan Halim Perdana Kusuma - 4.2 - 46 review - 5.4 kmlokasi: -6.2678001,106.8776394
+Kantor Kelurahan Cipinang Muara - 3.8 - 38 review - 5.5 kmlokasi: -6.227403,106.8865273
+Kantor Kelurahan Cipinang Besar Utara - 3.5 - 29 review - 5.6 kmlokasi: -6.2173972,106.882176
+Kantor Lurah Tegal Parang - 3.5 - 64 review - 6.4 kmlokasi: -6.2496751,106.8338671
+Kantor Kelurahan Pegangsaan Jakarta Pusat - 4.3 - 21 review - 6.6 kmlokasi: -6.204030899999999,106.8502538
+Kantor Lurah Cipinang Jakarta Timur - 3.9 - 31 review - 6.6 kmlokasi: -6.208963900000001,106.8950901
+Kantor Lurah Manggarai Selatan - 4.2 - 18 review - 7.1 kmlokasi: -6.2181169,106.8471166
+Kantor Kelurahan Menteng Jakarta Pusat - 4.4 - 84 review - 7.1 kmlokasi: -6.2037721,106.8446467
+
+
+===================
+
+Keyword Data Kantor Kecamatan:
+
+Kantor Kelurahan Cawang, Kantor Kelurahan Cawang - 3.7 - 30 review - 2.8 kmlokasi: -6.2502884,106.8684606
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Cawang - 4.4 - 1150 review (2.7 km)lokasi: -6.242487300000001,106.8588122
+train_stationDuren Kalibata - 4.4 - 1077 review (3.5 km)lokasi: -6.2553166,106.8550527
+train_stationTebet - 4.5 - 2038 review (4.8 km)lokasi: -6.226111800000001,106.8582931
+train_stationJatinegara - 4.4 - 2480 review (5.7 km)lokasi: -6.214923799999999,106.8702903
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 34.4 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 4.1 km
+
+
+Stasiun Gambirroute distance: 10.4 km
+
+

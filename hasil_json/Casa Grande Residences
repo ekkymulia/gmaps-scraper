@@ -1,0 +1,504 @@
+{
+    "nama": "Casa Grande Residences",
+    "alamat": "Jl. Raya Casablanca, RT.16/RW.5, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870, Indonesia",
+    "kecamatan": "Kecamatan Tebet",
+    "kelurahan": "Menteng Dalam",
+    "location": "-6.2234921,106.8417979",
+    "permalink": "casa_grande_residences",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "RS MMC",
+                    "rating": 4,
+                    "location": "-6.219863699999999,106.8323987",
+                    "user_ratings_total": 411,
+                    "routes_distance": "3.9 km",
+                    "printed": "RS MMC - 4 - 411 review (3.9 km)"
+                },
+                {
+                    "nama": "Rumah Sakit Ibu dan Anak Budhi Jaya",
+                    "rating": 4,
+                    "location": "-6.2188959,106.8450804",
+                    "user_ratings_total": 142,
+                    "routes_distance": "1.4 km",
+                    "printed": "Rumah Sakit Ibu dan Anak Budhi Jaya - 4 - 142 review (1.4 km)"
+                },
+                {
+                    "nama": "Heartology Cardiovascular Center",
+                    "rating": 4.9,
+                    "location": "-6.224560899999999,106.8477112",
+                    "user_ratings_total": 110,
+                    "routes_distance": "3.0 km",
+                    "printed": "Heartology Cardiovascular Center - 4.9 - 110 review (3.0 km)"
+                },
+                {
+                    "nama": "BRAWIJAYA HOSPITAL SAHARJO",
+                    "rating": 4.6,
+                    "location": "-6.2245768,106.8479106",
+                    "user_ratings_total": 1612,
+                    "routes_distance": "3.0 km",
+                    "printed": "BRAWIJAYA HOSPITAL SAHARJO - 4.6 - 1612 review (3.0 km)"
+                },
+                {
+                    "nama": "Klinik Mata SMEC Tebet",
+                    "rating": 4.4,
+                    "location": "-6.2289699,106.8469097",
+                    "user_ratings_total": 131,
+                    "routes_distance": "1.9 km",
+                    "printed": "Klinik Mata SMEC Tebet - 4.4 - 131 review (1.9 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Kota Kasablanka",
+                    "rating": 4.6,
+                    "location": "-6.2240353,106.8425979",
+                    "user_ratings_total": 99411,
+                    "routes_distance": "352 m",
+                    "printed": "Kota Kasablanka - 4.6 - 99411 review (352 m)"
+                },
+                {
+                    "nama": "Bursa Sajadah - Jakarta",
+                    "rating": 4.4,
+                    "location": "-6.2163108,106.8439182",
+                    "user_ratings_total": 465,
+                    "routes_distance": "1.7 km",
+                    "printed": "Bursa Sajadah - Jakarta - 4.4 - 465 review (1.7 km)"
+                },
+                {
+                    "nama": "Plaza Festival Mall Kuningan",
+                    "rating": 4.4,
+                    "location": "-6.221077800000001,106.8324111",
+                    "user_ratings_total": 24018,
+                    "routes_distance": "3.9 km",
+                    "printed": "Plaza Festival Mall Kuningan - 4.4 - 24018 review (3.9 km)"
+                },
+                {
+                    "nama": "Kuningan City",
+                    "rating": 4.4,
+                    "location": "-6.225013599999999,106.829553",
+                    "user_ratings_total": 34541,
+                    "routes_distance": "3.2 km",
+                    "printed": "Kuningan City - 4.4 - 34541 review (3.2 km)"
+                },
+                {
+                    "nama": "Wellcomm Shop Kota Kasablanka",
+                    "rating": 4.9,
+                    "location": "-6.2234054,106.8429289",
+                    "user_ratings_total": 314,
+                    "routes_distance": "601 m",
+                    "printed": "Wellcomm Shop Kota Kasablanka - 4.9 - 314 review (601 m)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Transmart Kota Kasablanka",
+                    "rating": 4.4,
+                    "location": "-6.2226058,106.8423994",
+                    "user_ratings_total": 4579,
+                    "routes_distance": "344 m",
+                    "printed": "Transmart Kota Kasablanka - 4.4 - 4579 review (344 m)"
+                },
+                {
+                    "nama": "Farmers Market",
+                    "rating": 4.4,
+                    "location": "-6.2182508,106.8351427",
+                    "user_ratings_total": 545,
+                    "routes_distance": "3.6 km",
+                    "printed": "Farmers Market - 4.4 - 545 review (3.6 km)"
+                },
+                {
+                    "nama": "LOTTE MART KUNINGAN CITY",
+                    "rating": 4.4,
+                    "location": "-6.224647200000001,106.8302322",
+                    "user_ratings_total": 2490,
+                    "routes_distance": "3.3 km",
+                    "printed": "LOTTE MART KUNINGAN CITY - 4.4 - 2490 review (3.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Universitas Teknologi Muhammadiyah Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.214390199999999,106.8431799",
+                    "user_ratings_total": 123,
+                    "routes_distance": "2.0 km",
+                    "printed": "Universitas Teknologi Muhammadiyah Jakarta - 4.6 - 123 review (2.0 km)"
+                },
+                {
+                    "nama": "Universitas Bakrie",
+                    "rating": 4.5,
+                    "location": "-6.220378800000001,106.8332191",
+                    "user_ratings_total": 306,
+                    "routes_distance": "3.7 km",
+                    "printed": "Universitas Bakrie - 4.5 - 306 review (3.7 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Wall Street English - Jakarta Selatan Kota Kasablanka",
+                    "rating": 4.8,
+                    "location": "-6.2242121,106.8431714",
+                    "user_ratings_total": 157,
+                    "routes_distance": "429 m",
+                    "printed": "Wall Street English - Jakarta Selatan Kota Kasablanka - 4.8 - 157 review (429 m)"
+                },
+                {
+                    "nama": "SMA Negeri 43 Jakarta Selatan",
+                    "rating": 4.4,
+                    "location": "-6.216239799999999,106.8416266",
+                    "user_ratings_total": 149,
+                    "routes_distance": "1.1 km",
+                    "printed": "SMA Negeri 43 Jakarta Selatan - 4.4 - 149 review (1.1 km)"
+                },
+                {
+                    "nama": "Swastik Mart",
+                    "rating": 4.2,
+                    "location": "-6.217766499999999,106.8360385",
+                    "user_ratings_total": 286,
+                    "routes_distance": "4.4 km",
+                    "printed": "Swastik Mart - 4.2 - 286 review (4.4 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Kota Kasablanka",
+            "restaurants": [
+                {
+                    "nama": "Sushi Tei Mall Kota Kasablanka",
+                    "rating": 4.6,
+                    "location": "-6.224195399999999,106.8426641",
+                    "user_ratings_total": 3416,
+                    "printed": "Sushi Tei Mall Kota Kasablanka - 4.6 - 3416 review"
+                },
+                {
+                    "nama": "Ojju K-Food Mall Kota Kasablanka",
+                    "rating": 4.4,
+                    "location": "-6.2242532,106.8429418",
+                    "user_ratings_total": 2038,
+                    "printed": "Ojju K-Food Mall Kota Kasablanka - 4.4 - 2038 review"
+                },
+                {
+                    "nama": "ZENBU KOTA KASABLANKA",
+                    "rating": 4.6,
+                    "location": "-6.2242313,106.8428049",
+                    "user_ratings_total": 1825,
+                    "printed": "ZENBU KOTA KASABLANKA - 4.6 - 1825 review"
+                },
+                {
+                    "nama": "Sushigroove Mall Kota Kasablanka",
+                    "rating": 4.5,
+                    "location": "-6.2234866,106.8423702",
+                    "user_ratings_total": 1410,
+                    "printed": "Sushigroove Mall Kota Kasablanka - 4.5 - 1410 review"
+                },
+                {
+                    "nama": "Steak 21 - Kota Kasablanka",
+                    "rating": 4.4,
+                    "location": "-6.223260499999999,106.8431857",
+                    "user_ratings_total": 1158,
+                    "printed": "Steak 21 - Kota Kasablanka - 4.4 - 1158 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Bursa Sajadah - Jakarta",
+            "restaurants": [
+                {
+                    "nama": "Seafood Ade Fani 67 (Manggarai)",
+                    "rating": 4.5,
+                    "location": "-6.214823,106.8433016",
+                    "user_ratings_total": 3060,
+                    "printed": "Seafood Ade Fani 67 (Manggarai) - 4.5 - 3060 review"
+                },
+                {
+                    "nama": "Martabak Kubang Hayuda",
+                    "rating": 4.4,
+                    "location": "-6.2172353,106.8443846",
+                    "user_ratings_total": 2574,
+                    "printed": "Martabak Kubang Hayuda - 4.4 - 2574 review"
+                },
+                {
+                    "nama": "Toba Tabo Lapo Batak",
+                    "rating": 4.4,
+                    "location": "-6.215948900000001,106.8435287",
+                    "user_ratings_total": 979,
+                    "printed": "Toba Tabo Lapo Batak - 4.4 - 979 review"
+                },
+                {
+                    "nama": "Toba Dream Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.2159627,106.8434644",
+                    "user_ratings_total": 417,
+                    "printed": "Toba Dream Jakarta - 4.6 - 417 review"
+                },
+                {
+                    "nama": "Viky Sianipar Inc.",
+                    "rating": 4.5,
+                    "location": "-6.2139767,106.8439515",
+                    "user_ratings_total": 182,
+                    "printed": "Viky Sianipar Inc. - 4.5 - 182 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Plaza Festival Mall Kuningan",
+            "restaurants": [
+                {
+                    "nama": "Dim Sum Inc",
+                    "rating": 4.4,
+                    "location": "-6.221576900000001,106.8331726",
+                    "user_ratings_total": 2271,
+                    "printed": "Dim Sum Inc - 4.4 - 2271 review"
+                },
+                {
+                    "nama": "Seasonal Tastes at The Westin Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.223906899999998,106.8337168",
+                    "user_ratings_total": 1613,
+                    "printed": "Seasonal Tastes at The Westin Jakarta - 4.6 - 1613 review"
+                },
+                {
+                    "nama": "HokBen Pasar Festival",
+                    "rating": 4.8,
+                    "location": "-6.2214595,106.8326448",
+                    "user_ratings_total": 1532,
+                    "printed": "HokBen Pasar Festival - 4.8 - 1532 review"
+                },
+                {
+                    "nama": "Warung Tekko",
+                    "rating": 4.3,
+                    "location": "-6.2217109,106.832831",
+                    "user_ratings_total": 537,
+                    "printed": "Warung Tekko - 4.3 - 537 review"
+                },
+                {
+                    "nama": "Sky Garden Cafe",
+                    "rating": 4.5,
+                    "location": "-6.220917999999999,106.829175",
+                    "user_ratings_total": 374,
+                    "printed": "Sky Garden Cafe - 4.5 - 374 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Kuningan City",
+            "restaurants": [
+                {
+                    "nama": "Starbucks Kuningan City",
+                    "rating": 4.5,
+                    "location": "-6.2247732,106.8296243",
+                    "user_ratings_total": 1184,
+                    "printed": "Starbucks Kuningan City - 4.5 - 1184 review"
+                },
+                {
+                    "nama": "Sate Khas Senayan",
+                    "rating": 4.3,
+                    "location": "-6.225970399999999,106.8308817",
+                    "user_ratings_total": 467,
+                    "printed": "Sate Khas Senayan - 4.3 - 467 review"
+                },
+                {
+                    "nama": "Yoshinoya",
+                    "rating": 4.3,
+                    "location": "-6.2238463,106.8268905",
+                    "user_ratings_total": 400,
+                    "printed": "Yoshinoya - 4.3 - 400 review"
+                },
+                {
+                    "nama": "Excelso - Kuningan City Mall",
+                    "rating": 4.4,
+                    "location": "-6.2248483,106.8296941",
+                    "user_ratings_total": 356,
+                    "printed": "Excelso - Kuningan City Mall - 4.4 - 356 review"
+                },
+                {
+                    "nama": "Ta Wan Kuningan City",
+                    "rating": 4.2,
+                    "location": "-6.2248775,106.8299275",
+                    "user_ratings_total": 259,
+                    "printed": "Ta Wan Kuningan City - 4.2 - 259 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Wellcomm Shop Kota Kasablanka",
+            "restaurants": [
+                {
+                    "nama": "Sushi Tei Mall Kota Kasablanka",
+                    "rating": 4.6,
+                    "location": "-6.224195399999999,106.8426641",
+                    "user_ratings_total": 3416,
+                    "printed": "Sushi Tei Mall Kota Kasablanka - 4.6 - 3416 review"
+                },
+                {
+                    "nama": "Steak Hotel by Holycow Kota Kasablanka",
+                    "rating": 4.5,
+                    "location": "-6.223186,106.8424072",
+                    "user_ratings_total": 1253,
+                    "printed": "Steak Hotel by Holycow Kota Kasablanka - 4.5 - 1253 review"
+                },
+                {
+                    "nama": "Steak 21 - Kota Kasablanka",
+                    "rating": 4.4,
+                    "location": "-6.223260499999999,106.8431857",
+                    "user_ratings_total": 1158,
+                    "printed": "Steak 21 - Kota Kasablanka - 4.4 - 1158 review"
+                },
+                {
+                    "nama": "Pizza Hut Restoran - Kota Kasablanka Mall",
+                    "rating": 4.5,
+                    "location": "-6.2233443,106.8432416",
+                    "user_ratings_total": 1025,
+                    "printed": "Pizza Hut Restoran - Kota Kasablanka Mall - 4.5 - 1025 review"
+                },
+                {
+                    "nama": "Wingstop Kota Kasablanka",
+                    "rating": 4.5,
+                    "location": "-6.2231144,106.8431075",
+                    "user_ratings_total": 798,
+                    "printed": "Wingstop Kota Kasablanka - 4.5 - 798 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Mall Kota Kasablanka",
+                    "rating": 4.6,
+                    "location": "-6.2242773,106.8427139",
+                    "user_ratings_total": 3261,
+                    "printed": "Starbucks Mall Kota Kasablanka - 4.6 - 3261 review"
+                },
+                {
+                    "nama": "Starbucks Soepomo Tebet",
+                    "rating": 4.6,
+                    "location": "-6.233154799999999,106.8448342",
+                    "user_ratings_total": 1188,
+                    "printed": "Starbucks Soepomo Tebet - 4.6 - 1188 review"
+                },
+                {
+                    "nama": "Starbucks",
+                    "rating": 4.5,
+                    "location": "-6.2206375,106.8323776",
+                    "user_ratings_total": 570,
+                    "printed": "Starbucks - 4.5 - 570 review"
+                },
+                {
+                    "nama": "Starbucks Rasuna Epicentrum",
+                    "rating": 4.4,
+                    "location": "-6.2179162,106.8350783",
+                    "user_ratings_total": 416,
+                    "printed": "Starbucks Rasuna Epicentrum - 4.4 - 416 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "ACE Hardware - Kota Kasablanka",
+                    "rating": 4.6,
+                    "location": "-6.2222965,106.8423884",
+                    "user_ratings_total": 905,
+                    "printed": "ACE Hardware - Kota Kasablanka - 4.6 - 905 review"
+                },
+                {
+                    "nama": "ACE HARDWARE - EPIWALK KUNINGAN",
+                    "rating": 4.5,
+                    "location": "-6.218128099999999,106.8354255",
+                    "user_ratings_total": 152,
+                    "printed": "ACE HARDWARE - EPIWALK KUNINGAN - 4.5 - 152 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Manggarai",
+                    "rating": 4.3,
+                    "location": "-6.209901899999998,106.8502202",
+                    "user_ratings_total": 4639,
+                    "routes_distance": "3.9 km",
+                    "printed": "Manggarai - 4.3 - 4639 review (3.9 km)"
+                },
+                {
+                    "nama": "Tebet",
+                    "rating": 4.5,
+                    "location": "-6.226111800000001,106.8582931",
+                    "user_ratings_total": 2038,
+                    "routes_distance": "3.2 km",
+                    "printed": "Tebet - 4.5 - 2038 review (3.2 km)"
+                },
+                {
+                    "nama": "Stasiun Cawang",
+                    "rating": 4.4,
+                    "location": "-6.242487300000001,106.8588122",
+                    "user_ratings_total": 1150,
+                    "routes_distance": "4.8 km",
+                    "printed": "Stasiun Cawang - 4.4 - 1150 review (4.8 km)"
+                },
+                {
+                    "nama": "Stasiun Sudirman",
+                    "rating": 4.4,
+                    "location": "-6.202268399999999,106.8231961",
+                    "user_ratings_total": 2217,
+                    "routes_distance": "7.5 km",
+                    "printed": "Stasiun Sudirman - 4.4 - 2217 review (7.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "33.3 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "10.0 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "7.0 km"
+        }
+    ]
+}

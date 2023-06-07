@@ -1,0 +1,52 @@
+Gandaria Heights
+
+gandaria_heights
+
+Kordinat: -6.2440799,106.7845157
+
+10, Jl. KH. Moh. Syafi'i Hadzami No.8, RT.10/RW.6, Kby. Lama Utara, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Pusat Pertamina - 4.1 - 909 review (1.6 km)lokasi: -6.2399349,106.7932011
+RS Muhammadiyah Taman Puring - 3.8 - 398 review (1.1 km)lokasi: -6.2417177,106.7875121
+Rumah Sakit Gandaria - 3.4 - 201 review (933 m)lokasi: -6.2440131,106.790662
+Klinik Gigi Get Dentist Jakarta - 4.7 - 109 review (733 m)lokasi: -6.245057399999999,106.7891565
+RSUD Kebayoran Lama - 4.7 - 685 review (971 m)lokasi: -6.248721899999999,106.7856259
+
+
+shopping_mall:
+
+Gandaria City Mall - 4.6 - 69036 review (650 m)lokasi: -6.244179199999999,106.783529
+Pasar Mayestik - 4.5 - 32634 review (1.9 km)lokasi: -6.2408434,106.7910143
+
+
+supermarket:
+
+LOTTE Mart Gandaria City - 4.6 - 5602 review (624 m)lokasi: -6.2451291,106.7834073
+
+
+university:
+
+Universitas Muhammadiyah Prof. Dr. HAMKA - 4.5 - 534 review (1.1 km)lokasi: -6.247762799999999,106.7910386
+Politeknik Kesehatan Kemenkes Jakarta II - 4.7 - 339 review (2.0 km)lokasi: -6.2384462,106.7938406
+Universitas Satya Negara Indonesia - 4.6 - 280 review (2.2 km)lokasi: -6.2420463,106.783709
+
+
+school:
+
+Sekolah Menengah Pertama Negeri 19 Jakarta Selatan - 4.2 - 139 review (2.4 km)lokasi: -6.2398368,106.7895905
+SMA Negeri 74 Jakarta Selatan - 4.5 - 131 review (1.4 km)lokasi: -6.250319,106.7860261
+SMA NEGERI 29 Jakarta Selatan - 4.5 - 185 review (2.3 km)lokasi: -6.2374081,106.7842657
+PKBM Sukses (Terakreditasi "A") Homeschooling - 4.7 - 114 review (1.3 km)lokasi: -6.242076199999999,106.7911245
+
+
+===================
+
+Rasto di Mall Gandaria City Mall:
+
+Steak Hotel by Holycow! - 4.3 - 1318 reviewlokasi: -6.2441985,106.7839644
+Solaria - Gandaria City Mall - 4.3 - 680 reviewlokasi: -6.2441741,106.7835446
+KFC - Gandaria City Mall - 4.3 - 609 reviewlokasi: -6.244480999999999,106.7840379

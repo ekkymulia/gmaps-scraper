@@ -1,0 +1,242 @@
+Royale Springhill Residence
+
+royale_springhill_residence
+
+Kordinat: -6.1471748,106.8521506
+
+Jl. Golf View No.B, Pademangan Tim., Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14410, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Mitra Keluarga Kemayoran - 4 - 1111 review (1.8 km)lokasi: -6.1519598,106.8584997
+RSU Hermina Podomoro - 4.6 - 2289 review (2.6 km)lokasi: -6.1455087,106.8614785
+
+
+shopping_mall:
+
+Apartemen Maple Park - 4 - 170 review (1.2 km)lokasi: -6.149470099999999,106.8569159
+Food Centrum Sunter - 4.4 - 10933 review (1.2 km)lokasi: -6.141220400000002,106.8543338
+Centra Jeep4WD - 4.2 - 8217 review (2.7 km)lokasi: -6.1545563,106.8488111
+AUDERPRO - Lux Audio Sound System - 5 - 429 review (2.5 km)lokasi: -6.155307400000001,106.8495039
+
+
+supermarket:
+
+Alfamart - 4.3 - 258 review (1.8 km)lokasi: -6.1458481,106.859435
+Alfamart Bakti Kangkungan - 4.3 - 160 review (1.9 km)lokasi: -6.1510552,106.8625988
+Indomaret Danau Sunter 33 - 4.2 - 108 review (1.8 km)lokasi: -6.1391697,106.8607705
+Daily Foodhall Dukuh Golf kemayoran - 4.6 - 328 review (86 m)lokasi: -6.147663399999999,106.8527241
+Indomaret Komplek Angkasapura - 4.5 - 138 review (952 m)lokasi: -6.153938999999998,106.854747
+
+
+university:
+
+
+
+school:
+
+Universal School - 2.5 - 185 review (1.6 km)lokasi: -6.1503415,106.850975
+Katedral Mesias - 4.8 - 337 review (2.8 km)lokasi: -6.153567799999998,106.8441084
+
+
+===================
+
+Rasto di Mall Apartemen Maple Park:
+
+
+
+Rasto di Mall Food Centrum Sunter:
+
+Pizza Hut Restoran - 4.5 - 4563 reviewlokasi: -6.140529799999999,106.8571313
+Afterhour Sunter - 4.5 - 1084 reviewlokasi: -6.1424644,106.8575253
+Five Monkeys Burger - 4.6 - 591 reviewlokasi: -6.1412059,106.8545034
+Foek Lam - 4.3 - 538 reviewlokasi: -6.141262,106.8544436
+Charada Sunter - 4.6 - 283 reviewlokasi: -6.140408700000001,106.8543694
+
+
+Rasto di Mall Centra Jeep4WD:
+
+Nam Centre - 4.1 - 1590 reviewlokasi: -6.154827099999999,106.8464678
+Domino's Pizza - 4.3 - 426 reviewlokasi: -6.1545714,106.8522573
+
+
+Rasto di Mall AUDERPRO - Lux Audio Sound System:
+
+BANDS CAFE BY STEAK GUNTING KEMAYORAN - 4.6 - 714 reviewlokasi: -6.155866100000001,106.849384
+Domino's Pizza - 4.3 - 426 reviewlokasi: -6.1545714,106.8522573
+
+
+===================
+
+Keyword Data Starbucks:
+
+Starbucks Food Centrum - 4.6 - 926 reviewlokasi: -6.1410617,106.8544373
+Starbucks - JIExpo Kemayoran - 4.6 - 355 reviewlokasi: -6.1435059,106.8451519
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kemayoran - 4.1 - 756 review (5.3 km)lokasi: -6.161733799999999,106.8413931
+train_stationStasiun Pasar Senen - 4.4 - 8713 review (4.7 km)lokasi: -6.174700000000001,106.84435
+train_stationStasiun Juanda - 4.5 - 1544 review (5.3 km)lokasi: -6.1667216,106.830473
+train_stationStasiun Jayakarta - 4.4 - 367 review (6.3 km)lokasi: -6.1412258,106.8229932
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Ace Hardware:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kemayoran - 4.1 - 756 review (5.3 km)lokasi: -6.161733799999999,106.8413931
+train_stationStasiun Pasar Senen - 4.4 - 8713 review (4.7 km)lokasi: -6.174700000000001,106.84435
+train_stationStasiun Juanda - 4.5 - 1544 review (5.3 km)lokasi: -6.1667216,106.830473
+train_stationStasiun Jayakarta - 4.4 - 367 review (6.3 km)lokasi: -6.1412258,106.8229932
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Guardian:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kemayoran - 4.1 - 756 review (5.3 km)lokasi: -6.161733799999999,106.8413931
+train_stationStasiun Pasar Senen - 4.4 - 8713 review (4.7 km)lokasi: -6.174700000000001,106.84435
+train_stationStasiun Juanda - 4.5 - 1544 review (5.3 km)lokasi: -6.1667216,106.830473
+train_stationStasiun Jayakarta - 4.4 - 367 review (6.3 km)lokasi: -6.1412258,106.8229932
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Century:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kemayoran - 4.1 - 756 review (5.3 km)lokasi: -6.161733799999999,106.8413931
+train_stationStasiun Pasar Senen - 4.4 - 8713 review (4.7 km)lokasi: -6.174700000000001,106.84435
+train_stationStasiun Juanda - 4.5 - 1544 review (5.3 km)lokasi: -6.1667216,106.830473
+train_stationStasiun Jayakarta - 4.4 - 367 review (6.3 km)lokasi: -6.1412258,106.8229932
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Mc Donald's:
+
+McDonald's Sunter Barat - 4.7 - 1387 reviewlokasi: -6.1456633,106.8581062
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kemayoran - 4.1 - 756 review (5.3 km)lokasi: -6.161733799999999,106.8413931
+train_stationStasiun Pasar Senen - 4.4 - 8713 review (4.7 km)lokasi: -6.174700000000001,106.84435
+train_stationStasiun Juanda - 4.5 - 1544 review (5.3 km)lokasi: -6.1667216,106.830473
+train_stationStasiun Jayakarta - 4.4 - 367 review (6.3 km)lokasi: -6.1412258,106.8229932
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Electronic City:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kemayoran - 4.1 - 756 review (5.3 km)lokasi: -6.161733799999999,106.8413931
+train_stationStasiun Pasar Senen - 4.4 - 8713 review (4.7 km)lokasi: -6.174700000000001,106.84435
+train_stationStasiun Juanda - 4.5 - 1544 review (5.3 km)lokasi: -6.1667216,106.830473
+train_stationStasiun Jayakarta - 4.4 - 367 review (6.3 km)lokasi: -6.1412258,106.8229932
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Co Work:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kemayoran - 4.1 - 756 review (5.3 km)lokasi: -6.161733799999999,106.8413931
+train_stationStasiun Pasar Senen - 4.4 - 8713 review (4.7 km)lokasi: -6.174700000000001,106.84435
+train_stationStasiun Juanda - 4.5 - 1544 review (5.3 km)lokasi: -6.1667216,106.830473
+train_stationStasiun Jayakarta - 4.4 - 367 review (6.3 km)lokasi: -6.1412258,106.8229932
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 26.5 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 18.5 km
+
+
+Stasiun Gambirroute distance: 7.3 km
+
+

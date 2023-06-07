@@ -1,0 +1,62 @@
+The Pakubuwono House
+
+the_pakubuwono_house
+
+Kordinat: -6.2372927,106.7866479
+
+1, Jl. Pakubuwono VI No.68, Gunung, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12120, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Pusat Pertamina - 4.1 - 909 review (1.6 km)lokasi: -6.2399349,106.7932011
+RS Muhammadiyah Taman Puring - 3.8 - 398 review (1.3 km)lokasi: -6.2417177,106.7875121
+Rumah Sakit Gandaria - 3.4 - 201 review (1.9 km)lokasi: -6.2440131,106.790662
+
+
+shopping_mall:
+
+Pasar Mayestik - 4.5 - 32632 review (1.2 km)lokasi: -6.2408434,106.7910143
+Gandaria City Mall - 4.6 - 69034 review (2.6 km)lokasi: -6.244179199999999,106.783529
+
+
+supermarket:
+
+LOTTE Mart Gandaria City - 4.6 - 5602 review (3.2 km)lokasi: -6.2451291,106.7834073
+Rezeki Supermarket Simprug - 4.5 - 378 review (2.3 km)lokasi: -6.2360731,106.7845816
+
+
+university:
+
+Politeknik Kesehatan Kemenkes Jakarta II - 4.7 - 339 review (2.0 km)lokasi: -6.2384462,106.7938406
+Universitas Pertamina - 4.6 - 754 review (3.6 km)lokasi: -6.2285507,106.7889774
+Universitas Muhammadiyah Prof. Dr. HAMKA - 4.5 - 534 review (2.0 km)lokasi: -6.247762799999999,106.7910386
+Universitas Satya Negara Indonesia - 4.6 - 280 review (2.1 km)lokasi: -6.2420463,106.783709
+
+
+school:
+
+Sekolah Menengah Pertama Negeri 19 Jakarta Selatan - 4.2 - 139 review (827 m)lokasi: -6.2398368,106.7895905
+SMA Negeri 70 Jakarta - 4.6 - 319 review (2.1 km)lokasi: -6.241651699999999,106.7968122
+SMA NEGERI 29 Jakarta Selatan - 4.5 - 185 review (2.4 km)lokasi: -6.2374081,106.7842657
+PKBM Sukses (Terakreditasi "A") Homeschooling - 4.7 - 114 review (1.6 km)lokasi: -6.242076199999999,106.7911245
+SMP Negeri 48 Jakarta Selatan - 4.5 - 111 review (3.1 km)lokasi: -6.2344689,106.7801789
+
+
+===================
+
+Rasto di Mall Pasar Mayestik:
+
+Blenger Burger - 4.6 - 7513 reviewlokasi: -6.2411558,106.7900747
+Lewis & Carroll - 4.5 - 1413 reviewlokasi: -6.2367895,106.7898455
+Cafe Safari - 4.4 - 1109 reviewlokasi: -6.2439375,106.7919222
+Blue Jasmine - 4.6 - 920 reviewlokasi: -6.240766899999999,106.7892173
+Beranda Kitchen - 4.4 - 886 reviewlokasi: -6.2451338,106.7919559
+
+
+Rasto di Mall Gandaria City Mall:
+
+Steak Hotel by Holycow! - 4.3 - 1318 reviewlokasi: -6.2441985,106.7839644
+Solaria - Gandaria City Mall - 4.3 - 680 reviewlokasi: -6.2441741,106.7835446
+KFC - Gandaria City Mall - 4.3 - 609 reviewlokasi: -6.244480999999999,106.7840379

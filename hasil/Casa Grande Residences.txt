@@ -1,0 +1,204 @@
+Casa Grande Residences
+
+casa_grande_residences
+
+Kordinat: -6.2234921,106.8417979
+
+Jl. Raya Casablanca, RT.16/RW.5, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870, Indonesia
+
+===================
+
+hospital:
+
+RS MMC - 4 - 411 review (3.9 km)lokasi: -6.219863699999999,106.8323987
+Rumah Sakit Ibu dan Anak Budhi Jaya - 4 - 142 review (1.4 km)lokasi: -6.2188959,106.8450804
+Heartology Cardiovascular Center - 4.9 - 110 review (3.0 km)lokasi: -6.224560899999999,106.8477112
+BRAWIJAYA HOSPITAL SAHARJO - 4.6 - 1612 review (3.0 km)lokasi: -6.2245768,106.8479106
+Klinik Mata SMEC Tebet - 4.4 - 131 review (1.9 km)lokasi: -6.2289699,106.8469097
+
+
+shopping_mall:
+
+Kota Kasablanka - 4.6 - 99411 review (352 m)lokasi: -6.2240353,106.8425979
+Bursa Sajadah - Jakarta - 4.4 - 465 review (1.7 km)lokasi: -6.2163108,106.8439182
+Plaza Festival Mall Kuningan - 4.4 - 24018 review (3.9 km)lokasi: -6.221077800000001,106.8324111
+Kuningan City - 4.4 - 34541 review (3.2 km)lokasi: -6.225013599999999,106.829553
+Wellcomm Shop Kota Kasablanka - 4.9 - 314 review (601 m)lokasi: -6.2234054,106.8429289
+
+
+supermarket:
+
+Transmart Kota Kasablanka - 4.4 - 4579 review (344 m)lokasi: -6.2226058,106.8423994
+Farmers Market - 4.4 - 545 review (3.6 km)lokasi: -6.2182508,106.8351427
+LOTTE MART KUNINGAN CITY - 4.4 - 2490 review (3.3 km)lokasi: -6.224647200000001,106.8302322
+
+
+university:
+
+Universitas Teknologi Muhammadiyah Jakarta - 4.6 - 123 review (2.0 km)lokasi: -6.214390199999999,106.8431799
+Universitas Bakrie - 4.5 - 306 review (3.7 km)lokasi: -6.220378800000001,106.8332191
+
+
+school:
+
+Wall Street English - Jakarta Selatan Kota Kasablanka - 4.8 - 157 review (429 m)lokasi: -6.2242121,106.8431714
+SMA Negeri 43 Jakarta Selatan - 4.4 - 149 review (1.1 km)lokasi: -6.216239799999999,106.8416266
+Swastik Mart - 4.2 - 286 review (4.4 km)lokasi: -6.217766499999999,106.8360385
+
+
+===================
+
+Rasto di Mall Kota Kasablanka:
+
+Sushi Tei Mall Kota Kasablanka - 4.6 - 3416 reviewlokasi: -6.224195399999999,106.8426641
+Ojju K-Food Mall Kota Kasablanka - 4.4 - 2038 reviewlokasi: -6.2242532,106.8429418
+ZENBU KOTA KASABLANKA - 4.6 - 1825 reviewlokasi: -6.2242313,106.8428049
+Sushigroove Mall Kota Kasablanka - 4.5 - 1410 reviewlokasi: -6.2234866,106.8423702
+Steak 21 - Kota Kasablanka - 4.4 - 1158 reviewlokasi: -6.223260499999999,106.8431857
+
+
+Rasto di Mall Bursa Sajadah - Jakarta:
+
+Seafood Ade Fani 67 (Manggarai) - 4.5 - 3060 reviewlokasi: -6.214823,106.8433016
+Martabak Kubang Hayuda - 4.4 - 2574 reviewlokasi: -6.2172353,106.8443846
+Toba Tabo Lapo Batak - 4.4 - 979 reviewlokasi: -6.215948900000001,106.8435287
+Toba Dream Jakarta - 4.6 - 417 reviewlokasi: -6.2159627,106.8434644
+Viky Sianipar Inc. - 4.5 - 182 reviewlokasi: -6.2139767,106.8439515
+
+
+Rasto di Mall Plaza Festival Mall Kuningan:
+
+Dim Sum Inc - 4.4 - 2271 reviewlokasi: -6.221576900000001,106.8331726
+Seasonal Tastes at The Westin Jakarta - 4.6 - 1613 reviewlokasi: -6.223906899999998,106.8337168
+HokBen Pasar Festival - 4.8 - 1532 reviewlokasi: -6.2214595,106.8326448
+Warung Tekko - 4.3 - 537 reviewlokasi: -6.2217109,106.832831
+Sky Garden Cafe - 4.5 - 374 reviewlokasi: -6.220917999999999,106.829175
+
+
+Rasto di Mall Kuningan City:
+
+Starbucks Kuningan City - 4.5 - 1184 reviewlokasi: -6.2247732,106.8296243
+Sate Khas Senayan - 4.3 - 467 reviewlokasi: -6.225970399999999,106.8308817
+Yoshinoya - 4.3 - 400 reviewlokasi: -6.2238463,106.8268905
+Excelso - Kuningan City Mall - 4.4 - 356 reviewlokasi: -6.2248483,106.8296941
+Ta Wan Kuningan City - 4.2 - 259 reviewlokasi: -6.2248775,106.8299275
+
+
+Rasto di Mall Wellcomm Shop Kota Kasablanka:
+
+Sushi Tei Mall Kota Kasablanka - 4.6 - 3416 reviewlokasi: -6.224195399999999,106.8426641
+Steak Hotel by Holycow Kota Kasablanka - 4.5 - 1253 reviewlokasi: -6.223186,106.8424072
+Steak 21 - Kota Kasablanka - 4.4 - 1158 reviewlokasi: -6.223260499999999,106.8431857
+Pizza Hut Restoran - Kota Kasablanka Mall - 4.5 - 1025 reviewlokasi: -6.2233443,106.8432416
+Wingstop Kota Kasablanka - 4.5 - 798 reviewlokasi: -6.2231144,106.8431075
+
+
+===================
+
+Keyword Data Starbucks:
+
+Starbucks Mall Kota Kasablanka - 4.6 - 3261 reviewlokasi: -6.2242773,106.8427139
+Starbucks Soepomo Tebet - 4.6 - 1188 reviewlokasi: -6.233154799999999,106.8448342
+Starbucks - 4.5 - 570 reviewlokasi: -6.2206375,106.8323776
+Starbucks Rasuna Epicentrum - 4.4 - 416 reviewlokasi: -6.2179162,106.8350783
+
+
+===================
+
+Dynamic Transport:
+
+Manggarai - 4.3 - 4639 review (3.9 km)lokasi: -6.209901899999998,106.8502202
+Tebet - 4.5 - 2038 review (3.2 km)lokasi: -6.226111800000001,106.8582931
+Stasiun Cawang - 4.4 - 1150 review (4.8 km)lokasi: -6.242487300000001,106.8588122
+Stasiun Sudirman - 4.4 - 2217 review (7.5 km)lokasi: -6.202268399999999,106.8231961
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Ace Hardware:
+
+ACE Hardware - Kota Kasablanka - 4.6 - 905 reviewlokasi: -6.2222965,106.8423884
+ACE HARDWARE - EPIWALK KUNINGAN - 4.5 - 152 reviewlokasi: -6.218128099999999,106.8354255
+
+
+===================
+
+Dynamic Transport:
+
+Manggarai - 4.3 - 4639 review (3.9 km)lokasi: -6.209901899999998,106.8502202
+Tebet - 4.5 - 2038 review (3.2 km)lokasi: -6.226111800000001,106.8582931
+Stasiun Cawang - 4.4 - 1150 review (4.8 km)lokasi: -6.242487300000001,106.8588122
+Stasiun Sudirman - 4.4 - 2217 review (7.5 km)lokasi: -6.202268399999999,106.8231961
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Guardian:
+
+
+
+===================
+
+Dynamic Transport:
+
+Manggarai - 4.3 - 4639 review (3.9 km)lokasi: -6.209901899999998,106.8502202
+Tebet - 4.5 - 2038 review (3.2 km)lokasi: -6.226111800000001,106.8582931
+Stasiun Cawang - 4.4 - 1150 review (4.8 km)lokasi: -6.242487300000001,106.8588122
+Stasiun Sudirman - 4.4 - 2217 review (7.5 km)lokasi: -6.202268399999999,106.8231961
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Century:
+
+
+
+===================
+
+Dynamic Transport:
+
+Manggarai - 4.3 - 4639 review (3.9 km)lokasi: -6.209901899999998,106.8502202
+Tebet - 4.5 - 2038 review (3.2 km)lokasi: -6.226111800000001,106.8582931
+Stasiun Cawang - 4.4 - 1150 review (4.8 km)lokasi: -6.242487300000001,106.8588122
+Stasiun Sudirman - 4.4 - 2217 review (7.5 km)lokasi: -6.202268399999999,106.8231961
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 33.3 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 10.0 km
+
+
+Stasiun Gambirroute distance: 7.0 km
+
+

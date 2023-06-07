@@ -1,0 +1,187 @@
+Daan Mogot City
+
+daan_mogot_city
+
+Kordinat: -6.156445799999999,106.7115038
+
+Jl. Raya Daan Mogot No.KM 16, RW.6, Semanan, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11850, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Hermina Daan Mogot - 4.5 - 3838 review (2.0 km)lokasi: -6.152855199999999,106.7122236
+Mitra Keluarga Kalideres - 4.3 - 2540 review (2.5 km)lokasi: -6.149509699999999,106.7021832
+
+
+shopping_mall:
+
+Mall Matahari Daan Mogot - 4.3 - 13409 review (2.3 km)lokasi: -6.150739199999999,106.7141432
+
+
+supermarket:
+
+Hari Hari Pasar Swalayan - 4.5 - 8546 review (2.5 km)lokasi: -6.1481585,106.7029405
+Super Indo Kosambi - 4.3 - 1895 review (4.8 km)lokasi: -6.167085800000001,106.724574
+
+
+university:
+
+Universitas Bina Sarana Informatika Kampus Cengkareng (UBSI Cengkareng) - 4.6 - 178 review (3.7 km)lokasi: -6.1480208,106.7273266
+
+
+school:
+
+
+
+===================
+
+Rasto di Mall Mall Matahari Daan Mogot:
+
+Bebek Kaleyo Daan Mogot - 4.5 - 4967 reviewlokasi: -6.152817199999999,106.7132991
+Richeese Factory Daan Mogot - 4.4 - 3287 reviewlokasi: -6.153372,106.7137154
+HokBen Daan Mogot - 4.7 - 1274 reviewlokasi: -6.1509163,106.7141739
+Warung Tekko Daan Mogot - 4.2 - 961 reviewlokasi: -6.152579999999999,106.7132413
+Mcdonald's Daan Mogot - 4.4 - 923 reviewlokasi: -6.1514036,106.7145228
+
+
+===================
+
+Keyword Data Starbucks:
+
+
+
+Starbucks Daan Mogot - 4.6 - 1601 reviewlokasi: -6.1530494,106.7139186
+
+
+===================
+
+Keyword Data Ace Hardware:
+
+
+
+ACE Hardware - 4.6 - 569 reviewlokasi: -6.1504693,106.7145588
+
+
+===================
+
+Keyword Data Guardian:
+
+
+
+
+
+===================
+
+Keyword Data Century:
+
+
+
+
+
+===================
+
+Keyword Data Mc Donald's:
+
+
+
+McDonald's Citra Garden 7 - 4.6 - 1942 reviewlokasi: -6.1469098,106.7007458
+Mcdonald's Daan Mogot - 4.4 - 923 reviewlokasi: -6.1514036,106.7145228
+
+
+===================
+
+Keyword Data Electronic City:
+
+
+
+
+
+===================
+
+Keyword Data Co Working Space:
+
+Daan Mogot Service Office, 
+
+Daan Mogot Service Office - 0 - 0 review - 2.0 kmlokasi: -6.1531289,106.7175283
+
+
+===================
+
+Keyword Data Halte Transjakarta:
+
+Halte Busway Kalideres, Seberang Jalan Swadaya Utama Kalideres, Pesakih, Sumur Bor 2, Pesakih 2, Sumur Bor, Sumur Bor 1, 
+
+Halte Busway Kalideres - 4.2 - 12 review - 1.0 kmlokasi: -6.1546059,106.7058526
+Seberang Jalan Swadaya Utama Kalideres - 0 - 0 review - 1.1 kmlokasi: -6.15729,106.70331
+Pesakih - 4.4 - 5 review - 1.7 kmlokasi: -6.154935699999999,106.7150123
+Sumur Bor 2 - 5 - 1 review - 2.1 kmlokasi: -6.1531204,106.7184012
+Pesakih 2 - 5 - 1 review - 2.1 kmlokasi: -6.154960000000001,106.71529
+Sumur Bor - 4.1 - 94 review - 2.2 kmlokasi: -6.153031299999999,106.71938
+Sumur Bor 1 - 5 - 2 review - 2.6 kmlokasi: -6.15333,106.71854
+
+
+===================
+
+Keyword Data Kantor Kelurahan:
+
+Kantor Kelurahan Semanan Jakarta Barat, KANTOR PPS KELURAHAN SEMANAN, Pos damkar kelurahan Semanan, Kelurahan Cengkareng Barat, Pos Indonesia (Kelurahan), Kantor Kecamatan Kalideres, Kantor Kelurahan Ketapang, Kantor Kelurahan Kalideres Kecamatan Kalideres, Kantor Kelurahan Cengkareng Timur, Kantor Kelurahan Poris Gaga, Kantor Kelurahan Duri Kosambi Jakarta Barat, Kantor Kelurahan Rawa Buaya Jakarta Barat, Kantor Kelurahan Pegadungan, Kantor Kelurahan Cipondoh Indah, Kantor Kelurahan Kembangan Utara Jakarta Barat, 
+
+Kantor Kelurahan Semanan Jakarta Barat - 4 - 52 review - 1.1 kmlokasi: -6.1600579,106.7052819
+KANTOR PPS KELURAHAN SEMANAN - 4 - 1 review - 1.1 kmlokasi: -6.160136199999999,106.7054759
+Pos damkar kelurahan Semanan - 5 - 1 review - 1.1 kmlokasi: -6.160112499999999,106.7051035
+Kelurahan Cengkareng Barat - 3.7 - 52 review - 3.3 kmlokasi: -6.1495169,106.7218752
+Pos Indonesia (Kelurahan) - 3.3 - 3 review - 3.3 kmlokasi: -6.1495054,106.7218765
+Kantor Kecamatan Kalideres - 4 - 66 review - 3.7 kmlokasi: -6.1421302,106.7023944
+Kantor Kelurahan Ketapang - 4.3 - 7 review - 4.3 kmlokasi: -6.1815259,106.7033545
+Kantor Kelurahan Kalideres Kecamatan Kalideres - 4.3 - 79 review - 4.4 kmlokasi: -6.1433176,106.6924829
+Kantor Kelurahan Cengkareng Timur - 3.6 - 58 review - 4.9 kmlokasi: -6.1451837,106.7331986
+Kantor Kelurahan Poris Gaga - 4.1 - 19 review - 5.0 kmlokasi: -6.170942699999999,106.6822209
+Kantor Kelurahan Duri Kosambi Jakarta Barat - 3.7 - 93 review - 5.1 kmlokasi: -6.1701047,106.7223877
+Kantor Kelurahan Rawa Buaya Jakarta Barat - 3 - 44 review - 5.9 kmlokasi: -6.169733400000001,106.7344024
+Kantor Kelurahan Pegadungan - 3.6 - 42 review - 6.0 kmlokasi: -6.1301101,106.7106222
+Kantor Kelurahan Cipondoh Indah - 2.5 - 15 review - 6.2 kmlokasi: -6.1769411,106.6876739
+Kantor Kelurahan Kembangan Utara Jakarta Barat - 4 - 43 review - 6.6 kmlokasi: -6.1791164,106.7354114
+
+
+===================
+
+Keyword Data Kantor Kecamatan:
+
+Kantor Kelurahan Semanan Jakarta Barat, Kelurahan Cengkareng Barat, 
+
+Kantor Kelurahan Semanan Jakarta Barat - 4 - 52 review - 1.1 kmlokasi: -6.1600579,106.7052819
+Kelurahan Cengkareng Barat - 3.7 - 52 review - 3.3 kmlokasi: -6.1495169,106.7218752
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kali Deres - 4.2 - 487 review (1.8 km)lokasi: -6.1660731,106.7038006
+train_stationStasiun Rawa Buaya - 4.4 - 715 review (2.5 km)lokasi: -6.1627629,106.7236115
+train_stationPoris - 4.3 - 727 review (4.6 km)lokasi: -6.1699387,106.6800057
+train_stationBatu Ceper - 4.3 - 483 review (8.0 km)lokasi: -6.171682799999999,106.6652937
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 16.1 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 30.0 km
+
+
+Stasiun Gambirroute distance: 20.9 km
+
+

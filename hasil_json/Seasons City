@@ -1,0 +1,234 @@
+{
+    "nama": "Seasons City",
+    "alamat": "13, Jl. Prof. Dr. Latumeten No.33, RT.13/RW.1, Jemb. Besi, Kec. Tambora, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11320, Indonesia",
+    "kecamatan": "Kecamatan Tambora",
+    "kelurahan": "Jembatan Besi",
+    "location": "-6.1536444,106.7962078",
+    "permalink": "seasons_city",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Ibu Dan Anak Ibnu Sina",
+                    "rating": 3.2,
+                    "location": "-6.1603996,106.7960844",
+                    "user_ratings_total": 157,
+                    "routes_distance": "1.2 km",
+                    "printed": "Rumah Sakit Ibu Dan Anak Ibnu Sina - 3.2 - 157 review (1.2 km)"
+                },
+                {
+                    "nama": "Selter gor gerogol",
+                    "rating": 4.3,
+                    "location": "-6.160706299999998,106.7964596",
+                    "user_ratings_total": 185,
+                    "routes_distance": "1.3 km",
+                    "printed": "Selter gor gerogol - 4.3 - 185 review (1.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "TM Seasons City",
+                    "rating": 4.3,
+                    "location": "-6.153435000000001,106.7959604",
+                    "user_ratings_total": 25785,
+                    "routes_distance": "38 m",
+                    "printed": "TM Seasons City - 4.3 - 25785 review (38 m)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Alfamart Angke Jaya 3",
+                    "rating": 4.3,
+                    "location": "-6.1483767,106.7991022",
+                    "user_ratings_total": 197,
+                    "routes_distance": "1.2 km",
+                    "printed": "Alfamart Angke Jaya 3 - 4.3 - 197 review (1.2 km)"
+                },
+                {
+                    "nama": "Indomaret Pakuwon. F574",
+                    "rating": 4.5,
+                    "location": "-6.1509899,106.7906945",
+                    "user_ratings_total": 174,
+                    "routes_distance": "3.0 km",
+                    "printed": "Indomaret Pakuwon. F574 - 4.5 - 174 review (3.0 km)"
+                },
+                {
+                    "nama": "Alfamart Jelambar Jaya",
+                    "rating": 4.5,
+                    "location": "-6.154227,106.7884678",
+                    "user_ratings_total": 208,
+                    "routes_distance": "2.8 km",
+                    "printed": "Alfamart Jelambar Jaya - 4.5 - 208 review (2.8 km)"
+                },
+                {
+                    "nama": "Alfamart Tss Duri Raya",
+                    "rating": 4.2,
+                    "location": "-6.1564592,106.8047359",
+                    "user_ratings_total": 129,
+                    "routes_distance": "1.8 km",
+                    "printed": "Alfamart Tss Duri Raya - 4.2 - 129 review (1.8 km)"
+                },
+                {
+                    "nama": "Indomaret Empang Bahagia",
+                    "rating": 4.4,
+                    "location": "-6.1585291,106.787654",
+                    "user_ratings_total": 326,
+                    "routes_distance": "2.1 km",
+                    "printed": "Indomaret Empang Bahagia - 4.4 - 326 review (2.1 km)"
+                },
+                {
+                    "nama": "Indomaret jelambar utama 51 {TCRN}",
+                    "rating": 4.5,
+                    "location": "-6.152776599999999,106.7847089",
+                    "user_ratings_total": 253,
+                    "routes_distance": "3.4 km",
+                    "printed": "Indomaret jelambar utama 51 {TCRN} - 4.5 - 253 review (3.4 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": []
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Sekolah Damai",
+                    "rating": 4.8,
+                    "location": "-6.159225899999999,106.8047877",
+                    "user_ratings_total": 114,
+                    "routes_distance": "2.1 km",
+                    "printed": "Sekolah Damai - 4.8 - 114 review (2.1 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "TM Seasons City",
+            "restaurants": [
+                {
+                    "nama": "Hokben Seasons City",
+                    "rating": 4.8,
+                    "location": "-6.153032,106.7959003",
+                    "user_ratings_total": 3551,
+                    "printed": "Hokben Seasons City - 4.8 - 3551 review"
+                },
+                {
+                    "nama": "Quantum Bistro",
+                    "rating": 4.3,
+                    "location": "-6.153643,106.7964541",
+                    "user_ratings_total": 137,
+                    "printed": "Quantum Bistro - 4.3 - 137 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks seasons city",
+                    "rating": 4.6,
+                    "location": "-6.1541861,106.7959932",
+                    "user_ratings_total": 400,
+                    "printed": "Starbucks seasons city - 4.6 - 400 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": []
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": []
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": []
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Grogol",
+                    "rating": 4.3,
+                    "location": "-6.1620333,106.7893663",
+                    "user_ratings_total": 513,
+                    "routes_distance": "2.1 km",
+                    "printed": "Grogol - 4.3 - 513 review (2.1 km)"
+                },
+                {
+                    "nama": "Stasiun Jayakarta",
+                    "rating": 4.4,
+                    "location": "-6.1412258,106.8229932",
+                    "user_ratings_total": 367,
+                    "routes_distance": "5.6 km",
+                    "printed": "Stasiun Jayakarta - 4.4 - 367 review (5.6 km)"
+                },
+                {
+                    "nama": "Stasiun Tanahabang",
+                    "rating": 4.2,
+                    "location": "-6.185702099999999,106.8108536",
+                    "user_ratings_total": 3175,
+                    "routes_distance": "7.9 km",
+                    "printed": "Stasiun Tanahabang - 4.2 - 3175 review (7.9 km)"
+                },
+                {
+                    "nama": "Stasiun Juanda",
+                    "rating": 4.5,
+                    "location": "-6.1667216,106.830473",
+                    "user_ratings_total": 1544,
+                    "routes_distance": "7.5 km",
+                    "printed": "Stasiun Juanda - 4.5 - 1544 review (7.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "20.2 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "19.1 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "9.9 km"
+        }
+    ]
+}

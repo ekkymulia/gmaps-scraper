@@ -1,0 +1,336 @@
+{
+    "nama": "Royale Springhill Residence",
+    "alamat": "Jl. Golf View No.B, Pademangan Tim., Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14410, Indonesia",
+    "kecamatan": "Kecamatan Pademangan",
+    "kelurahan": "Pademangan Timur",
+    "location": "-6.1471748,106.8521506",
+    "permalink": "royale_springhill_residence",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Mitra Keluarga Kemayoran",
+                    "rating": 4,
+                    "location": "-6.1519598,106.8584997",
+                    "user_ratings_total": 1111,
+                    "routes_distance": "1.8 km",
+                    "printed": "Rumah Sakit Mitra Keluarga Kemayoran - 4 - 1111 review (1.8 km)"
+                },
+                {
+                    "nama": "RSU Hermina Podomoro",
+                    "rating": 4.6,
+                    "location": "-6.1455087,106.8614785",
+                    "user_ratings_total": 2289,
+                    "routes_distance": "2.6 km",
+                    "printed": "RSU Hermina Podomoro - 4.6 - 2289 review (2.6 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Apartemen Maple Park",
+                    "rating": 4,
+                    "location": "-6.149470099999999,106.8569159",
+                    "user_ratings_total": 170,
+                    "routes_distance": "1.2 km",
+                    "printed": "Apartemen Maple Park - 4 - 170 review (1.2 km)"
+                },
+                {
+                    "nama": "Food Centrum Sunter",
+                    "rating": 4.4,
+                    "location": "-6.141220400000002,106.8543338",
+                    "user_ratings_total": 10933,
+                    "routes_distance": "1.2 km",
+                    "printed": "Food Centrum Sunter - 4.4 - 10933 review (1.2 km)"
+                },
+                {
+                    "nama": "Centra Jeep4WD",
+                    "rating": 4.2,
+                    "location": "-6.1545563,106.8488111",
+                    "user_ratings_total": 8217,
+                    "routes_distance": "2.7 km",
+                    "printed": "Centra Jeep4WD - 4.2 - 8217 review (2.7 km)"
+                },
+                {
+                    "nama": "AUDERPRO - Lux Audio Sound System",
+                    "rating": 5,
+                    "location": "-6.155307400000001,106.8495039",
+                    "user_ratings_total": 429,
+                    "routes_distance": "2.5 km",
+                    "printed": "AUDERPRO - Lux Audio Sound System - 5 - 429 review (2.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Alfamart",
+                    "rating": 4.3,
+                    "location": "-6.1458481,106.859435",
+                    "user_ratings_total": 258,
+                    "routes_distance": "1.8 km",
+                    "printed": "Alfamart - 4.3 - 258 review (1.8 km)"
+                },
+                {
+                    "nama": "Alfamart Bakti Kangkungan",
+                    "rating": 4.3,
+                    "location": "-6.1510552,106.8625988",
+                    "user_ratings_total": 160,
+                    "routes_distance": "1.9 km",
+                    "printed": "Alfamart Bakti Kangkungan - 4.3 - 160 review (1.9 km)"
+                },
+                {
+                    "nama": "Indomaret Danau Sunter 33",
+                    "rating": 4.2,
+                    "location": "-6.1391697,106.8607705",
+                    "user_ratings_total": 108,
+                    "routes_distance": "1.8 km",
+                    "printed": "Indomaret Danau Sunter 33 - 4.2 - 108 review (1.8 km)"
+                },
+                {
+                    "nama": "Daily Foodhall Dukuh Golf kemayoran",
+                    "rating": 4.6,
+                    "location": "-6.147663399999999,106.8527241",
+                    "user_ratings_total": 328,
+                    "routes_distance": "86 m",
+                    "printed": "Daily Foodhall Dukuh Golf kemayoran - 4.6 - 328 review (86 m)"
+                },
+                {
+                    "nama": "Indomaret Komplek Angkasapura",
+                    "rating": 4.5,
+                    "location": "-6.153938999999998,106.854747",
+                    "user_ratings_total": 138,
+                    "routes_distance": "952 m",
+                    "printed": "Indomaret Komplek Angkasapura - 4.5 - 138 review (952 m)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": []
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Universal School",
+                    "rating": 2.5,
+                    "location": "-6.1503415,106.850975",
+                    "user_ratings_total": 185,
+                    "routes_distance": "1.6 km",
+                    "printed": "Universal School - 2.5 - 185 review (1.6 km)"
+                },
+                {
+                    "nama": "Katedral Mesias",
+                    "rating": 4.8,
+                    "location": "-6.153567799999998,106.8441084",
+                    "user_ratings_total": 337,
+                    "routes_distance": "2.8 km",
+                    "printed": "Katedral Mesias - 4.8 - 337 review (2.8 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Apartemen Maple Park",
+            "restaurants": []
+        },
+        {
+            "shopping_mall": "Food Centrum Sunter",
+            "restaurants": [
+                {
+                    "nama": "Pizza Hut Restoran",
+                    "rating": 4.5,
+                    "location": "-6.140529799999999,106.8571313",
+                    "user_ratings_total": 4563,
+                    "printed": "Pizza Hut Restoran - 4.5 - 4563 review"
+                },
+                {
+                    "nama": "Afterhour Sunter",
+                    "rating": 4.5,
+                    "location": "-6.1424644,106.8575253",
+                    "user_ratings_total": 1084,
+                    "printed": "Afterhour Sunter - 4.5 - 1084 review"
+                },
+                {
+                    "nama": "Five Monkeys Burger",
+                    "rating": 4.6,
+                    "location": "-6.1412059,106.8545034",
+                    "user_ratings_total": 591,
+                    "printed": "Five Monkeys Burger - 4.6 - 591 review"
+                },
+                {
+                    "nama": "Foek Lam",
+                    "rating": 4.3,
+                    "location": "-6.141262,106.8544436",
+                    "user_ratings_total": 538,
+                    "printed": "Foek Lam - 4.3 - 538 review"
+                },
+                {
+                    "nama": "Charada Sunter",
+                    "rating": 4.6,
+                    "location": "-6.140408700000001,106.8543694",
+                    "user_ratings_total": 283,
+                    "printed": "Charada Sunter - 4.6 - 283 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Centra Jeep4WD",
+            "restaurants": [
+                {
+                    "nama": "Nam Centre",
+                    "rating": 4.1,
+                    "location": "-6.154827099999999,106.8464678",
+                    "user_ratings_total": 1590,
+                    "printed": "Nam Centre - 4.1 - 1590 review"
+                },
+                {
+                    "nama": "Domino's Pizza",
+                    "rating": 4.3,
+                    "location": "-6.1545714,106.8522573",
+                    "user_ratings_total": 426,
+                    "printed": "Domino's Pizza - 4.3 - 426 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "AUDERPRO - Lux Audio Sound System",
+            "restaurants": [
+                {
+                    "nama": "BANDS CAFE BY STEAK GUNTING KEMAYORAN",
+                    "rating": 4.6,
+                    "location": "-6.155866100000001,106.849384",
+                    "user_ratings_total": 714,
+                    "printed": "BANDS CAFE BY STEAK GUNTING KEMAYORAN - 4.6 - 714 review"
+                },
+                {
+                    "nama": "Domino's Pizza",
+                    "rating": 4.3,
+                    "location": "-6.1545714,106.8522573",
+                    "user_ratings_total": 426,
+                    "printed": "Domino's Pizza - 4.3 - 426 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Food Centrum",
+                    "rating": 4.6,
+                    "location": "-6.1410617,106.8544373",
+                    "user_ratings_total": 926,
+                    "printed": "Starbucks Food Centrum - 4.6 - 926 review"
+                },
+                {
+                    "nama": "Starbucks - JIExpo Kemayoran",
+                    "rating": 4.6,
+                    "location": "-6.1435059,106.8451519",
+                    "user_ratings_total": 355,
+                    "printed": "Starbucks - JIExpo Kemayoran - 4.6 - 355 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": []
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's Sunter Barat",
+                    "rating": 4.7,
+                    "location": "-6.1456633,106.8581062",
+                    "user_ratings_total": 1387,
+                    "printed": "McDonald's Sunter Barat - 4.7 - 1387 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Work",
+            "data": []
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Stasiun Kemayoran",
+                    "rating": 4.1,
+                    "location": "-6.161733799999999,106.8413931",
+                    "user_ratings_total": 756,
+                    "routes_distance": "5.3 km",
+                    "printed": "Stasiun Kemayoran - 4.1 - 756 review (5.3 km)"
+                },
+                {
+                    "nama": "Stasiun Pasar Senen",
+                    "rating": 4.4,
+                    "location": "-6.174700000000001,106.84435",
+                    "user_ratings_total": 8713,
+                    "routes_distance": "4.7 km",
+                    "printed": "Stasiun Pasar Senen - 4.4 - 8713 review (4.7 km)"
+                },
+                {
+                    "nama": "Stasiun Juanda",
+                    "rating": 4.5,
+                    "location": "-6.1667216,106.830473",
+                    "user_ratings_total": 1544,
+                    "routes_distance": "5.3 km",
+                    "printed": "Stasiun Juanda - 4.5 - 1544 review (5.3 km)"
+                },
+                {
+                    "nama": "Stasiun Jayakarta",
+                    "rating": 4.4,
+                    "location": "-6.1412258,106.8229932",
+                    "user_ratings_total": 367,
+                    "routes_distance": "6.3 km",
+                    "printed": "Stasiun Jayakarta - 4.4 - 367 review (6.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "26.5 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "18.5 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "7.3 km"
+        }
+    ]
+}

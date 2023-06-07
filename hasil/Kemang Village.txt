@@ -1,0 +1,227 @@
+Kemang Village
+
+kemang_village
+
+Kordinat: -6.2611406,106.8123815
+
+11, Jl. Pangeran Antasari No.36, RT.11/RW.5, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Ibu dan Anak Brawijaya - 4.4 - 514 review (2.7 km)lokasi: -6.257505899999999,106.8075728
+Brawijaya Hospital Antasari - 4.6 - 710 review (2.6 km)lokasi: -6.257453699999999,106.8075123
+Tembuni Birth Center - 5 - 184 review (3.8 km)lokasi: -6.2661168,106.8216999
+
+
+shopping_mall:
+
+Plaza Adorama - 4.3 - 1452 review (2.0 km)lokasi: -6.2585273,106.8153928
+Colony 6 Kemang - 4.4 - 1147 review (1.3 km)lokasi: -6.255493200000001,106.8104033
+Lippo Mall Kemang - 4.6 - 9984 review (465 m)lokasi: -6.261257899999999,106.81286
+
+
+supermarket:
+
+Indomaret Kemang Selatan 8 T6ZO - 4.5 - 261 review (2.4 km)lokasi: -6.2674666,106.8139114
+Hero Kemang - 4.4 - 1254 review (3.7 km)lokasi: -6.265231200000001,106.8205068
+Indomaret - 4.4 - 263 review (2.0 km)lokasi: -6.251810399999999,106.8145478
+Indomaret Kemang Timur {F295} - 4.2 - 209 review (3.4 km)lokasi: -6.2639491,106.8236856
+Indomaret Fresh Kemang - 4.4 - 394 review (3.2 km)lokasi: -6.2725835,106.8148667
+Alfamart - 4.3 - 185 review (2.5 km)lokasi: -6.2670447,106.8020653
+Hypermart Lippo Mall Kemang - 4.5 - 2048 review (220 m)lokasi: -6.2621229,106.8128052
+BAKSO KEMANG - 4.5 - 535 review (518 m)lokasi: -6.261970199999999,106.8155706
+
+
+university:
+
+Indonesia Banking School - 4.5 - 159 review (2.4 km)lokasi: -6.261177999999999,106.8168541
+
+
+school:
+
+Mentari Intercultural School Jakarta Elementary - 3.1 - 148 review (2.9 km)lokasi: -6.2585594,106.8063877
+PLAY GROUP DAN TK KEPOMPONG - 4.4 - 105 review (2.2 km)lokasi: -6.2504569,106.8141992
+
+
+===================
+
+Rasto di Mall Plaza Adorama:
+
+McDonald's Kemang Raya - 4.6 - 16114 reviewlokasi: -6.257539,106.8144371
+El Asador South American Restaurant Kemang - 4.5 - 1141 reviewlokasi: -6.2559982,106.8150035
+ECOLOGY Bistro Kemang - 4.5 - 1069 reviewlokasi: -6.256034199999999,106.8146235
+Queens Head Jakarta - 4.4 - 788 reviewlokasi: -6.2592683,106.8150723
+Dim Sum Inc - 4.4 - 731 reviewlokasi: -6.2597447,106.8152114
+
+
+Rasto di Mall Colony 6 Kemang:
+
+Eastern Promise Pub & Curry House - 4.4 - 2244 reviewlokasi: -6.254957999999998,106.8094558
+Die Stube - 4.6 - 1900 reviewlokasi: -6.2557914,106.8087727
+ECOLOGY Bistro Kemang - 4.5 - 1069 reviewlokasi: -6.256034199999999,106.8146235
+Liberica - 4.4 - 651 reviewlokasi: -6.255495400000001,106.8103823
+Ganesha Ek Sanskriti Traditional Indian cuisine - 4.4 - 205 reviewlokasi: -6.2555409,106.8096775
+
+
+Rasto di Mall Lippo Mall Kemang:
+
+McDonald's Kemang Raya - 4.6 - 16114 reviewlokasi: -6.257539,106.8144371
+Mamma Rosy - 4.5 - 3341 reviewlokasi: -6.263436100000001,106.8159668
+Queens Head Jakarta - 4.4 - 788 reviewlokasi: -6.2592683,106.8150723
+PappaRich Lippo Mall Kemang - 4.3 - 769 reviewlokasi: -6.261997099999999,106.8126155
+Dim Sum Inc - 4.4 - 731 reviewlokasi: -6.2597447,106.8152114
+
+
+===================
+
+Keyword Data Starbucks:
+
+Starbucks Kemang Sky - 4.5 - 2496 reviewlokasi: -6.2577862,106.8148894
+Starbucks Coffee Colony Kemang - 4.5 - 109 reviewlokasi: -6.255530299999999,106.8103929
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kebayoran - 4.4 - 1294 review (6.9 km)lokasi: -6.237247499999999,106.7825225
+train_stationStasiun Pasar Minggu - 4.3 - 1167 review (7.7 km)lokasi: -6.284180000000001,106.84457
+train_stationDuren Kalibata - 4.4 - 1076 review (6.8 km)lokasi: -6.2553166,106.8550527
+train_stationStasiun Cawang - 4.4 - 1150 review (8.2 km)lokasi: -6.242487300000001,106.8588122
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Ace Hardware:
+
+ACE Hardware - Lippo Kemang Village - 4.5 - 341 reviewlokasi: -6.2604622,106.812767
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kebayoran - 4.4 - 1294 review (6.9 km)lokasi: -6.237247499999999,106.7825225
+train_stationStasiun Pasar Minggu - 4.3 - 1167 review (7.7 km)lokasi: -6.284180000000001,106.84457
+train_stationDuren Kalibata - 4.4 - 1076 review (6.8 km)lokasi: -6.2553166,106.8550527
+train_stationStasiun Cawang - 4.4 - 1150 review (8.2 km)lokasi: -6.242487300000001,106.8588122
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Guardian:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kebayoran - 4.4 - 1294 review (6.9 km)lokasi: -6.237247499999999,106.7825225
+train_stationStasiun Pasar Minggu - 4.3 - 1167 review (7.7 km)lokasi: -6.284180000000001,106.84457
+train_stationDuren Kalibata - 4.4 - 1076 review (6.8 km)lokasi: -6.2553166,106.8550527
+train_stationStasiun Cawang - 4.4 - 1150 review (8.2 km)lokasi: -6.242487300000001,106.8588122
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Century:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kebayoran - 4.4 - 1294 review (6.9 km)lokasi: -6.237247499999999,106.7825225
+train_stationStasiun Pasar Minggu - 4.3 - 1167 review (7.7 km)lokasi: -6.284180000000001,106.84457
+train_stationDuren Kalibata - 4.4 - 1076 review (6.8 km)lokasi: -6.2553166,106.8550527
+train_stationStasiun Cawang - 4.4 - 1150 review (8.2 km)lokasi: -6.242487300000001,106.8588122
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Mc Donald's:
+
+McDonald's Kemang Raya - 4.6 - 16114 reviewlokasi: -6.2575463,106.8144363
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kebayoran - 4.4 - 1294 review (6.9 km)lokasi: -6.237247499999999,106.7825225
+train_stationStasiun Pasar Minggu - 4.3 - 1167 review (7.7 km)lokasi: -6.284180000000001,106.84457
+train_stationDuren Kalibata - 4.4 - 1076 review (6.8 km)lokasi: -6.2553166,106.8550527
+train_stationStasiun Cawang - 4.4 - 1150 review (8.2 km)lokasi: -6.242487300000001,106.8588122
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Electronic City:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Kebayoran - 4.4 - 1294 review (6.9 km)lokasi: -6.237247499999999,106.7825225
+train_stationStasiun Pasar Minggu - 4.3 - 1167 review (7.7 km)lokasi: -6.284180000000001,106.84457
+train_stationDuren Kalibata - 4.4 - 1076 review (6.8 km)lokasi: -6.2553166,106.8550527
+train_stationStasiun Cawang - 4.4 - 1150 review (8.2 km)lokasi: -6.242487300000001,106.8588122
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 32.4 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 13.4 km
+
+
+Stasiun Gambirroute distance: 13.1 km
+
+

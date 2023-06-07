@@ -1,0 +1,206 @@
+Aspen Residences di Fatmawati
+
+aspen_residences_di_fatmawati
+
+Kordinat: -6.304666399999999,106.7946548
+
+Jl. RS. Fatmawati Raya No.1, RT.1/RW.1, Pd. Labu, Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12450, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Puri Cinere - Gedung A - 4 - 774 review (4.2 km)lokasi: -6.321864,106.7827699
+Rumah Sakit Umum Pusat Fatmawati - 3.2 - 1934 review (2.4 km)lokasi: -6.295097900000002,106.7964808
+Rumah Sakit Umum Daerah Jagakarsa - 3.2 - 338 review (5.5 km)lokasi: -6.316229999999999,106.811354
+Rumah Sakit Siloam Jantung Diagram - Cinere - 4.8 - 1049 review (4.1 km)lokasi: -6.321775100000001,106.7835251
+Siloam Hospitals TB Simatupang - 4.2 - 1705 review (3.5 km)lokasi: -6.292266899999999,106.7844429
+Rumah Sakit Marinir Cilandak - 3.8 - 312 review (3.5 km)lokasi: -6.3048693,106.81051
+Rumah Sakit Prikasih - 3.8 - 780 review (2.4 km)lokasi: -6.3147011,106.7938337
+
+
+shopping_mall:
+
+Cilandak Town Square - 4.5 - 43837 review (3.3 km)lokasi: -6.291780399999999,106.7989633
+One Belpark Mall - 4.4 - 15316 review (404 m)lokasi: -6.304598,106.7950229
+Cinere Bellevue Mall - 4.2 - 8155 review (3.6 km)lokasi: -6.3170419,106.7827603
+
+
+supermarket:
+
+Aneka Buana Supermarket - Pondok Labu - 4.4 - 5701 review (1.0 km)lokasi: -6.3093895,106.7939361
+Alfa Mart - 4.1 - 103 review (2.5 km)lokasi: -6.303783,106.7814079
+All Fresh - 4.6 - 3803 review (4.3 km)lokasi: -6.292948399999999,106.8014511
+Food Hall Vila Delima - 4.6 - 2627 review (3.0 km)lokasi: -6.3087044,106.7808051
+Hero Supermarket Lebak Bulus - 4.3 - 3021 review (3.3 km)lokasi: -6.299895600000001,106.7778635
+PT. Sodexo Motivation Solutions Indonesia - 4.6 - 108 review (4.6 km)lokasi: -6.2907874,106.8107209
+Hero Terogong. - 4.4 - 839 review (3.8 km)lokasi: -6.2829751,106.7916103
+
+
+university:
+
+Universitas Prasetiya Mulya, Kampus Cilandak - 4.6 - 196 review (5.7 km)lokasi: -6.291524600000001,106.788997
+Universitas Pembangunan Nasional "Veteran" Jakarta - 4.6 - 1230 review (2.6 km)lokasi: -6.315741099999999,106.7934451
+
+
+school:
+
+SMP Negeri 226 Jakarta - 4.7 - 127 review (2.9 km)lokasi: -6.3150558,106.7829982
+
+
+===================
+
+Rasto di Mall Cilandak Town Square:
+
+Holycow! STEAKHOUSE By Chef Afit - 4.6 - 3192 reviewlokasi: -6.2914315,106.7992178
+Shell - 4.4 - 1282 reviewlokasi: -6.289957999999999,106.795515
+Tansu - 4.3 - 1041 reviewlokasi: -6.2894473,106.801992
+Liberica - 4.4 - 725 reviewlokasi: -6.2917649,106.8003799
+Sate Khas SENAYAN - 4.5 - 542 reviewlokasi: -6.291610500000001,106.7997148
+
+
+Rasto di Mall One Belpark Mall:
+
+Domino's Pizza Pd.Labu - 4.4 - 938 reviewlokasi: -6.3087028,106.7937175
+Gudeg Kendil Mas - 4 - 465 reviewlokasi: -6.3007763,106.7944827
+MARTABAK TOP BANDUNG 76 - 4.7 - 209 reviewlokasi: -6.3068703,106.7937062
+Imperial Kitchen & Dimsum - One Belpark - 4.2 - 169 reviewlokasi: -6.3046647,106.7950226
+
+
+Rasto di Mall Cinere Bellevue Mall:
+
+Pokke Sushi - 4.7 - 243 reviewlokasi: -6.316475000000001,106.782997
+Warteg Kharisma - 4.4 - 236 reviewlokasi: -6.3164288,106.7827531
+
+
+===================
+
+Keyword Data Starbucks:
+
+
+
+Starbucks Coffee - 4.7 - 423 reviewlokasi: -6.2939127,106.784861
+
+
+===================
+
+Keyword Data Ace Hardware:
+
+
+
+ACE HARDWARE - ONE BELPARK - 4.5 - 380 reviewlokasi: -6.304479199999999,106.7946815
+
+
+===================
+
+Keyword Data Guardian:
+
+
+
+
+
+===================
+
+Keyword Data Century:
+
+
+
+
+
+===================
+
+Keyword Data Mc Donald's:
+
+
+
+
+
+===================
+
+Keyword Data Electronic City:
+
+
+
+
+
+===================
+
+Keyword Data Co Working Space:
+
+Cubes Indonesia, Cozé Coworking Space & Eatery, 
+
+Cubes Indonesia - 4 - 1 review - 1.9 kmlokasi: -6.2979077,106.7939631
+Cozé Coworking Space & Eatery - 5 - 145 review - 2.1 kmlokasi: -6.315871700000001,106.7959885
+
+
+===================
+
+Keyword Data Halte Transjakarta:
+
+Jln. H. Jaya I, Halte:Komplek.Timah, 
+
+Jln. H. Jaya I - 5 - 2 review - 2.2 kmlokasi: -6.296469999999999,106.78868
+Halte:Komplek.Timah - 4.5 - 4 review - 2.3 kmlokasi: -6.3131776,106.8023072
+
+
+===================
+
+Keyword Data Kantor Kelurahan:
+
+Kantor Kelurahan Pondok Labu, Kantor Kelurahan Lebak Bulus, Kantor Kelurahan Pangkalan Jati, Kantor Lurah Cilandak Barat, Kelurahan Cilandak, kantor kelurahan pangkalan jati baru, Kantor Lurah Cilandak Timur, Kantor Kelurahan Ragunan, Kantor Kelurahan Cirendeu, Kantor Kelurahan Jagakarsa, 
+
+Kantor Kelurahan Pondok Labu - 3.5 - 82 review - 1.8 kmlokasi: -6.3064024,106.7985391
+Kantor Kelurahan Lebak Bulus - 4 - 23 review - 2.5 kmlokasi: -6.3045461,106.7844569
+Kantor Kelurahan Pangkalan Jati - 3.7 - 15 review - 3.6 kmlokasi: -6.3230054,106.7938127
+Kantor Lurah Cilandak Barat - 4.1 - 47 review - 3.8 kmlokasi: -6.2822235,106.7919609
+Kelurahan Cilandak - 4.5 - 2 review - 3.8 kmlokasi: -6.282559699999999,106.7917779
+kantor kelurahan pangkalan jati baru - 4.1 - 38 review - 3.9 kmlokasi: -6.3235116,106.8022079
+Kantor Lurah Cilandak Timur - 4.2 - 17 review - 4.8 kmlokasi: -6.3069763,106.8105681
+Kantor Kelurahan Ragunan - 4.3 - 48 review - 5.4 kmlokasi: -6.3053905,106.8194729
+Kantor Kelurahan Cirendeu - 2.8 - 20 review - 5.8 kmlokasi: -6.314749399999999,106.770399
+Kantor Kelurahan Jagakarsa - 4 - 48 review - 6.9 kmlokasi: -6.3284005,106.8225441
+
+
+===================
+
+Keyword Data Kantor Kecamatan:
+
+Kantor Kelurahan Pondok Labu, Kantor Kelurahan Lebak Bulus, 
+
+Kantor Kelurahan Pondok Labu - 3.5 - 82 review - 1.8 kmlokasi: -6.3064024,106.7985391
+Kantor Kelurahan Lebak Bulus - 4 - 23 review - 2.5 kmlokasi: -6.3045461,106.7844569
+
+
+===================
+
+Dynamic Transport:
+
+train_stationLenteng Agung - 4.5 - 798 review (12.2 km)lokasi: -6.3303684,106.8348042
+train_stationStasiun Pasar Minggu - 4.3 - 1167 review (13.1 km)lokasi: -6.284180000000001,106.84457
+train_stationTanjung Barat - 4.4 - 744 review (9.1 km)lokasi: -6.307807899999998,106.8388453
+train_stationStasiun Universitas Pancasila - 4.4 - 308 review (13.2 km)lokasi: -6.3388946,106.8344466
+
+
+Dynamic Transport:
+
+subway_stationFatmawati - 4.8 - 419 review (2.6 km)lokasi: -6.29245,106.79246
+
+
+Dynamic Transport:
+
+bus_stationPoins Square, Lebak Bulus - 4.4 - 177 review (4.2 km)lokasi: -6.289379900000001,106.7785201
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 33.8 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 22.1 km
+
+
+Stasiun Gambirroute distance: 19.9 km
+
+

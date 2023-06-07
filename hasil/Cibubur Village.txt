@@ -1,0 +1,159 @@
+Cibubur Village
+
+cibubur_village
+
+Kordinat: -6.369689999999999,106.88798
+
+Cibubur Village, Harjamukti, Kec. Cimanggis, Kota Depok, Jawa Barat, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Permata Cibubur - 4.4 - 1383 review (4.0 km)lokasi: -6.376000700000001,106.9119587
+
+
+shopping_mall:
+
+Cibubur Junction - 4.4 - 32759 review (1.0 km)lokasi: -6.369258899999999,106.8940923
+Alfamart - OMA Indah - 4.4 - 274 review (3.2 km)lokasi: -6.391759200000001,106.8823246
+Indomaret Cisalak - 4.6 - 143 review (4.0 km)lokasi: -6.3779816,106.8651528
+
+
+supermarket:
+
+Hypermart CJ - 4.5 - 2607 review (2.4 km)lokasi: -6.3698142,106.8939344
+Alfamart Garuda - 4.3 - 102 review (2.5 km)lokasi: -6.3633168,106.8760176
+Indomaret Jambore Depok - 4.3 - 332 review (3.8 km)lokasi: -6.366089000000001,106.9053546
+Arundina Mart - 4.4 - 462 review (2.9 km)lokasi: -6.351969899999999,106.8838543
+RAMAYANA Lapangan Tembak Cibubur - 4.3 - 2372 review (2.9 km)lokasi: -6.3519115,106.8842335
+Indomaret GOBEL - 4.3 - 252 review (3.1 km)lokasi: -6.361342100000001,106.8711858
+Loka Supermarket Cibubur - 4.5 - 1992 review (3.1 km)lokasi: -6.375473400000001,106.9064335
+Indomaret Gas Alam Depok - 4.5 - 336 review (3.6 km)lokasi: -6.3821856,106.8702477
+Alfamidi Radar Auri Depok - 4.5 - 171 review (2.8 km)lokasi: -6.372446999999998,106.8656123
+Alfamart - OMA Indah - 4.4 - 274 review (3.2 km)lokasi: -6.391759200000001,106.8823246
+Alfamidi Radar Auri 2 - 4.5 - 257 review (140 m)lokasi: -6.3694958,106.8867083
+Alfamidi Jambore - 4.1 - 162 review (562 m)lokasi: -6.365752,106.8879183
+Alfamidi Putri Tunggal Depok - 4.4 - 281 review (496 m)lokasi: -6.373608499999999,106.8869164
+
+
+university:
+
+
+
+school:
+
+Pondok Pesantren Babussalam - 4.8 - 167 review (879 m)lokasi: -6.369817200000001,106.8821293
+SMP putri Ibnu hajar bording school - 4.6 - 103 review (2.7 km)lokasi: -6.377507,106.8969995
+
+
+===================
+
+Rasto di Mall Cibubur Junction:
+
+Gubug Udang Situ Cibubur - 4.4 - 10824 reviewlokasi: -6.370084500000001,106.896917
+McDonald's Cibubur - 4.5 - 7417 reviewlokasi: -6.3704014,106.8968912
+BAKMI GM Cibubur - 4.4 - 1384 reviewlokasi: -6.3702307,106.8941663
+Pizza Hut Restoran - 4.6 - 1153 reviewlokasi: -6.3705367,106.8966548
+HokBen Cibubur Junction - 4.4 - 1096 reviewlokasi: -6.3691024,106.8941448
+
+
+Rasto di Mall Alfamart - OMA Indah:
+
+Nasi Goreng Mas Ikin - 4.6 - 112 reviewlokasi: -6.392981400000001,106.8823928
+
+
+Rasto di Mall Indomaret Cisalak:
+
+Pizza Hut Restoran - 4.5 - 2503 reviewlokasi: -6.377507,106.8646832
+RM Anggrek '88' - 4.4 - 271 reviewlokasi: -6.377902799999999,106.8654554
+
+
+===================
+
+Keyword Data Starbucks:
+
+Starbucks Coffee - 4.5 - 1778 reviewlokasi: -6.374746399999999,106.8971826
+
+
+===================
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Ace Hardware:
+
+
+
+===================
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Guardian:
+
+
+
+===================
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Century:
+
+
+
+===================
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 49.2 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 17.4 km
+
+
+Stasiun Gambirroute distance: 28.1 km
+
+

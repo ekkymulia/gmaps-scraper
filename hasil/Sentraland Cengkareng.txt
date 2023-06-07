@@ -1,0 +1,183 @@
+Sentraland Cengkareng
+
+sentraland_cengkareng
+
+Kordinat: -6.140009999999999,106.7386685
+
+Jl. Pedongkelan No.3, RT.3/RW.14, Cengkareng Tim., Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11730, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Umum Daerah (RSUD) Cengkareng - 4.1 - 1822 review (943 m)lokasi: -6.1430301,106.7347798
+Rumah Sakit Cinta Kasih Tzu Chi - 3.6 - 232 review (1.7 km)lokasi: -6.131836499999999,106.7373318
+
+
+shopping_mall:
+
+
+
+supermarket:
+
+Alfamart - 4.2 - 515 review (1.0 km)lokasi: -6.145802400000001,106.7434895
+Alfamart Ruko Galaxy - 4.3 - 131 review (5.0 km)lokasi: -6.136513300000001,106.7294907
+Indomaret Nurul Amal - 4.4 - 435 review (2.4 km)lokasi: -6.149162500000002,106.732188
+Carrefour - 4.3 - 1132 review (1.4 km)lokasi: -6.139579,106.7321194
+
+
+university:
+
+Universitas Gunadarma - 4.4 - 246 review (1.0 km)lokasi: -6.137171899999998,106.7354359
+
+
+school:
+
+Sekolah Cinta Kasih Tzu Chi - 4.1 - 389 review (1.6 km)lokasi: -6.131532200000001,106.7371163
+
+
+===================
+
+===================
+
+Keyword Data Starbucks:
+
+Starbucks Coffee Ruko Taman Palem - 4.6 - 142 reviewlokasi: -6.137018500000001,106.7310584
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Rawa Buaya - 4.4 - 715 review (4.3 km)lokasi: -6.1627629,106.7236115
+train_stationPesing - 4.3 - 390 review (7.8 km)lokasi: -6.161257899999999,106.7714439
+train_stationStasiun Kali Deres - 4.2 - 487 review (7.4 km)lokasi: -6.1660731,106.7038006
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Ace Hardware:
+
+ACE HARDWARE - MUTIARA TAMAN PALEM - 4.6 - 669 reviewlokasi: -6.1370866,106.7321447
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Rawa Buaya - 4.4 - 715 review (4.3 km)lokasi: -6.1627629,106.7236115
+train_stationPesing - 4.3 - 390 review (7.8 km)lokasi: -6.161257899999999,106.7714439
+train_stationStasiun Kali Deres - 4.2 - 487 review (7.4 km)lokasi: -6.1660731,106.7038006
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Guardian:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Rawa Buaya - 4.4 - 715 review (4.3 km)lokasi: -6.1627629,106.7236115
+train_stationPesing - 4.3 - 390 review (7.8 km)lokasi: -6.161257899999999,106.7714439
+train_stationStasiun Kali Deres - 4.2 - 487 review (7.4 km)lokasi: -6.1660731,106.7038006
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Century:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Rawa Buaya - 4.4 - 715 review (4.3 km)lokasi: -6.1627629,106.7236115
+train_stationPesing - 4.3 - 390 review (7.8 km)lokasi: -6.161257899999999,106.7714439
+train_stationStasiun Kali Deres - 4.2 - 487 review (7.4 km)lokasi: -6.1660731,106.7038006
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Mc Donald's:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Rawa Buaya - 4.4 - 715 review (4.3 km)lokasi: -6.1627629,106.7236115
+train_stationPesing - 4.3 - 390 review (7.8 km)lokasi: -6.161257899999999,106.7714439
+train_stationStasiun Kali Deres - 4.2 - 487 review (7.4 km)lokasi: -6.1660731,106.7038006
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+Keyword Data Electronic City:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Rawa Buaya - 4.4 - 715 review (4.3 km)lokasi: -6.1627629,106.7236115
+train_stationPesing - 4.3 - 390 review (7.8 km)lokasi: -6.161257899999999,106.7714439
+train_stationStasiun Kali Deres - 4.2 - 487 review (7.4 km)lokasi: -6.1660731,106.7038006
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 12.9 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 32.1 km
+
+
+Stasiun Gambirroute distance: 22.8 km
+
+

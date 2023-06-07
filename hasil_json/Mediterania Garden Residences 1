@@ -1,0 +1,560 @@
+{
+    "nama": "Mediterania Garden Residences 1",
+    "alamat": "RQFQ+V98, RT.3/RW.5, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia",
+    "kecamatan": "Kecamatan Grogol petamburan",
+    "kelurahan": "Tanjung Duren Selatan",
+    "location": "-6.175349499999999,106.7884378",
+    "permalink": "mediterania_garden_residences_1",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Royal Taruma",
+                    "rating": 3.7,
+                    "location": "-6.1664004,106.7855103",
+                    "user_ratings_total": 821,
+                    "routes_distance": "1.8 km",
+                    "printed": "Rumah Sakit Royal Taruma - 3.7 - 821 review (1.8 km)"
+                },
+                {
+                    "nama": "Rumah Sakit Sumber Waras",
+                    "rating": 3.3,
+                    "location": "-6.1684878,106.7975598",
+                    "user_ratings_total": 590,
+                    "routes_distance": "3.6 km",
+                    "printed": "Rumah Sakit Sumber Waras - 3.3 - 590 review (3.6 km)"
+                },
+                {
+                    "nama": "Rumah Sakit Jiwa Dr. Soeharto Heerdjan",
+                    "rating": 4.4,
+                    "location": "-6.163272699999998,106.7884459",
+                    "user_ratings_total": 309,
+                    "routes_distance": "2.0 km",
+                    "printed": "Rumah Sakit Jiwa Dr. Soeharto Heerdjan - 4.4 - 309 review (2.0 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Alexandre Christie MTA",
+                    "rating": 4.4,
+                    "location": "-6.178583100000001,106.7922128",
+                    "user_ratings_total": 324,
+                    "routes_distance": "1.8 km",
+                    "printed": "Alexandre Christie MTA - 4.4 - 324 review (1.8 km)"
+                },
+                {
+                    "nama": "Neo Soho Central Park",
+                    "rating": 4.6,
+                    "location": "-6.174963000000002,106.7900134",
+                    "user_ratings_total": 24480,
+                    "routes_distance": "158 m",
+                    "printed": "Neo Soho Central Park - 4.6 - 24480 review (158 m)"
+                },
+                {
+                    "nama": "Podomoro City",
+                    "rating": 4.6,
+                    "location": "-6.1750044,106.7912959",
+                    "user_ratings_total": 274,
+                    "routes_distance": "2.2 km",
+                    "printed": "Podomoro City - 4.6 - 274 review (2.2 km)"
+                },
+                {
+                    "nama": "Central Park",
+                    "rating": 4.7,
+                    "location": "-6.177368599999999,106.7906723",
+                    "user_ratings_total": 96790,
+                    "routes_distance": "541 m",
+                    "printed": "Central Park - 4.7 - 96790 review (541 m)"
+                },
+                {
+                    "nama": "Mall Taman Anggrek",
+                    "rating": 4.6,
+                    "location": "-6.178304499999999,106.7919021",
+                    "user_ratings_total": 59480,
+                    "routes_distance": "1.8 km",
+                    "printed": "Mall Taman Anggrek - 4.6 - 59480 review (1.8 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Hero Taman Anggrek",
+                    "rating": 4.5,
+                    "location": "-6.178812,106.792763",
+                    "user_ratings_total": 749,
+                    "routes_distance": "1.9 km",
+                    "printed": "Hero Taman Anggrek - 4.5 - 749 review (1.9 km)"
+                },
+                {
+                    "nama": "Indomaret Tanjung Duren Timur 2. F541",
+                    "rating": 4.4,
+                    "location": "-6.182033500000001,106.7859573",
+                    "user_ratings_total": 172,
+                    "routes_distance": "1.9 km",
+                    "printed": "Indomaret Tanjung Duren Timur 2. F541 - 4.4 - 172 review (1.9 km)"
+                },
+                {
+                    "nama": "Alfamart Taman Daan Mogot",
+                    "rating": 4.3,
+                    "location": "-6.1690331,106.7844843",
+                    "user_ratings_total": 214,
+                    "routes_distance": "1.6 km",
+                    "printed": "Alfamart Taman Daan Mogot - 4.3 - 214 review (1.6 km)"
+                },
+                {
+                    "nama": "Transmart Carrefour Central Park",
+                    "rating": 4.4,
+                    "location": "-6.1771826,106.7906123",
+                    "user_ratings_total": 2955,
+                    "routes_distance": "517 m",
+                    "printed": "Transmart Carrefour Central Park - 4.4 - 2955 review (517 m)"
+                },
+                {
+                    "nama": "FamilyMart Tanjung Duren",
+                    "rating": 4.1,
+                    "location": "-6.1739872,106.7881703",
+                    "user_ratings_total": 360,
+                    "routes_distance": "207 m",
+                    "printed": "FamilyMart Tanjung Duren - 4.1 - 360 review (207 m)"
+                },
+                {
+                    "nama": "The Foodhall - NEO SOHO",
+                    "rating": 4.6,
+                    "location": "-6.1746757,106.7900765",
+                    "user_ratings_total": 342,
+                    "routes_distance": "504 m",
+                    "printed": "The Foodhall - NEO SOHO - 4.6 - 342 review (504 m)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Trisakti School of Management",
+                    "rating": 4.7,
+                    "location": "-6.1673483,106.7937079",
+                    "user_ratings_total": 363,
+                    "routes_distance": "3.9 km",
+                    "printed": "Trisakti School of Management - 4.7 - 363 review (3.9 km)"
+                },
+                {
+                    "nama": "Universitas Kristen Krida Wacana, Kampus I",
+                    "rating": 4.6,
+                    "location": "-6.172516,106.7884645",
+                    "user_ratings_total": 478,
+                    "routes_distance": "1.5 km",
+                    "printed": "Universitas Kristen Krida Wacana, Kampus I - 4.6 - 478 review (1.5 km)"
+                },
+                {
+                    "nama": "Universitas Tarumanagara",
+                    "rating": 4.5,
+                    "location": "-6.169143800000001,106.7894575",
+                    "user_ratings_total": 953,
+                    "routes_distance": "1.6 km",
+                    "printed": "Universitas Tarumanagara - 4.5 - 953 review (1.6 km)"
+                },
+                {
+                    "nama": "Universitas Trisakti",
+                    "rating": 4.5,
+                    "location": "-6.1678122,106.7901209",
+                    "user_ratings_total": 1338,
+                    "routes_distance": "1.7 km",
+                    "printed": "Universitas Trisakti - 4.5 - 1338 review (1.7 km)"
+                },
+                {
+                    "nama": "Fakultas Kedokteran Universitas Trisakti",
+                    "rating": 4.7,
+                    "location": "-6.166737699999999,106.7968824",
+                    "user_ratings_total": 137,
+                    "routes_distance": "3.5 km",
+                    "printed": "Fakultas Kedokteran Universitas Trisakti - 4.7 - 137 review (3.5 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "SMAK 1 BPK Penabur",
+                    "rating": 4.6,
+                    "location": "-6.1732387,106.7881186",
+                    "user_ratings_total": 220,
+                    "routes_distance": "1.3 km",
+                    "printed": "SMAK 1 BPK Penabur - 4.6 - 220 review (1.3 km)"
+                },
+                {
+                    "nama": "SMP NEGERI 89 Jakarta Barat",
+                    "rating": 4.7,
+                    "location": "-6.178219299999999,106.7822247",
+                    "user_ratings_total": 107,
+                    "routes_distance": "1.4 km",
+                    "printed": "SMP NEGERI 89 Jakarta Barat - 4.7 - 107 review (1.4 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Alexandre Christie MTA",
+            "restaurants": [
+                {
+                    "nama": "Starbucks Central Park",
+                    "rating": 4.6,
+                    "location": "-6.176956,106.791294",
+                    "user_ratings_total": 1200,
+                    "printed": "Starbucks Central Park - 4.6 - 1200 review"
+                },
+                {
+                    "nama": "Penang Bistro Central Park",
+                    "rating": 4.6,
+                    "location": "-6.1763634,106.7918308",
+                    "user_ratings_total": 669,
+                    "printed": "Penang Bistro Central Park - 4.6 - 669 review"
+                },
+                {
+                    "nama": "HokBen Mal Taman Anggrek",
+                    "rating": 4.6,
+                    "location": "-6.1787673,106.7924403",
+                    "user_ratings_total": 517,
+                    "printed": "HokBen Mal Taman Anggrek - 4.6 - 517 review"
+                },
+                {
+                    "nama": "Yoshinoya",
+                    "rating": 4.3,
+                    "location": "-6.1786459,106.7917281",
+                    "user_ratings_total": 348,
+                    "printed": "Yoshinoya - 4.3 - 348 review"
+                },
+                {
+                    "nama": "Ta Wan - Mall Taman Anggrek",
+                    "rating": 4.3,
+                    "location": "-6.178583100000001,106.7922128",
+                    "user_ratings_total": 202,
+                    "printed": "Ta Wan - Mall Taman Anggrek - 4.3 - 202 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Neo Soho Central Park",
+            "restaurants": [
+                {
+                    "nama": "ZENBU CENTRAL PARK",
+                    "rating": 4.5,
+                    "location": "-6.1763774,106.7910795",
+                    "user_ratings_total": 1893,
+                    "printed": "ZENBU CENTRAL PARK - 4.5 - 1893 review"
+                },
+                {
+                    "nama": "IPPUDO INDONESIA Central Park",
+                    "rating": 4.6,
+                    "location": "-6.175906700000001,106.7904862",
+                    "user_ratings_total": 1765,
+                    "printed": "IPPUDO INDONESIA Central Park - 4.6 - 1765 review"
+                },
+                {
+                    "nama": "Starbucks Central Park",
+                    "rating": 4.6,
+                    "location": "-6.176956,106.791294",
+                    "user_ratings_total": 1200,
+                    "printed": "Starbucks Central Park - 4.6 - 1200 review"
+                },
+                {
+                    "nama": "Curry House Coco Ichibanya",
+                    "rating": 4.5,
+                    "location": "-6.1752436,106.7902634",
+                    "user_ratings_total": 1176,
+                    "printed": "Curry House Coco Ichibanya - 4.5 - 1176 review"
+                },
+                {
+                    "nama": "Marugame Udon & Tempura",
+                    "rating": 4.6,
+                    "location": "-6.1752099,106.7902908",
+                    "user_ratings_total": 1072,
+                    "printed": "Marugame Udon & Tempura - 4.6 - 1072 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Podomoro City",
+            "restaurants": [
+                {
+                    "nama": "Sushi Tei",
+                    "rating": 4.5,
+                    "location": "-6.176260099999999,106.7915627",
+                    "user_ratings_total": 3203,
+                    "printed": "Sushi Tei - 4.5 - 3203 review"
+                },
+                {
+                    "nama": "ZENBU CENTRAL PARK",
+                    "rating": 4.5,
+                    "location": "-6.1763774,106.7910795",
+                    "user_ratings_total": 1893,
+                    "printed": "ZENBU CENTRAL PARK - 4.5 - 1893 review"
+                },
+                {
+                    "nama": "IPPUDO INDONESIA Central Park",
+                    "rating": 4.6,
+                    "location": "-6.175906700000001,106.7904862",
+                    "user_ratings_total": 1765,
+                    "printed": "IPPUDO INDONESIA Central Park - 4.6 - 1765 review"
+                },
+                {
+                    "nama": "Harlys Residence",
+                    "rating": 4.1,
+                    "location": "-6.174046499999998,106.7950269",
+                    "user_ratings_total": 1471,
+                    "printed": "Harlys Residence - 4.1 - 1471 review"
+                },
+                {
+                    "nama": "Starbucks Central Park",
+                    "rating": 4.6,
+                    "location": "-6.176956,106.791294",
+                    "user_ratings_total": 1200,
+                    "printed": "Starbucks Central Park - 4.6 - 1200 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Central Park",
+            "restaurants": [
+                {
+                    "nama": "Bakerzin Central Park",
+                    "rating": 4.8,
+                    "location": "-6.177824200000001,106.7906991",
+                    "user_ratings_total": 2457,
+                    "printed": "Bakerzin Central Park - 4.8 - 2457 review"
+                },
+                {
+                    "nama": "Starbucks Central Park",
+                    "rating": 4.6,
+                    "location": "-6.176956,106.791294",
+                    "user_ratings_total": 1200,
+                    "printed": "Starbucks Central Park - 4.6 - 1200 review"
+                },
+                {
+                    "nama": "Penang Bistro Central Park",
+                    "rating": 4.6,
+                    "location": "-6.1763634,106.7918308",
+                    "user_ratings_total": 669,
+                    "printed": "Penang Bistro Central Park - 4.6 - 669 review"
+                },
+                {
+                    "nama": "Song Fa Bak Kut Teh",
+                    "rating": 4.6,
+                    "location": "-6.177734999999998,106.7909258",
+                    "user_ratings_total": 529,
+                    "printed": "Song Fa Bak Kut Teh - 4.6 - 529 review"
+                },
+                {
+                    "nama": "HokBen Mal Taman Anggrek",
+                    "rating": 4.6,
+                    "location": "-6.1787673,106.7924403",
+                    "user_ratings_total": 517,
+                    "printed": "HokBen Mal Taman Anggrek - 4.6 - 517 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Mall Taman Anggrek",
+            "restaurants": [
+                {
+                    "nama": "Starbucks Central Park",
+                    "rating": 4.6,
+                    "location": "-6.176956,106.791294",
+                    "user_ratings_total": 1200,
+                    "printed": "Starbucks Central Park - 4.6 - 1200 review"
+                },
+                {
+                    "nama": "Penang Bistro Central Park",
+                    "rating": 4.6,
+                    "location": "-6.1763634,106.7918308",
+                    "user_ratings_total": 669,
+                    "printed": "Penang Bistro Central Park - 4.6 - 669 review"
+                },
+                {
+                    "nama": "Hanamasa MTA",
+                    "rating": 4.5,
+                    "location": "-6.177955,106.792447",
+                    "user_ratings_total": 654,
+                    "printed": "Hanamasa MTA - 4.5 - 654 review"
+                },
+                {
+                    "nama": "HokBen Mal Taman Anggrek",
+                    "rating": 4.6,
+                    "location": "-6.1787673,106.7924403",
+                    "user_ratings_total": 517,
+                    "printed": "HokBen Mal Taman Anggrek - 4.6 - 517 review"
+                },
+                {
+                    "nama": "Yoshinoya",
+                    "rating": 4.3,
+                    "location": "-6.1786459,106.7917281",
+                    "user_ratings_total": 348,
+                    "printed": "Yoshinoya - 4.3 - 348 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Tomang Raya",
+                    "rating": 4.5,
+                    "location": "-6.177237,106.7993341",
+                    "user_ratings_total": 2411,
+                    "printed": "Starbucks Tomang Raya - 4.5 - 2411 review"
+                },
+                {
+                    "nama": "Starbucks Central Park",
+                    "rating": 4.6,
+                    "location": "-6.176956,106.791294",
+                    "user_ratings_total": 1200,
+                    "printed": "Starbucks Central Park - 4.6 - 1200 review"
+                },
+                {
+                    "nama": "Starbucks Tanjung Duren",
+                    "rating": 4.6,
+                    "location": "-6.1739982,106.7802859",
+                    "user_ratings_total": 928,
+                    "printed": "Starbucks Tanjung Duren - 4.6 - 928 review"
+                },
+                {
+                    "nama": "Starbucks Mall Ciputra",
+                    "rating": 4.6,
+                    "location": "-6.168157,106.7869847",
+                    "user_ratings_total": 781,
+                    "printed": "Starbucks Mall Ciputra - 4.6 - 781 review"
+                },
+                {
+                    "nama": "Starbucks Neo SOHO",
+                    "rating": 4.6,
+                    "location": "-6.1752213,106.7903039",
+                    "user_ratings_total": 605,
+                    "printed": "Starbucks Neo SOHO - 4.6 - 605 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "Ace Home Center Neo Soho Mall",
+                    "rating": 4.6,
+                    "location": "-6.1746663,106.7896856",
+                    "user_ratings_total": 934,
+                    "printed": "Ace Home Center Neo Soho Mall - 4.6 - 934 review"
+                },
+                {
+                    "nama": "ACE HARDWARE - MAL TAMAN ANGGREK",
+                    "rating": 4.7,
+                    "location": "-6.179391,106.792549",
+                    "user_ratings_total": 732,
+                    "printed": "ACE HARDWARE - MAL TAMAN ANGGREK - 4.7 - 732 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": []
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Grogol",
+                    "rating": 4.3,
+                    "location": "-6.1620333,106.7893663",
+                    "user_ratings_total": 513,
+                    "routes_distance": "2.7 km",
+                    "printed": "Grogol - 4.3 - 513 review (2.7 km)"
+                },
+                {
+                    "nama": "Stasiun Tanahabang",
+                    "rating": 4.2,
+                    "location": "-6.185702099999999,106.8108536",
+                    "user_ratings_total": 3174,
+                    "routes_distance": "7.2 km",
+                    "printed": "Stasiun Tanahabang - 4.2 - 3174 review (7.2 km)"
+                },
+                {
+                    "nama": "Stadiun Karet",
+                    "rating": 4.1,
+                    "location": "-6.2008189,106.815776",
+                    "user_ratings_total": 615,
+                    "routes_distance": "8.8 km",
+                    "printed": "Stadiun Karet - 4.1 - 615 review (8.8 km)"
+                },
+                {
+                    "nama": "Stasiun Juanda",
+                    "rating": 4.5,
+                    "location": "-6.1667216,106.830473",
+                    "user_ratings_total": 1543,
+                    "routes_distance": "7.2 km",
+                    "printed": "Stasiun Juanda - 4.5 - 1543 review (7.2 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": [
+                {
+                    "nama": "Terminal Grogol",
+                    "rating": 4.1,
+                    "location": "-6.16656,106.79025",
+                    "user_ratings_total": 192,
+                    "routes_distance": "1.7 km",
+                    "printed": "Terminal Grogol - 4.1 - 192 review (1.7 km)"
+                },
+                {
+                    "nama": "Sumber Waras",
+                    "rating": 3.6,
+                    "location": "-6.16626,106.79676",
+                    "user_ratings_total": 105,
+                    "routes_distance": "2.4 km",
+                    "printed": "Sumber Waras - 3.6 - 105 review (2.4 km)"
+                }
+            ]
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "20.8 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "18.5 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "9.2 km"
+        }
+    ]
+}

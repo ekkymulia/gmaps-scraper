@@ -1,0 +1,475 @@
+{
+    "nama": "Green Lake Sunter Tower 2",
+    "alamat": "Apartemen Green Lake Sunter, Sunter Agung, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta, Indonesia",
+    "kecamatan": "Kecamatan Tanjung Priok",
+    "kelurahan": "Sunter Agung",
+    "location": "-6.1438384,106.8767031",
+    "permalink": "green_lake_sunter_tower_2",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Royal Progress",
+                    "rating": 3.7,
+                    "location": "-6.139351699999999,106.865519",
+                    "user_ratings_total": 813,
+                    "routes_distance": "2.9 km",
+                    "printed": "Rumah Sakit Royal Progress - 3.7 - 813 review (2.9 km)"
+                },
+                {
+                    "nama": "imuni - Vaksinasi di Rumah",
+                    "rating": 5,
+                    "location": "-6.138455200000001,106.8703374",
+                    "user_ratings_total": 266,
+                    "routes_distance": "2.3 km",
+                    "printed": "imuni - Vaksinasi di Rumah - 5 - 266 review (2.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Metro Sunter Plaza",
+                    "rating": 4.5,
+                    "location": "-6.136948100000001,106.8731676",
+                    "user_ratings_total": 1987,
+                    "routes_distance": "3.0 km",
+                    "printed": "Metro Sunter Plaza - 4.5 - 1987 review (3.0 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Carrefour Sunter",
+                    "rating": 4,
+                    "location": "-6.137920800000001,106.8776862",
+                    "user_ratings_total": 1762,
+                    "routes_distance": "1.7 km",
+                    "printed": "Carrefour Sunter - 4 - 1762 review (1.7 km)"
+                },
+                {
+                    "nama": "Super Indo Metro Sunter",
+                    "rating": 4.2,
+                    "location": "-6.136800099999999,106.8733453",
+                    "user_ratings_total": 1631,
+                    "routes_distance": "2.0 km",
+                    "printed": "Super Indo Metro Sunter - 4.2 - 1631 review (2.0 km)"
+                },
+                {
+                    "nama": "FoodHall Sunter Mall",
+                    "rating": 4.6,
+                    "location": "-6.1379321,106.8710576",
+                    "user_ratings_total": 1911,
+                    "routes_distance": "2.2 km",
+                    "printed": "FoodHall Sunter Mall - 4.6 - 1911 review (2.2 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": []
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "SMA Negeri 80 Jakarta Utara",
+                    "rating": 4.7,
+                    "location": "-6.139774999999998,106.870501",
+                    "user_ratings_total": 152,
+                    "routes_distance": "2.5 km",
+                    "printed": "SMA Negeri 80 Jakarta Utara - 4.7 - 152 review (2.5 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Metro Sunter Plaza",
+            "restaurants": [
+                {
+                    "nama": "Hawaii Restaurant | Seafood & Chinese Food",
+                    "rating": 4.5,
+                    "location": "-6.1372835,106.8704696",
+                    "user_ratings_total": 1735,
+                    "printed": "Hawaii Restaurant | Seafood & Chinese Food - 4.5 - 1735 review"
+                },
+                {
+                    "nama": "ALBEK ayam lele bebek sunter",
+                    "rating": 4.3,
+                    "location": "-6.138809999999999,106.8714493",
+                    "user_ratings_total": 1042,
+                    "printed": "ALBEK ayam lele bebek sunter - 4.3 - 1042 review"
+                },
+                {
+                    "nama": "HokBen",
+                    "rating": 4.3,
+                    "location": "-6.1370323,106.8732689",
+                    "user_ratings_total": 778,
+                    "printed": "HokBen - 4.3 - 778 review"
+                },
+                {
+                    "nama": "Sate Taichan Bang Maman",
+                    "rating": 4.4,
+                    "location": "-6.1376062,106.8726851",
+                    "user_ratings_total": 648,
+                    "printed": "Sate Taichan Bang Maman - 4.4 - 648 review"
+                },
+                {
+                    "nama": "Kentucky Fried Chiken Danau Sunter Utara",
+                    "rating": 4.2,
+                    "location": "-6.1379453,106.8709985",
+                    "user_ratings_total": 412,
+                    "printed": "Kentucky Fried Chiken Danau Sunter Utara - 4.2 - 412 review"
+                },
+                {
+                    "nama": "Ayam Presto Ny. Nita Sunter",
+                    "rating": 4.5,
+                    "location": "-6.1373375,106.8706094",
+                    "user_ratings_total": 313,
+                    "printed": "Ayam Presto Ny. Nita Sunter - 4.5 - 313 review"
+                },
+                {
+                    "nama": "Sate Kambing Batibul Tegal Laka-Laka",
+                    "rating": 4.4,
+                    "location": "-6.137108899999999,106.872816",
+                    "user_ratings_total": 264,
+                    "printed": "Sate Kambing Batibul Tegal Laka-Laka - 4.4 - 264 review"
+                },
+                {
+                    "nama": "Chatime Metro Sunter",
+                    "rating": 3.6,
+                    "location": "-6.137022599999999,106.8730507",
+                    "user_ratings_total": 135,
+                    "printed": "Chatime Metro Sunter - 3.6 - 135 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Sunter Green Lake",
+                    "rating": 4.7,
+                    "location": "-6.1451882,106.8770247",
+                    "user_ratings_total": 810,
+                    "printed": "Starbucks Sunter Green Lake - 4.7 - 810 review"
+                },
+                {
+                    "nama": "Starbucks Sunter Mall",
+                    "rating": 4.7,
+                    "location": "-6.1380333,106.8714099",
+                    "user_ratings_total": 692,
+                    "printed": "Starbucks Sunter Mall - 4.7 - 692 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "Ace Hardware Metro Sunter",
+                    "rating": 4.4,
+                    "location": "-6.1371036,106.8731557",
+                    "user_ratings_total": 450,
+                    "printed": "Ace Hardware Metro Sunter - 4.4 - 450 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's Sunter",
+                    "rating": 4.5,
+                    "location": "-6.140882,106.8839915",
+                    "user_ratings_total": 9983,
+                    "printed": "McDonald's Sunter - 4.5 - 9983 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "Creative Space",
+                    "rating": 4.8,
+                    "location": "-6.1438602,106.8798118",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 16,
+                    "printed": "Creative Space - 4.8 - 16 review"
+                },
+                {
+                    "nama": "Co Working 308",
+                    "rating": 5,
+                    "location": "-6.149845099999999,106.8878971",
+                    "routes_distance": "2.7 km",
+                    "user_ratings_total": 1,
+                    "printed": "Co Working 308 - 5 - 1 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Halte Bus Pelayaran",
+                    "rating": 0,
+                    "location": "-6.138855299999999,106.8775772",
+                    "routes_distance": "1.5 km",
+                    "user_ratings_total": 0,
+                    "printed": "Halte Bus Pelayaran - 0 - 0 review"
+                },
+                {
+                    "nama": "Halte Metro Sunter",
+                    "rating": 5,
+                    "location": "-6.1374973,106.8737627",
+                    "routes_distance": "1.9 km",
+                    "user_ratings_total": 1,
+                    "printed": "Halte Metro Sunter - 5 - 1 review"
+                },
+                {
+                    "nama": "Jln. Danau Sunter Utara 1",
+                    "rating": 0,
+                    "location": "-6.13751,106.87303",
+                    "routes_distance": "2.0 km",
+                    "user_ratings_total": 0,
+                    "printed": "Jln. Danau Sunter Utara 1 - 0 - 0 review"
+                },
+                {
+                    "nama": "Sunter Karya",
+                    "rating": 4.3,
+                    "location": "-6.1376119,106.8708141",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 59,
+                    "printed": "Sunter Karya - 4.3 - 59 review"
+                },
+                {
+                    "nama": "Kali Sunter",
+                    "rating": 3.9,
+                    "location": "-6.152940000000001,106.88736",
+                    "routes_distance": "5.5 km",
+                    "user_ratings_total": 7,
+                    "printed": "Kali Sunter - 3.9 - 7 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "Kantor Lurah Krukut",
+                    "rating": 3.9,
+                    "location": "-6.1550628,106.8175024",
+                    "routes_distance": "10.3 km",
+                    "user_ratings_total": 11,
+                    "printed": "Kantor Lurah Krukut - 3.9 - 11 review"
+                },
+                {
+                    "nama": "Kantor Lurah Rawamangun Jakarta Timur",
+                    "rating": 3.8,
+                    "location": "-6.1988993,106.8807951",
+                    "routes_distance": "10.4 km",
+                    "user_ratings_total": 39,
+                    "printed": "Kantor Lurah Rawamangun Jakarta Timur - 3.8 - 39 review"
+                },
+                {
+                    "nama": "Kantor Lurah Cikini",
+                    "rating": 4.4,
+                    "location": "-6.188789799999999,106.8390841",
+                    "routes_distance": "10.7 km",
+                    "user_ratings_total": 23,
+                    "printed": "Kantor Lurah Cikini - 4.4 - 23 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN PETOJO SELATAN",
+                    "rating": 4.8,
+                    "location": "-6.1703994,106.8166394",
+                    "routes_distance": "10.8 km",
+                    "user_ratings_total": 5,
+                    "printed": "KANTOR KELURAHAN PETOJO SELATAN - 4.8 - 5 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Petojo Selatan Jakarta Pusat",
+                    "rating": 4.1,
+                    "location": "-6.171866199999999,106.816787",
+                    "routes_distance": "10.9 km",
+                    "user_ratings_total": 13,
+                    "printed": "Kantor Kelurahan Petojo Selatan Jakarta Pusat - 4.1 - 13 review"
+                },
+                {
+                    "nama": "Kantor Lurah Gondangdia",
+                    "rating": 3.2,
+                    "location": "-6.190382199999999,106.8346434",
+                    "routes_distance": "11.0 km",
+                    "user_ratings_total": 11,
+                    "printed": "Kantor Lurah Gondangdia - 3.2 - 11 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Paseban",
+                    "rating": 4,
+                    "location": "-6.1916663,106.8539021",
+                    "routes_distance": "11.4 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kantor Kelurahan Paseban - 4 - 29 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN GAMBIR",
+                    "rating": 4.2,
+                    "location": "-6.1800766,106.8200188",
+                    "routes_distance": "11.8 km",
+                    "user_ratings_total": 5,
+                    "printed": "KANTOR KELURAHAN GAMBIR - 4.2 - 5 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pegangsaan Jakarta Pusat",
+                    "rating": 4.3,
+                    "location": "-6.204030899999999,106.8502538",
+                    "routes_distance": "12.2 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Pegangsaan Jakarta Pusat - 4.3 - 21 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kampung Bali",
+                    "rating": 4.3,
+                    "location": "-6.1842932,106.8178366",
+                    "routes_distance": "12.2 km",
+                    "user_ratings_total": 12,
+                    "printed": "Kantor Kelurahan Kampung Bali - 4.3 - 12 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kebon Sirih",
+                    "rating": 3.1,
+                    "location": "-6.1841627,106.8293249",
+                    "routes_distance": "12.5 km",
+                    "user_ratings_total": 18,
+                    "printed": "Kantor Kelurahan Kebon Sirih - 3.1 - 18 review"
+                },
+                {
+                    "nama": "kantor kelurahan penggilingan",
+                    "rating": 3,
+                    "location": "-6.2027886,106.9309329",
+                    "routes_distance": "12.9 km",
+                    "user_ratings_total": 55,
+                    "printed": "kantor kelurahan penggilingan - 3 - 55 review"
+                },
+                {
+                    "nama": "Kantor Lurah Sumur Batu Jakpus",
+                    "rating": 3.9,
+                    "location": "-6.164498999999999,106.871264",
+                    "routes_distance": "4.4 km",
+                    "user_ratings_total": 40,
+                    "printed": "Kantor Lurah Sumur Batu Jakpus - 3.9 - 40 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kelapa Gading Barat",
+                    "rating": 2.9,
+                    "location": "-6.1628169,106.8847592",
+                    "routes_distance": "5.6 km",
+                    "user_ratings_total": 44,
+                    "printed": "Kantor Kelurahan Kelapa Gading Barat - 2.9 - 44 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pegangsaan Dua",
+                    "rating": 3.3,
+                    "location": "-6.1544676,106.9107808",
+                    "routes_distance": "5.7 km",
+                    "user_ratings_total": 33,
+                    "printed": "Kantor Kelurahan Pegangsaan Dua - 3.3 - 33 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Kelurahan Sunter Agung Jakarta Utara",
+                    "rating": 3.5,
+                    "location": "-6.1393469,106.8712955",
+                    "routes_distance": "2.6 km",
+                    "user_ratings_total": 79,
+                    "printed": "Kantor Kelurahan Sunter Agung Jakarta Utara - 3.5 - 79 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Tanjung Priuk",
+                    "rating": 4.5,
+                    "location": "-6.110993199999999,106.8810757",
+                    "user_ratings_total": 862,
+                    "routes_distance": "7.2 km",
+                    "printed": "Tanjung Priuk - 4.5 - 862 review (7.2 km)"
+                },
+                {
+                    "nama": "Stasiun Kemayoran",
+                    "rating": 4.1,
+                    "location": "-6.161733799999999,106.8413931",
+                    "user_ratings_total": 758,
+                    "routes_distance": "8.0 km",
+                    "printed": "Stasiun Kemayoran - 4.1 - 758 review (8.0 km)"
+                },
+                {
+                    "nama": "Stasiun Pasar Senen",
+                    "rating": 4.4,
+                    "location": "-6.174700000000001,106.84435",
+                    "user_ratings_total": 8749,
+                    "routes_distance": "8.1 km",
+                    "printed": "Stasiun Pasar Senen - 4.4 - 8749 review (8.1 km)"
+                },
+                {
+                    "nama": "Gang Sentiong",
+                    "rating": 4.2,
+                    "location": "-6.186,106.85068",
+                    "user_ratings_total": 392,
+                    "routes_distance": "8.3 km",
+                    "printed": "Gang Sentiong - 4.2 - 392 review (8.3 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "30.8 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "17.5 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "10.7 km"
+        }
+    ]
+}

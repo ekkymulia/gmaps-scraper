@@ -1,0 +1,210 @@
+Westmark
+
+westmark
+
+Kordinat: -6.1803748,106.7936597
+
+12, Jl. Tj. Duren Timur 2 No.30, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Anak dan Bunda Harapan Kita - 4 - 744 review (4.3 km)lokasi: -6.184745300000001,106.7990034
+Pusat Jantung Nasional Harapan Kita - 4.3 - 772 review (4.3 km)lokasi: -6.1854646,106.7987365
+RS Kanker Dharmais - 3.5 - 1127 review (4.5 km)lokasi: -6.186828699999998,106.7979783
+
+
+shopping_mall:
+
+Alexandre Christie MTA - 4.4 - 324 review (456 m)lokasi: -6.178583100000001,106.7922128
+
+
+supermarket:
+
+Hero Taman Anggrek - 4.5 - 749 review (559 m)lokasi: -6.178812,106.792763
+Transmart Carrefour Central Park - 4.4 - 2958 review (1.0 km)lokasi: -6.1771826,106.7906123
+Ranch Market - 4.7 - 297 review (222 m)lokasi: -6.180966,106.7922614
+KKV-Central Park - 4.7 - 4764 review (1.1 km)lokasi: -6.1765276,106.7910463
+Lobby Lumina, Central Park - 4.8 - 105 review (1.1 km)lokasi: -6.176114999999999,106.7910888
+
+
+university:
+
+Universitas Kristen Krida Wacana, Kampus I - 4.6 - 477 review (2.4 km)lokasi: -6.172516,106.7884645
+Universitas Tarumanagara - 4.5 - 952 review (2.1 km)lokasi: -6.169143800000001,106.7894575
+
+
+school:
+
+
+
+===================
+
+Rasto di Mall Alexandre Christie MTA:
+
+Starbucks Central Park - 4.6 - 1201 reviewlokasi: -6.176956,106.791294
+Penang Bistro Central Park - 4.6 - 670 reviewlokasi: -6.1763634,106.7918308
+HokBen Mal Taman Anggrek - 4.6 - 517 reviewlokasi: -6.1787673,106.7924403
+Yoshinoya - 4.3 - 348 reviewlokasi: -6.1786459,106.7917281
+Ta Wan - Mall Taman Anggrek - 4.3 - 204 reviewlokasi: -6.178583100000001,106.7922128
+OldTown White Coffee Anggrek - 4.3 - 193 reviewlokasi: -6.17861,106.792569
+Pepper Lunch Mall Taman Anggrek - 4.2 - 178 reviewlokasi: -6.178888899999999,106.7927778
+Vin+ GSA (CP) - 4.5 - 138 reviewlokasi: -6.177368899999999,106.78975
+Sate Khas Senayan Taman Anggrek - 4 - 133 reviewlokasi: -6.178508399999999,106.792524
+
+
+===================
+
+Keyword Data Starbucks:
+
+
+
+Starbucks Tomang Raya - 4.5 - 2414 reviewlokasi: -6.177237,106.7993341
+Starbucks Central Park - 4.6 - 1201 reviewlokasi: -6.176956,106.791294
+Starbucks Neo SOHO - 4.6 - 606 reviewlokasi: -6.1752213,106.7903039
+Starbucks - 4.5 - 398 reviewlokasi: -6.1899551,106.7987151
+Starbucks MGR 1 - 4.7 - 298 reviewlokasi: -6.1742365,106.7884907
+
+
+===================
+
+Keyword Data Ace Hardware:
+
+
+
+Ace Home Center Neo Soho Mall - 4.6 - 934 reviewlokasi: -6.1746663,106.7896856
+ACE HARDWARE - MAL TAMAN ANGGREK - 4.7 - 732 reviewlokasi: -6.179391,106.792549
+
+
+===================
+
+Keyword Data Guardian:
+
+
+
+
+
+===================
+
+Keyword Data Century:
+
+
+
+
+
+===================
+
+Keyword Data Mc Donald's:
+
+
+
+
+
+===================
+
+Keyword Data Electronic City:
+
+
+
+
+
+===================
+
+Keyword Data Co Working Space:
+
+GoWork, VCO At Work, OFFICE 99 - Central Park, Werkspace Soho Capital, JOKEM - Shops & Business Gallery, Infinity Virtual Office and Co Working Space, Alfa-X S. Parman, XWORK - Sewa Office & Virtual Office Terlengkap, 
+
+GoWork - 4.9 - 136 review - 1.1 kmlokasi: -6.177408,106.7913133
+VCO At Work - 0 - 0 review - 1.2 kmlokasi: -6.176186,106.7919543
+OFFICE 99 - Central Park - 0 - 0 review - 1.2 kmlokasi: -6.174748,106.7899227
+Werkspace Soho Capital - 4.4 - 99 review - 1.3 kmlokasi: -6.1745788,106.7897985
+JOKEM - Shops & Business Gallery - 5 - 4 review - 1.3 kmlokasi: -6.187425699999999,106.7874322
+Infinity Virtual Office and Co Working Space - 0 - 0 review - 2.9 kmlokasi: -6.1880118,106.796432
+Alfa-X S. Parman - 4.7 - 294 review - 3.5 kmlokasi: -6.1696767,106.7905446
+XWORK - Sewa Office & Virtual Office Terlengkap - 4.3 - 26 review - 4.9 kmlokasi: -6.1898896,106.7988509
+
+
+===================
+
+Keyword Data Halte Transjakarta:
+
+Halte Ukrida, Seberang S. Parman Podomoro City, Tomang Mandala, Halte Harapan Kita, Taman Anggrek, Halte transjakarta, Slipi Kemanggisan, S. Parman Podomoro City, 
+
+Halte Ukrida - 4.3 - 11 review - 2.4 kmlokasi: -6.1723468,106.7885456
+Seberang S. Parman Podomoro City - 3.5 - 22 review - 2.9 kmlokasi: -6.1757,106.79314
+Tomang Mandala - 4.5 - 40 review - 3.9 kmlokasi: -6.1768813,106.8003688
+Halte Harapan Kita - 4.4 - 35 review - 4.0 kmlokasi: -6.1848711,106.7969407
+Taman Anggrek - 4.2 - 6 review - 630 mlokasi: -6.1761046,106.7926042
+Halte transjakarta - 0 - 0 review - 7.2 kmlokasi: -6.1893042,106.7970598
+Slipi Kemanggisan - 4.8 - 11 review - 7.2 kmlokasi: -6.1893042,106.7970598
+S. Parman Podomoro City - 4.1 - 86 review - 709 mlokasi: -6.1754972,106.7922023
+
+
+===================
+
+Keyword Data Kantor Kelurahan:
+
+Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat, Kantor Kelurahan Cengkareng Timur, Kantor Kelurahan Paseban, Kantor Kelurahan Pegangsaan Jakarta Pusat, Kantor Kelurahan Kuningan Timur, KANTOR KELURAHAN SETIA BUDI, Kantor Lurah Manggarai Selatan, Kantor Kelurahan Kemanggisan, Kantor Kelurahan Jelambar, Kantor Kelurahan Tomang Grogol Petamburan, KANTOR KELURAHAN CIDENG, Kantor Kelurahan Kampung Bali, KANTOR KELURAHAN GAMBIR, Kantor Lurah Pekojan, KANTOR KELURAHAN PETOJO SELATAN, 
+
+Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat - 4.3 - 36 review - 1.4 kmlokasi: -6.1812238,106.7877018
+Kantor Kelurahan Cengkareng Timur - 3.6 - 58 review - 10.0 kmlokasi: -6.1451837,106.7331986
+Kantor Kelurahan Paseban - 4 - 29 review - 10.7 kmlokasi: -6.1916663,106.8539021
+Kantor Kelurahan Pegangsaan Jakarta Pusat - 4.3 - 21 review - 12.4 kmlokasi: -6.204030899999999,106.8502538
+Kantor Kelurahan Kuningan Timur - 4.3 - 14 review - 12.4 kmlokasi: -6.227610899999999,106.8306336
+KANTOR KELURAHAN SETIA BUDI - 5 - 1 review - 13.6 kmlokasi: -6.2082574,106.8240108
+Kantor Lurah Manggarai Selatan - 4.2 - 18 review - 16.7 kmlokasi: -6.2181169,106.8471166
+Kantor Kelurahan Kemanggisan - 3.5 - 31 review - 2.7 kmlokasi: -6.1923996,106.7868096
+Kantor Kelurahan Jelambar - 3.3 - 41 review - 4.3 kmlokasi: -6.1614746,106.7816313
+Kantor Kelurahan Tomang Grogol Petamburan - 4.3 - 24 review - 4.3 kmlokasi: -6.1718573,106.8001774
+KANTOR KELURAHAN CIDENG - 4.1 - 8 review - 5.5 kmlokasi: -6.167923099999999,106.8092933
+Kantor Kelurahan Kampung Bali - 4.3 - 12 review - 5.6 kmlokasi: -6.1842932,106.8178366
+KANTOR KELURAHAN GAMBIR - 4.2 - 5 review - 5.7 kmlokasi: -6.1800766,106.8200188
+Kantor Lurah Pekojan - 4 - 33 review - 5.9 kmlokasi: -6.139516899999999,106.8006989
+KANTOR KELURAHAN PETOJO SELATAN - 4.8 - 5 review - 6.4 kmlokasi: -6.1703994,106.8166394
+
+
+===================
+
+Keyword Data Kantor Kecamatan:
+
+Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat, Kantor Kecamatan Grogol Petamburan, Kantor Kelurahan Tanjung Duren Utara Jakarta Barat, Kantor Kelurahan Kota Bambu Selatan, Kantor Kelurahan Tomang Grogol Petamburan, 
+
+Kantor Kelurahan Tanjung Duren Selatan Jakarta Barat - 4.3 - 36 review - 1.4 kmlokasi: -6.1812238,106.7877018
+Kantor Kecamatan Grogol Petamburan - 4.1 - 52 review - 2.2 kmlokasi: -6.177926299999999,106.7833081
+Kantor Kelurahan Tanjung Duren Utara Jakarta Barat - 3.6 - 17 review - 2.3 kmlokasi: -6.1734019,106.7889442
+Kantor Kelurahan Kota Bambu Selatan - 4.1 - 22 review - 3.6 kmlokasi: -6.185195200000001,106.8019928
+Kantor Kelurahan Tomang Grogol Petamburan - 4.3 - 24 review - 4.3 kmlokasi: -6.1718573,106.8001774
+
+
+===================
+
+Dynamic Transport:
+
+train_stationStasiun Tanahabang - 4.2 - 3181 review (5.7 km)lokasi: -6.185702099999999,106.8108536
+train_stationGrogol - 4.3 - 514 review (3.2 km)lokasi: -6.1620333,106.7893663
+train_stationStadiun Karet - 4.1 - 616 review (7.4 km)lokasi: -6.2008189,106.815776
+train_stationStasiun Sudirman - 4.4 - 2218 review (12.1 km)lokasi: -6.202268399999999,106.8231961
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 21.2 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 18.9 km
+
+
+Stasiun Gambirroute distance: 7.7 km
+
+

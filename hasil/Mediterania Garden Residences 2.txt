@@ -1,0 +1,264 @@
+Mediterania Garden Residences 2
+
+mediterania_garden_residences_2
+
+Kordinat: -6.175349499999999,106.7884378
+
+RQFQ+V98, RT.3/RW.5, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia
+
+===================
+
+hospital:
+
+Rumah Sakit Royal Taruma - 3.7 - 821 review (1.8 km)lokasi: -6.1664004,106.7855103
+Rumah Sakit Sumber Waras - 3.3 - 590 review (3.6 km)lokasi: -6.1684878,106.7975598
+Rumah Sakit Jiwa Dr. Soeharto Heerdjan - 4.4 - 309 review (2.0 km)lokasi: -6.163272699999998,106.7884459
+
+
+shopping_mall:
+
+Alexandre Christie MTA - 4.4 - 324 review (1.8 km)lokasi: -6.178583100000001,106.7922128
+Neo Soho Central Park - 4.6 - 24480 review (158 m)lokasi: -6.174963000000002,106.7900134
+Podomoro City - 4.6 - 274 review (2.2 km)lokasi: -6.1750044,106.7912959
+Central Park - 4.7 - 96790 review (541 m)lokasi: -6.177368599999999,106.7906723
+Mall Taman Anggrek - 4.6 - 59480 review (1.8 km)lokasi: -6.178304499999999,106.7919021
+
+
+supermarket:
+
+Hero Taman Anggrek - 4.5 - 749 review (1.9 km)lokasi: -6.178812,106.792763
+Indomaret Tanjung Duren Timur 2. F541 - 4.4 - 172 review (1.9 km)lokasi: -6.182033500000001,106.7859573
+Alfamart Taman Daan Mogot - 4.3 - 214 review (1.6 km)lokasi: -6.1690331,106.7844843
+Transmart Carrefour Central Park - 4.4 - 2955 review (517 m)lokasi: -6.1771826,106.7906123
+FamilyMart Tanjung Duren - 4.1 - 360 review (207 m)lokasi: -6.1739872,106.7881703
+The Foodhall - NEO SOHO - 4.6 - 342 review (504 m)lokasi: -6.1746757,106.7900765
+
+
+university:
+
+Trisakti School of Management - 4.7 - 363 review (3.9 km)lokasi: -6.1673483,106.7937079
+Universitas Kristen Krida Wacana, Kampus I - 4.6 - 478 review (1.5 km)lokasi: -6.172516,106.7884645
+Universitas Tarumanagara - 4.5 - 953 review (1.6 km)lokasi: -6.169143800000001,106.7894575
+Universitas Trisakti - 4.5 - 1338 review (1.7 km)lokasi: -6.1678122,106.7901209
+Fakultas Kedokteran Universitas Trisakti - 4.7 - 137 review (3.5 km)lokasi: -6.166737699999999,106.7968824
+
+
+school:
+
+SMAK 1 BPK Penabur - 4.6 - 220 review (1.3 km)lokasi: -6.1732387,106.7881186
+SMP NEGERI 89 Jakarta Barat - 4.7 - 107 review (1.4 km)lokasi: -6.178219299999999,106.7822247
+
+
+===================
+
+Rasto di Mall Alexandre Christie MTA:
+
+Starbucks Central Park - 4.6 - 1200 reviewlokasi: -6.176956,106.791294
+Penang Bistro Central Park - 4.6 - 669 reviewlokasi: -6.1763634,106.7918308
+HokBen Mal Taman Anggrek - 4.6 - 517 reviewlokasi: -6.1787673,106.7924403
+Yoshinoya - 4.3 - 348 reviewlokasi: -6.1786459,106.7917281
+Ta Wan - Mall Taman Anggrek - 4.3 - 202 reviewlokasi: -6.178583100000001,106.7922128
+
+
+Rasto di Mall Neo Soho Central Park:
+
+ZENBU CENTRAL PARK - 4.5 - 1893 reviewlokasi: -6.1763774,106.7910795
+IPPUDO INDONESIA Central Park - 4.6 - 1765 reviewlokasi: -6.175906700000001,106.7904862
+Starbucks Central Park - 4.6 - 1200 reviewlokasi: -6.176956,106.791294
+Curry House Coco Ichibanya - 4.5 - 1176 reviewlokasi: -6.1752436,106.7902634
+Marugame Udon & Tempura - 4.6 - 1072 reviewlokasi: -6.1752099,106.7902908
+
+
+Rasto di Mall Podomoro City:
+
+Sushi Tei - 4.5 - 3203 reviewlokasi: -6.176260099999999,106.7915627
+ZENBU CENTRAL PARK - 4.5 - 1893 reviewlokasi: -6.1763774,106.7910795
+IPPUDO INDONESIA Central Park - 4.6 - 1765 reviewlokasi: -6.175906700000001,106.7904862
+Harlys Residence - 4.1 - 1471 reviewlokasi: -6.174046499999998,106.7950269
+Starbucks Central Park - 4.6 - 1200 reviewlokasi: -6.176956,106.791294
+
+
+Rasto di Mall Central Park:
+
+Bakerzin Central Park - 4.8 - 2457 reviewlokasi: -6.177824200000001,106.7906991
+Starbucks Central Park - 4.6 - 1200 reviewlokasi: -6.176956,106.791294
+Penang Bistro Central Park - 4.6 - 669 reviewlokasi: -6.1763634,106.7918308
+Song Fa Bak Kut Teh - 4.6 - 529 reviewlokasi: -6.177734999999998,106.7909258
+HokBen Mal Taman Anggrek - 4.6 - 517 reviewlokasi: -6.1787673,106.7924403
+
+
+Rasto di Mall Mall Taman Anggrek:
+
+Starbucks Central Park - 4.6 - 1200 reviewlokasi: -6.176956,106.791294
+Penang Bistro Central Park - 4.6 - 669 reviewlokasi: -6.1763634,106.7918308
+Hanamasa MTA - 4.5 - 654 reviewlokasi: -6.177955,106.792447
+HokBen Mal Taman Anggrek - 4.6 - 517 reviewlokasi: -6.1787673,106.7924403
+Yoshinoya - 4.3 - 348 reviewlokasi: -6.1786459,106.7917281
+
+
+===================
+
+Keyword Data Starbucks:
+
+Starbucks Tomang Raya - 4.5 - 2411 reviewlokasi: -6.177237,106.7993341
+Starbucks Central Park - 4.6 - 1200 reviewlokasi: -6.176956,106.791294
+Starbucks Tanjung Duren - 4.6 - 928 reviewlokasi: -6.1739982,106.7802859
+Starbucks Mall Ciputra - 4.6 - 781 reviewlokasi: -6.168157,106.7869847
+Starbucks Neo SOHO - 4.6 - 605 reviewlokasi: -6.1752213,106.7903039
+
+
+===================
+
+Dynamic Transport:
+
+train_stationGrogol - 4.3 - 513 review (2.7 km)lokasi: -6.1620333,106.7893663
+train_stationStasiun Tanahabang - 4.2 - 3174 review (7.2 km)lokasi: -6.185702099999999,106.8108536
+train_stationStadiun Karet - 4.1 - 615 review (8.8 km)lokasi: -6.2008189,106.815776
+train_stationStasiun Juanda - 4.5 - 1543 review (7.2 km)lokasi: -6.1667216,106.830473
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+bus_stationTerminal Grogol - 4.1 - 192 review (1.7 km)lokasi: -6.16656,106.79025
+bus_stationSumber Waras - 3.6 - 105 review (2.4 km)lokasi: -6.16626,106.79676
+
+
+Keyword Data Ace Hardware:
+
+Ace Home Center Neo Soho Mall - 4.6 - 934 reviewlokasi: -6.1746663,106.7896856
+ACE HARDWARE - MAL TAMAN ANGGREK - 4.7 - 732 reviewlokasi: -6.179391,106.792549
+
+
+===================
+
+Dynamic Transport:
+
+train_stationGrogol - 4.3 - 513 review (2.7 km)lokasi: -6.1620333,106.7893663
+train_stationStasiun Tanahabang - 4.2 - 3174 review (7.2 km)lokasi: -6.185702099999999,106.8108536
+train_stationStadiun Karet - 4.1 - 615 review (8.8 km)lokasi: -6.2008189,106.815776
+train_stationStasiun Juanda - 4.5 - 1543 review (7.2 km)lokasi: -6.1667216,106.830473
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+bus_stationTerminal Grogol - 4.1 - 192 review (1.7 km)lokasi: -6.16656,106.79025
+bus_stationSumber Waras - 3.6 - 105 review (2.4 km)lokasi: -6.16626,106.79676
+
+
+Keyword Data Guardian:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationGrogol - 4.3 - 513 review (2.7 km)lokasi: -6.1620333,106.7893663
+train_stationStasiun Tanahabang - 4.2 - 3174 review (7.2 km)lokasi: -6.185702099999999,106.8108536
+train_stationStadiun Karet - 4.1 - 615 review (8.8 km)lokasi: -6.2008189,106.815776
+train_stationStasiun Juanda - 4.5 - 1543 review (7.2 km)lokasi: -6.1667216,106.830473
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+bus_stationTerminal Grogol - 4.1 - 192 review (1.7 km)lokasi: -6.16656,106.79025
+bus_stationSumber Waras - 3.6 - 105 review (2.4 km)lokasi: -6.16626,106.79676
+
+
+Keyword Data Century:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationGrogol - 4.3 - 513 review (2.7 km)lokasi: -6.1620333,106.7893663
+train_stationStasiun Tanahabang - 4.2 - 3174 review (7.2 km)lokasi: -6.185702099999999,106.8108536
+train_stationStadiun Karet - 4.1 - 615 review (8.8 km)lokasi: -6.2008189,106.815776
+train_stationStasiun Juanda - 4.5 - 1543 review (7.2 km)lokasi: -6.1667216,106.830473
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+bus_stationTerminal Grogol - 4.1 - 192 review (1.7 km)lokasi: -6.16656,106.79025
+bus_stationSumber Waras - 3.6 - 105 review (2.4 km)lokasi: -6.16626,106.79676
+
+
+Keyword Data Mc Donald's:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationGrogol - 4.3 - 513 review (2.7 km)lokasi: -6.1620333,106.7893663
+train_stationStasiun Tanahabang - 4.2 - 3174 review (7.2 km)lokasi: -6.185702099999999,106.8108536
+train_stationStadiun Karet - 4.1 - 615 review (8.8 km)lokasi: -6.2008189,106.815776
+train_stationStasiun Juanda - 4.5 - 1543 review (7.2 km)lokasi: -6.1667216,106.830473
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+bus_stationTerminal Grogol - 4.1 - 192 review (1.7 km)lokasi: -6.16656,106.79025
+bus_stationSumber Waras - 3.6 - 105 review (2.4 km)lokasi: -6.16626,106.79676
+
+
+Keyword Data Electronic City:
+
+
+
+===================
+
+Dynamic Transport:
+
+train_stationGrogol - 4.3 - 513 review (2.7 km)lokasi: -6.1620333,106.7893663
+train_stationStasiun Tanahabang - 4.2 - 3174 review (7.2 km)lokasi: -6.185702099999999,106.8108536
+train_stationStadiun Karet - 4.1 - 615 review (8.8 km)lokasi: -6.2008189,106.815776
+train_stationStasiun Juanda - 4.5 - 1543 review (7.2 km)lokasi: -6.1667216,106.830473
+
+
+Dynamic Transport:
+
+
+
+Dynamic Transport:
+
+bus_stationTerminal Grogol - 4.1 - 192 review (1.7 km)lokasi: -6.16656,106.79025
+bus_stationSumber Waras - 3.6 - 105 review (2.4 km)lokasi: -6.16626,106.79676
+
+
+===================
+
+Static Transport:
+
+Bandara Soekarno Hattaroute distance: 20.8 km
+
+
+Bandara Halim Perdana Kusumaroute distance: 18.5 km
+
+
+Stasiun Gambirroute distance: 9.2 km
+
+

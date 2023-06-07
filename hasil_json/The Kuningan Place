@@ -1,0 +1,694 @@
+{
+    "nama": "The Kuningan Place",
+    "alamat": "7, apartement kuningan place, Jl. H Kavling No.15, RT.7/RW.1, Menteng Atas, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12980, Indonesia",
+    "kecamatan": "Kecamatan Setiabudi",
+    "kelurahan": "Menteng Atas",
+    "location": "-6.2128364,106.8353598",
+    "permalink": "the_kuningan_place",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "RS MMC",
+                    "rating": 4,
+                    "location": "-6.219863699999999,106.8323987",
+                    "user_ratings_total": 412,
+                    "routes_distance": "1.7 km",
+                    "printed": "RS MMC - 4 - 412 review (1.7 km)"
+                },
+                {
+                    "nama": "Rumah Sakit Agung",
+                    "rating": 3,
+                    "location": "-6.209101899999999,106.8464209",
+                    "user_ratings_total": 422,
+                    "routes_distance": "4.0 km",
+                    "printed": "Rumah Sakit Agung - 3 - 422 review (4.0 km)"
+                },
+                {
+                    "nama": "Mayapada Hospital Kuningan (MHKN)",
+                    "rating": 4.2,
+                    "location": "-6.2186758,106.8314818",
+                    "user_ratings_total": 760,
+                    "routes_distance": "1.4 km",
+                    "printed": "Mayapada Hospital Kuningan (MHKN) - 4.2 - 760 review (1.4 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Plaza Festival Mall Kuningan",
+                    "rating": 4.4,
+                    "location": "-6.221077800000001,106.8324111",
+                    "user_ratings_total": 24019,
+                    "routes_distance": "1.3 km",
+                    "printed": "Plaza Festival Mall Kuningan - 4.4 - 24019 review (1.3 km)"
+                },
+                {
+                    "nama": "Bursa Sajadah - Jakarta",
+                    "rating": 4.4,
+                    "location": "-6.2163108,106.8439182",
+                    "user_ratings_total": 465,
+                    "routes_distance": "3.8 km",
+                    "printed": "Bursa Sajadah - Jakarta - 4.4 - 465 review (3.8 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Farmers Market",
+                    "rating": 4.4,
+                    "location": "-6.2182508,106.8351427",
+                    "user_ratings_total": 545,
+                    "routes_distance": "1.1 km",
+                    "printed": "Farmers Market - 4.4 - 545 review (1.1 km)"
+                },
+                {
+                    "nama": "Alfamart",
+                    "rating": 4.3,
+                    "location": "-6.216434,106.8278736",
+                    "user_ratings_total": 152,
+                    "routes_distance": "3.8 km",
+                    "printed": "Alfamart - 4.3 - 152 review (3.8 km)"
+                },
+                {
+                    "nama": "Alfamart Karbela",
+                    "rating": 4.3,
+                    "location": "-6.2138645,106.8266133",
+                    "user_ratings_total": 269,
+                    "routes_distance": "3.6 km",
+                    "printed": "Alfamart Karbela - 4.3 - 269 review (3.6 km)"
+                },
+                {
+                    "nama": "Indomaret Plus karet pedurenan",
+                    "rating": 3.8,
+                    "location": "-6.2213327,106.827018",
+                    "user_ratings_total": 101,
+                    "routes_distance": "3.2 km",
+                    "printed": "Indomaret Plus karet pedurenan - 3.8 - 101 review (3.2 km)"
+                },
+                {
+                    "nama": "Transmart Kota Kasablanka",
+                    "rating": 4.4,
+                    "location": "-6.2226058,106.8423994",
+                    "user_ratings_total": 4581,
+                    "routes_distance": "2.8 km",
+                    "printed": "Transmart Kota Kasablanka - 4.4 - 4581 review (2.8 km)"
+                },
+                {
+                    "nama": "Alfamidi Minangkabau",
+                    "rating": 4.2,
+                    "location": "-6.213905899999999,106.8433089",
+                    "user_ratings_total": 176,
+                    "routes_distance": "2.7 km",
+                    "printed": "Alfamidi Minangkabau - 4.2 - 176 review (2.7 km)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": [
+                {
+                    "nama": "Universitas Teknologi Muhammadiyah Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.214390199999999,106.8431799",
+                    "user_ratings_total": 123,
+                    "routes_distance": "2.6 km",
+                    "printed": "Universitas Teknologi Muhammadiyah Jakarta - 4.6 - 123 review (2.6 km)"
+                },
+                {
+                    "nama": "Perbanas Institute Jakarta (Yayasan Pendidikan Perbanas)",
+                    "rating": 4.6,
+                    "location": "-6.2174872,106.8288798",
+                    "user_ratings_total": 383,
+                    "routes_distance": "3.3 km",
+                    "printed": "Perbanas Institute Jakarta (Yayasan Pendidikan Perbanas) - 4.6 - 383 review (3.3 km)"
+                },
+                {
+                    "nama": "Universitas Bakrie",
+                    "rating": 4.5,
+                    "location": "-6.220378800000001,106.8332191",
+                    "user_ratings_total": 306,
+                    "routes_distance": "1.2 km",
+                    "printed": "Universitas Bakrie - 4.5 - 306 review (1.2 km)"
+                }
+            ]
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Swastik Mart",
+                    "rating": 4.2,
+                    "location": "-6.217766499999999,106.8360385",
+                    "user_ratings_total": 286,
+                    "routes_distance": "652 m",
+                    "printed": "Swastik Mart - 4.2 - 286 review (652 m)"
+                },
+                {
+                    "nama": "SMA Negeri 43 Jakarta Selatan",
+                    "rating": 4.4,
+                    "location": "-6.216239799999999,106.8416266",
+                    "user_ratings_total": 149,
+                    "routes_distance": "2.8 km",
+                    "printed": "SMA Negeri 43 Jakarta Selatan - 4.4 - 149 review (2.8 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Plaza Festival Mall Kuningan",
+            "restaurants": [
+                {
+                    "nama": "Dim Sum Inc",
+                    "rating": 4.4,
+                    "location": "-6.221576900000001,106.8331726",
+                    "user_ratings_total": 2271,
+                    "printed": "Dim Sum Inc - 4.4 - 2271 review"
+                },
+                {
+                    "nama": "Seasonal Tastes at The Westin Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.223906899999998,106.8337168",
+                    "user_ratings_total": 1613,
+                    "printed": "Seasonal Tastes at The Westin Jakarta - 4.6 - 1613 review"
+                },
+                {
+                    "nama": "HokBen Pasar Festival",
+                    "rating": 4.8,
+                    "location": "-6.2214595,106.8326448",
+                    "user_ratings_total": 1531,
+                    "printed": "HokBen Pasar Festival - 4.8 - 1531 review"
+                },
+                {
+                    "nama": "Warung Tekko",
+                    "rating": 4.3,
+                    "location": "-6.2217109,106.832831",
+                    "user_ratings_total": 537,
+                    "printed": "Warung Tekko - 4.3 - 537 review"
+                },
+                {
+                    "nama": "Sky Garden Cafe",
+                    "rating": 4.5,
+                    "location": "-6.220917999999999,106.829175",
+                    "user_ratings_total": 374,
+                    "printed": "Sky Garden Cafe - 4.5 - 374 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Bursa Sajadah - Jakarta",
+            "restaurants": [
+                {
+                    "nama": "Seafood Ade Fani 67 (Manggarai)",
+                    "rating": 4.5,
+                    "location": "-6.214823,106.8433016",
+                    "user_ratings_total": 3061,
+                    "printed": "Seafood Ade Fani 67 (Manggarai) - 4.5 - 3061 review"
+                },
+                {
+                    "nama": "Martabak Kubang Hayuda",
+                    "rating": 4.4,
+                    "location": "-6.2172353,106.8443846",
+                    "user_ratings_total": 2574,
+                    "printed": "Martabak Kubang Hayuda - 4.4 - 2574 review"
+                },
+                {
+                    "nama": "Toba Tabo Lapo Batak",
+                    "rating": 4.4,
+                    "location": "-6.215948900000001,106.8435287",
+                    "user_ratings_total": 979,
+                    "printed": "Toba Tabo Lapo Batak - 4.4 - 979 review"
+                },
+                {
+                    "nama": "Toba Dream Jakarta",
+                    "rating": 4.6,
+                    "location": "-6.2159627,106.8434644",
+                    "user_ratings_total": 417,
+                    "printed": "Toba Dream Jakarta - 4.6 - 417 review"
+                },
+                {
+                    "nama": "Viky Sianipar Inc.",
+                    "rating": 4.5,
+                    "location": "-6.2139767,106.8439515",
+                    "user_ratings_total": 182,
+                    "printed": "Viky Sianipar Inc. - 4.5 - 182 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks",
+                    "rating": 4.5,
+                    "location": "-6.2157754,106.8301967",
+                    "user_ratings_total": 912,
+                    "printed": "Starbucks - 4.5 - 912 review"
+                },
+                {
+                    "nama": "Starbucks",
+                    "rating": 4.5,
+                    "location": "-6.2206375,106.8323776",
+                    "user_ratings_total": 570,
+                    "printed": "Starbucks - 4.5 - 570 review"
+                },
+                {
+                    "nama": "Starbucks Rasuna Epicentrum",
+                    "rating": 4.4,
+                    "location": "-6.2179162,106.8350783",
+                    "user_ratings_total": 416,
+                    "printed": "Starbucks Rasuna Epicentrum - 4.4 - 416 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": [
+                {
+                    "nama": "ACE Hardware - Kota Kasablanka",
+                    "rating": 4.6,
+                    "location": "-6.2222965,106.8423884",
+                    "user_ratings_total": 905,
+                    "printed": "ACE Hardware - Kota Kasablanka - 4.6 - 905 review"
+                },
+                {
+                    "nama": "ACE HARDWARE - EPIWALK KUNINGAN",
+                    "rating": 4.5,
+                    "location": "-6.218128099999999,106.8354255",
+                    "user_ratings_total": 152,
+                    "printed": "ACE HARDWARE - EPIWALK KUNINGAN - 4.5 - 152 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        },
+        {
+            "keyword": "Mc Donald's",
+            "data": [
+                {
+                    "nama": "McDonald's",
+                    "rating": 4.5,
+                    "location": "-6.220647899999999,106.8324844",
+                    "user_ratings_total": 4663,
+                    "printed": "McDonald's - 4.5 - 4663 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Electronic City",
+            "data": []
+        },
+        {
+            "keyword": "Co Working Space",
+            "data": [
+                {
+                    "nama": "Coworkinc",
+                    "rating": 4.6,
+                    "location": "-6.2196288,106.8319934",
+                    "routes_distance": "1.5 km",
+                    "user_ratings_total": 197,
+                    "printed": "Coworkinc - 4.6 - 197 review"
+                },
+                {
+                    "nama": "Impact Hub Jakarta",
+                    "rating": 5,
+                    "location": "-6.219606,106.8320397",
+                    "routes_distance": "1.5 km",
+                    "user_ratings_total": 9,
+                    "printed": "Impact Hub Jakarta - 5 - 9 review"
+                },
+                {
+                    "nama": "Spacemob Gama",
+                    "rating": 4.6,
+                    "location": "-6.224006,106.833789",
+                    "routes_distance": "2.2 km",
+                    "user_ratings_total": 46,
+                    "printed": "Spacemob Gama - 4.6 - 46 review"
+                },
+                {
+                    "nama": "Ko+labora Flexispace",
+                    "rating": 4.9,
+                    "location": "-6.2135678,106.8287108",
+                    "routes_distance": "3.3 km",
+                    "user_ratings_total": 10,
+                    "printed": "Ko+labora Flexispace - 4.9 - 10 review"
+                },
+                {
+                    "nama": "Rooftop 24 Coworking Space & Pisa Mart",
+                    "rating": 5,
+                    "location": "-6.2199197,106.8269168",
+                    "routes_distance": "3.3 km",
+                    "user_ratings_total": 2,
+                    "printed": "Rooftop 24 Coworking Space & Pisa Mart - 5 - 2 review"
+                },
+                {
+                    "nama": "WU Hub Coworking Space",
+                    "rating": 4.4,
+                    "location": "-6.2138784,106.8311068",
+                    "routes_distance": "697 m",
+                    "user_ratings_total": 75,
+                    "printed": "WU Hub Coworking Space - 4.4 - 75 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Halte Transjakarta",
+            "data": [
+                {
+                    "nama": "Setiabudi Utara Aini 1",
+                    "rating": 4.3,
+                    "location": "-6.2081973,106.8301081",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 20,
+                    "printed": "Setiabudi Utara Aini 1 - 4.3 - 20 review"
+                },
+                {
+                    "nama": "Setiabudi Utara Aini",
+                    "rating": 4.3,
+                    "location": "-6.208463,106.830183",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 11,
+                    "printed": "Setiabudi Utara Aini - 4.3 - 11 review"
+                },
+                {
+                    "nama": "Karet Kuningan 1",
+                    "rating": 3.8,
+                    "location": "-6.2173859,106.8310774",
+                    "routes_distance": "1.3 km",
+                    "user_ratings_total": 13,
+                    "printed": "Karet Kuningan 1 - 3.8 - 13 review"
+                },
+                {
+                    "nama": "Halimun",
+                    "rating": 3.4,
+                    "location": "-6.205127699999999,106.8333873",
+                    "routes_distance": "1.6 km",
+                    "user_ratings_total": 10,
+                    "printed": "Halimun - 3.4 - 10 review"
+                },
+                {
+                    "nama": "Halte Halimun",
+                    "rating": 3.8,
+                    "location": "-6.2050595,106.8325191",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 22,
+                    "printed": "Halte Halimun - 3.8 - 22 review"
+                },
+                {
+                    "nama": "GOR Soemantri 1",
+                    "rating": 4.5,
+                    "location": "-6.2208853,106.8322681",
+                    "routes_distance": "1.7 km",
+                    "user_ratings_total": 11,
+                    "printed": "GOR Soemantri 1 - 4.5 - 11 review"
+                },
+                {
+                    "nama": "GOR Sumantri",
+                    "rating": 4.1,
+                    "location": "-6.2210012,106.8318541",
+                    "routes_distance": "2.6 km",
+                    "user_ratings_total": 66,
+                    "printed": "GOR Sumantri - 4.1 - 66 review"
+                },
+                {
+                    "nama": "Karet Kuningan 2",
+                    "rating": 4.3,
+                    "location": "-6.21733,106.83067",
+                    "routes_distance": "3.0 km",
+                    "user_ratings_total": 19,
+                    "printed": "Karet Kuningan 2 - 4.3 - 19 review"
+                },
+                {
+                    "nama": "Latuharhary",
+                    "rating": 4.4,
+                    "location": "-6.2028065,106.8276578",
+                    "routes_distance": "3.1 km",
+                    "user_ratings_total": 33,
+                    "printed": "Latuharhary - 4.4 - 33 review"
+                },
+                {
+                    "nama": "Kuningan Madya Aini",
+                    "rating": 4.2,
+                    "location": "-6.21266,106.83042",
+                    "routes_distance": "3.5 km",
+                    "user_ratings_total": 44,
+                    "printed": "Kuningan Madya Aini - 4.2 - 44 review"
+                },
+                {
+                    "nama": "Pasar Rumput",
+                    "rating": 4.2,
+                    "location": "-6.2071384,106.8411367",
+                    "routes_distance": "4.2 km",
+                    "user_ratings_total": 136,
+                    "printed": "Pasar Rumput - 4.2 - 136 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kelurahan",
+            "data": [
+                {
+                    "nama": "KANTOR KELURAHAN SETIA BUDI",
+                    "rating": 5,
+                    "location": "-6.2082574,106.8240108",
+                    "routes_distance": "3.2 km",
+                    "user_ratings_total": 1,
+                    "printed": "KANTOR KELURAHAN SETIA BUDI - 5 - 1 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Pegangsaan Jakarta Pusat",
+                    "rating": 4.3,
+                    "location": "-6.204030899999999,106.8502538",
+                    "routes_distance": "3.9 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Pegangsaan Jakarta Pusat - 4.3 - 21 review"
+                },
+                {
+                    "nama": "Kantor Lurah Gondangdia",
+                    "rating": 3.2,
+                    "location": "-6.190382199999999,106.8346434",
+                    "routes_distance": "4.0 km",
+                    "user_ratings_total": 11,
+                    "printed": "Kantor Lurah Gondangdia - 3.2 - 11 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kuningan Timur",
+                    "rating": 4.3,
+                    "location": "-6.227610899999999,106.8306336",
+                    "routes_distance": "4.1 km",
+                    "user_ratings_total": 14,
+                    "printed": "Kantor Kelurahan Kuningan Timur - 4.3 - 14 review"
+                },
+                {
+                    "nama": "Kantor Lurah Manggarai Selatan",
+                    "rating": 4.2,
+                    "location": "-6.2181169,106.8471166",
+                    "routes_distance": "4.3 km",
+                    "user_ratings_total": 18,
+                    "printed": "Kantor Lurah Manggarai Selatan - 4.2 - 18 review"
+                },
+                {
+                    "nama": "Kantor Lurah Cikini",
+                    "rating": 4.4,
+                    "location": "-6.188789799999999,106.8390841",
+                    "routes_distance": "4.6 km",
+                    "user_ratings_total": 23,
+                    "printed": "Kantor Lurah Cikini - 4.4 - 23 review"
+                },
+                {
+                    "nama": "Kantor Lurah Bendungan Hilir",
+                    "rating": 4.2,
+                    "location": "-6.201669000000001,106.8082743",
+                    "routes_distance": "4.8 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kantor Lurah Bendungan Hilir - 4.2 - 29 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Tebet Timur",
+                    "rating": 4.1,
+                    "location": "-6.2286079,106.8580033",
+                    "routes_distance": "5.3 km",
+                    "user_ratings_total": 21,
+                    "printed": "Kantor Kelurahan Tebet Timur - 4.1 - 21 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Paseban",
+                    "rating": 4,
+                    "location": "-6.1916663,106.8539021",
+                    "routes_distance": "5.9 km",
+                    "user_ratings_total": 29,
+                    "printed": "Kantor Kelurahan Paseban - 4 - 29 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN GAMBIR",
+                    "rating": 4.2,
+                    "location": "-6.1800766,106.8200188",
+                    "routes_distance": "5.9 km",
+                    "user_ratings_total": 5,
+                    "printed": "KANTOR KELURAHAN GAMBIR - 4.2 - 5 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Petogogan",
+                    "rating": 3.7,
+                    "location": "-6.244187399999999,106.8137346",
+                    "routes_distance": "5.9 km",
+                    "user_ratings_total": 27,
+                    "printed": "Kantor Kelurahan Petogogan - 3.7 - 27 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kebon Sirih",
+                    "rating": 3.1,
+                    "location": "-6.1841627,106.8293249",
+                    "routes_distance": "6.2 km",
+                    "user_ratings_total": 18,
+                    "printed": "Kantor Kelurahan Kebon Sirih - 3.1 - 18 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Kampung Bali",
+                    "rating": 4.3,
+                    "location": "-6.1842932,106.8178366",
+                    "routes_distance": "6.2 km",
+                    "user_ratings_total": 12,
+                    "printed": "Kantor Kelurahan Kampung Bali - 4.3 - 12 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Palmeriam",
+                    "rating": 3.9,
+                    "location": "-6.2070666,106.8614112",
+                    "routes_distance": "6.2 km",
+                    "user_ratings_total": 32,
+                    "printed": "Kantor Kelurahan Palmeriam - 3.9 - 32 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Cempaka Putih Barat",
+                    "rating": 3.7,
+                    "location": "-6.1833225,106.8676692",
+                    "routes_distance": "7.8 km",
+                    "user_ratings_total": 39,
+                    "printed": "Kantor Kelurahan Cempaka Putih Barat - 3.7 - 39 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Kantor Kecamatan",
+            "data": [
+                {
+                    "nama": "Kantor Lurah Guntur",
+                    "rating": 3.5,
+                    "location": "-6.2072134,106.8342636",
+                    "routes_distance": "1.5 km",
+                    "user_ratings_total": 4,
+                    "printed": "Kantor Lurah Guntur - 3.5 - 4 review"
+                },
+                {
+                    "nama": "Kantor Lurah Menteng Atas",
+                    "rating": 4,
+                    "location": "-6.221834899999999,106.8383922",
+                    "routes_distance": "2.3 km",
+                    "user_ratings_total": 1,
+                    "printed": "Kantor Lurah Menteng Atas - 4 - 1 review"
+                },
+                {
+                    "nama": "KANTOR KELURAHAN KARET SETIABUDI",
+                    "rating": 4,
+                    "location": "-6.210857499999999,106.8258601",
+                    "routes_distance": "3.1 km",
+                    "user_ratings_total": 2,
+                    "printed": "KANTOR KELURAHAN KARET SETIABUDI - 4 - 2 review"
+                },
+                {
+                    "nama": "Kantor Kelurahan Menteng Jakarta Pusat",
+                    "rating": 4.4,
+                    "location": "-6.2037721,106.8446467",
+                    "routes_distance": "3.4 km",
+                    "user_ratings_total": 84,
+                    "printed": "Kantor Kelurahan Menteng Jakarta Pusat - 4.4 - 84 review"
+                }
+            ]
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": [
+                {
+                    "nama": "Manggarai",
+                    "rating": 4.3,
+                    "location": "-6.209901899999998,106.8502202",
+                    "user_ratings_total": 4640,
+                    "routes_distance": "4.8 km",
+                    "printed": "Manggarai - 4.3 - 4640 review (4.8 km)"
+                },
+                {
+                    "nama": "Stasiun Sudirman",
+                    "rating": 4.4,
+                    "location": "-6.202268399999999,106.8231961",
+                    "user_ratings_total": 2217,
+                    "routes_distance": "3.9 km",
+                    "printed": "Stasiun Sudirman - 4.4 - 2217 review (3.9 km)"
+                },
+                {
+                    "nama": "Stadiun Karet",
+                    "rating": 4.1,
+                    "location": "-6.2008189,106.815776",
+                    "user_ratings_total": 615,
+                    "routes_distance": "5.8 km",
+                    "printed": "Stadiun Karet - 4.1 - 615 review (5.8 km)"
+                },
+                {
+                    "nama": "Tebet",
+                    "rating": 4.5,
+                    "location": "-6.226111800000001,106.8582931",
+                    "user_ratings_total": 2038,
+                    "routes_distance": "5.2 km",
+                    "printed": "Tebet - 4.5 - 2038 review (5.2 km)"
+                }
+            ]
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": [
+                {
+                    "nama": "Pasar Rumput",
+                    "rating": 4.2,
+                    "location": "-6.2071384,106.8411367",
+                    "user_ratings_total": 136,
+                    "routes_distance": "4.2 km",
+                    "printed": "Pasar Rumput - 4.2 - 136 review (4.2 km)"
+                }
+            ]
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "31.4 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "11.6 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "5.4 km"
+        }
+    ]
+}

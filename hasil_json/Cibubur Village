@@ -1,0 +1,313 @@
+{
+    "nama": "Cibubur Village",
+    "alamat": "Cibubur Village, Harjamukti, Kec. Cimanggis, Kota Depok, Jawa Barat, Indonesia",
+    "kecamatan": "Kecamatan Cimanggis",
+    "kelurahan": "Harjamukti",
+    "location": "-6.369689999999999,106.88798",
+    "permalink": "cibubur_village",
+    "nearby_place": [
+        {
+            "type": "hospital",
+            "data": [
+                {
+                    "nama": "Rumah Sakit Permata Cibubur",
+                    "rating": 4.4,
+                    "location": "-6.376000700000001,106.9119587",
+                    "user_ratings_total": 1383,
+                    "routes_distance": "4.0 km",
+                    "printed": "Rumah Sakit Permata Cibubur - 4.4 - 1383 review (4.0 km)"
+                }
+            ]
+        },
+        {
+            "type": "shopping_mall",
+            "data": [
+                {
+                    "nama": "Cibubur Junction",
+                    "rating": 4.4,
+                    "location": "-6.369258899999999,106.8940923",
+                    "user_ratings_total": 32759,
+                    "routes_distance": "1.0 km",
+                    "printed": "Cibubur Junction - 4.4 - 32759 review (1.0 km)"
+                },
+                {
+                    "nama": "Alfamart - OMA Indah",
+                    "rating": 4.4,
+                    "location": "-6.391759200000001,106.8823246",
+                    "user_ratings_total": 274,
+                    "routes_distance": "3.2 km",
+                    "printed": "Alfamart - OMA Indah - 4.4 - 274 review (3.2 km)"
+                },
+                {
+                    "nama": "Indomaret Cisalak",
+                    "rating": 4.6,
+                    "location": "-6.3779816,106.8651528",
+                    "user_ratings_total": 143,
+                    "routes_distance": "4.0 km",
+                    "printed": "Indomaret Cisalak - 4.6 - 143 review (4.0 km)"
+                }
+            ]
+        },
+        {
+            "type": "supermarket",
+            "data": [
+                {
+                    "nama": "Hypermart CJ",
+                    "rating": 4.5,
+                    "location": "-6.3698142,106.8939344",
+                    "user_ratings_total": 2607,
+                    "routes_distance": "2.4 km",
+                    "printed": "Hypermart CJ - 4.5 - 2607 review (2.4 km)"
+                },
+                {
+                    "nama": "Alfamart Garuda",
+                    "rating": 4.3,
+                    "location": "-6.3633168,106.8760176",
+                    "user_ratings_total": 102,
+                    "routes_distance": "2.5 km",
+                    "printed": "Alfamart Garuda - 4.3 - 102 review (2.5 km)"
+                },
+                {
+                    "nama": "Indomaret Jambore Depok",
+                    "rating": 4.3,
+                    "location": "-6.366089000000001,106.9053546",
+                    "user_ratings_total": 332,
+                    "routes_distance": "3.8 km",
+                    "printed": "Indomaret Jambore Depok - 4.3 - 332 review (3.8 km)"
+                },
+                {
+                    "nama": "Arundina Mart",
+                    "rating": 4.4,
+                    "location": "-6.351969899999999,106.8838543",
+                    "user_ratings_total": 462,
+                    "routes_distance": "2.9 km",
+                    "printed": "Arundina Mart - 4.4 - 462 review (2.9 km)"
+                },
+                {
+                    "nama": "RAMAYANA Lapangan Tembak Cibubur",
+                    "rating": 4.3,
+                    "location": "-6.3519115,106.8842335",
+                    "user_ratings_total": 2372,
+                    "routes_distance": "2.9 km",
+                    "printed": "RAMAYANA Lapangan Tembak Cibubur - 4.3 - 2372 review (2.9 km)"
+                },
+                {
+                    "nama": "Indomaret GOBEL",
+                    "rating": 4.3,
+                    "location": "-6.361342100000001,106.8711858",
+                    "user_ratings_total": 252,
+                    "routes_distance": "3.1 km",
+                    "printed": "Indomaret GOBEL - 4.3 - 252 review (3.1 km)"
+                },
+                {
+                    "nama": "Loka Supermarket Cibubur",
+                    "rating": 4.5,
+                    "location": "-6.375473400000001,106.9064335",
+                    "user_ratings_total": 1992,
+                    "routes_distance": "3.1 km",
+                    "printed": "Loka Supermarket Cibubur - 4.5 - 1992 review (3.1 km)"
+                },
+                {
+                    "nama": "Indomaret Gas Alam Depok",
+                    "rating": 4.5,
+                    "location": "-6.3821856,106.8702477",
+                    "user_ratings_total": 336,
+                    "routes_distance": "3.6 km",
+                    "printed": "Indomaret Gas Alam Depok - 4.5 - 336 review (3.6 km)"
+                },
+                {
+                    "nama": "Alfamidi Radar Auri Depok",
+                    "rating": 4.5,
+                    "location": "-6.372446999999998,106.8656123",
+                    "user_ratings_total": 171,
+                    "routes_distance": "2.8 km",
+                    "printed": "Alfamidi Radar Auri Depok - 4.5 - 171 review (2.8 km)"
+                },
+                {
+                    "nama": "Alfamart - OMA Indah",
+                    "rating": 4.4,
+                    "location": "-6.391759200000001,106.8823246",
+                    "user_ratings_total": 274,
+                    "routes_distance": "3.2 km",
+                    "printed": "Alfamart - OMA Indah - 4.4 - 274 review (3.2 km)"
+                },
+                {
+                    "nama": "Alfamidi Radar Auri 2",
+                    "rating": 4.5,
+                    "location": "-6.3694958,106.8867083",
+                    "user_ratings_total": 257,
+                    "routes_distance": "140 m",
+                    "printed": "Alfamidi Radar Auri 2 - 4.5 - 257 review (140 m)"
+                },
+                {
+                    "nama": "Alfamidi Jambore",
+                    "rating": 4.1,
+                    "location": "-6.365752,106.8879183",
+                    "user_ratings_total": 162,
+                    "routes_distance": "562 m",
+                    "printed": "Alfamidi Jambore - 4.1 - 162 review (562 m)"
+                },
+                {
+                    "nama": "Alfamidi Putri Tunggal Depok",
+                    "rating": 4.4,
+                    "location": "-6.373608499999999,106.8869164",
+                    "user_ratings_total": 281,
+                    "routes_distance": "496 m",
+                    "printed": "Alfamidi Putri Tunggal Depok - 4.4 - 281 review (496 m)"
+                }
+            ]
+        },
+        {
+            "type": "university",
+            "data": []
+        },
+        {
+            "type": "school",
+            "data": [
+                {
+                    "nama": "Pondok Pesantren Babussalam",
+                    "rating": 4.8,
+                    "location": "-6.369817200000001,106.8821293",
+                    "user_ratings_total": 167,
+                    "routes_distance": "879 m",
+                    "printed": "Pondok Pesantren Babussalam - 4.8 - 167 review (879 m)"
+                },
+                {
+                    "nama": "SMP putri Ibnu hajar bording school",
+                    "rating": 4.6,
+                    "location": "-6.377507,106.8969995",
+                    "user_ratings_total": 103,
+                    "routes_distance": "2.7 km",
+                    "printed": "SMP putri Ibnu hajar bording school - 4.6 - 103 review (2.7 km)"
+                }
+            ]
+        }
+    ],
+    "restaurants_at_mall": [
+        {
+            "shopping_mall": "Cibubur Junction",
+            "restaurants": [
+                {
+                    "nama": "Gubug Udang Situ Cibubur",
+                    "rating": 4.4,
+                    "location": "-6.370084500000001,106.896917",
+                    "user_ratings_total": 10824,
+                    "printed": "Gubug Udang Situ Cibubur - 4.4 - 10824 review"
+                },
+                {
+                    "nama": "McDonald's Cibubur",
+                    "rating": 4.5,
+                    "location": "-6.3704014,106.8968912",
+                    "user_ratings_total": 7417,
+                    "printed": "McDonald's Cibubur - 4.5 - 7417 review"
+                },
+                {
+                    "nama": "BAKMI GM Cibubur",
+                    "rating": 4.4,
+                    "location": "-6.3702307,106.8941663",
+                    "user_ratings_total": 1384,
+                    "printed": "BAKMI GM Cibubur - 4.4 - 1384 review"
+                },
+                {
+                    "nama": "Pizza Hut Restoran",
+                    "rating": 4.6,
+                    "location": "-6.3705367,106.8966548",
+                    "user_ratings_total": 1153,
+                    "printed": "Pizza Hut Restoran - 4.6 - 1153 review"
+                },
+                {
+                    "nama": "HokBen Cibubur Junction",
+                    "rating": 4.4,
+                    "location": "-6.3691024,106.8941448",
+                    "user_ratings_total": 1096,
+                    "printed": "HokBen Cibubur Junction - 4.4 - 1096 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Alfamart - OMA Indah",
+            "restaurants": [
+                {
+                    "nama": "Nasi Goreng Mas Ikin",
+                    "rating": 4.6,
+                    "location": "-6.392981400000001,106.8823928",
+                    "user_ratings_total": 112,
+                    "printed": "Nasi Goreng Mas Ikin - 4.6 - 112 review"
+                }
+            ]
+        },
+        {
+            "shopping_mall": "Indomaret Cisalak",
+            "restaurants": [
+                {
+                    "nama": "Pizza Hut Restoran",
+                    "rating": 4.5,
+                    "location": "-6.377507,106.8646832",
+                    "user_ratings_total": 2503,
+                    "printed": "Pizza Hut Restoran - 4.5 - 2503 review"
+                },
+                {
+                    "nama": "RM Anggrek '88'",
+                    "rating": 4.4,
+                    "location": "-6.377902799999999,106.8654554",
+                    "user_ratings_total": 271,
+                    "printed": "RM Anggrek '88' - 4.4 - 271 review"
+                }
+            ]
+        }
+    ],
+    "keyword_data": [
+        {
+            "keyword": "Starbucks",
+            "data": [
+                {
+                    "nama": "Starbucks Coffee",
+                    "rating": 4.5,
+                    "location": "-6.374746399999999,106.8971826",
+                    "user_ratings_total": 1778,
+                    "printed": "Starbucks Coffee - 4.5 - 1778 review"
+                }
+            ]
+        },
+        {
+            "keyword": "Ace Hardware",
+            "data": []
+        },
+        {
+            "keyword": "Guardian",
+            "data": []
+        },
+        {
+            "keyword": "Century",
+            "data": []
+        }
+    ],
+    "dynamic_transport": [
+        {
+            "type": "train_station",
+            "data": []
+        },
+        {
+            "type": "subway_station",
+            "data": []
+        },
+        {
+            "type": "bus_station",
+            "data": []
+        }
+    ],
+    "static_transport": [
+        {
+            "destination": "Bandara Soekarno Hatta",
+            "routes_distance": "49.2 km"
+        },
+        {
+            "destination": "Bandara Halim Perdana Kusuma",
+            "routes_distance": "17.4 km"
+        },
+        {
+            "destination": "Stasiun Gambir",
+            "routes_distance": "28.1 km"
+        }
+    ]
+}
