@@ -53,7 +53,7 @@ list_apartemen = [
 ]
 
 detail_list_apartemen = []
-API_KEY = "AIzaSyD5OW9Gr8JmUuaG_SKYEoy8hYLAybTwHmE"
+API_KEY = ""
 
 for apartemen in list_apartemen:
     apartemen_formatted = apartemen.replace(" ", "%20")
